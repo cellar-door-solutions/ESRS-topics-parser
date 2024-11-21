@@ -1,0 +1,290 @@
+{
+  "Topic": "Thema",
+  "SubTopic": "Unterthema",
+  "SubSubTopic": "Unter-Unterthemen",
+  "Topics": [
+    {
+      "Esrs": "ESRS E1",
+      "TopicName": "Klimawandel",
+      "SubTopic": [
+        "Anpassung an den Klimawandel",
+        "Klimaschutz",
+        "Energie"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E2",
+      "TopicName": "Umweltverschmutzung",
+      "SubTopic": [
+        "Luftverschmutzung",
+        "Wasserverschmutzung",
+        "Bodenverschmutzung",
+        "Verschmutzung von lebenden Organismen und Nahrungsressourcen",
+        "Besorgniserregende Stoffe",
+        "Besonders besorgniserregende Stoffe",
+        "Mikroplastik"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E3",
+      "TopicName": "Wasser-und Meeres-ressourcen",
+      "SubTopic": [
+        "Wasser",
+        "Meeresressourcen"
+      ],
+      "SubSubTopics": [
+        "Wasserverbrauch",
+        "Wasserentnahme",
+        "Ableitung von Wasser",
+        "Ableitung von Wasser in die Ozeane",
+        "Gewinnung und Nutzung von Meeresressourcen"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biologische Vielfalt und Ökosysteme",
+      "SubTopic": [
+        "Direkte Ursachen des Biodiversitätsverlusts"
+      ],
+      "SubSubTopics": [
+        "Klimawandel",
+        "Landnutzungsänderungen, Süßwasser- und Meeresnutzungsänderungen",
+        "Direkte Nutzung",
+        "Invasive gebietsfremde Arten",
+        "Umweltverschmutzung",
+        "Sonstige"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biologische Vielfalt und Ökosysteme",
+      "SubTopic": [
+        "Auswirkungen auf den Zustand der Arten"
+      ],
+      "SubSubTopics": [
+        "Beispiele:",
+        "Populationsgröße von Arten",
+        "Globales Ausrottungsrisiko von Arten"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biologische Vielfalt und Ökosysteme",
+      "SubTopic": [
+        "Auswirkungen auf den Umfang und den Zustand von Ökosystemen"
+      ],
+      "SubSubTopics": [
+        "Beispiele:",
+        "Landdegradation",
+        "Wüstenbildung",
+        "Bodenversiegelung"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biologische Vielfalt und Ökosysteme",
+      "SubTopic": [
+        "Auswirkungen und Abhängigkeiten von Ökosystemdienstleistungen"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E5",
+      "TopicName": "Kreislaufwirtschaft",
+      "SubTopic": [
+        "Ressourcenzuflüsse, einschließlich Ressourcennutzung",
+        "Ressourcenabflüsse im Zusammenhang mit Produkten und Dienstleistungen",
+        "Abfälle"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Arbeitskräfte des Unternehmens",
+      "SubTopic": [
+        "Arbeitsbedingungen"
+      ],
+      "SubSubTopics": [
+        "Sichere Beschäftigung",
+        "Arbeitszeit",
+        "Angemessene Entlohnung",
+        "Sozialer Dialog",
+        "Vereinigungsfreiheit, Existenz von Betriebsräten und Rechte der Arbeitnehmer auf Information, Anhörung und Mitbestimmung",
+        "Tarifverhandlungen, einschließlich der Quote der durch Tarifverträge abgedeckten Arbeitskräften",
+        "Vereinbarkeit von Berufs- und Privatleben",
+        "Gesundheitsschutz und Sicherheit"
+      ]
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Arbeitskräfte des Unternehmens",
+      "SubTopic": [
+        "Gleichbehandlung und Chancengleichheit für alle"
+      ],
+      "SubSubTopics": [
+        "Gleichstellung der Geschlechter und gleicher Lohn für gleiche Arbeit",
+        "Weiterbildung und Kompetenzentwicklung",
+        "Beschäftigung und Inklusion von Menschen mit Behinderungen",
+        "Maßnahmen gegen Gewalt und Belästigung am Arbeitsplatz",
+        "Vielfalt"
+      ]
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Arbeitskräfte des Unternehmens",
+      "SubTopic": [
+        "Sonstige arbeitsbezogene Rechte"
+      ],
+      "SubSubTopics": [
+        "Kinderarbeit",
+        "Zwangsarbeit",
+        "Angemessene Unterbringung",
+        "Datenschutz"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Arbeitskräfte in der Wertschöpfungskette",
+      "SubTopic": [
+        "Arbeitsbedingungen"
+      ],
+      "SubSubTopics": [
+        "Sichere Beschäftigung",
+        "Arbeitszeit",
+        "Angemessene Entlohnung",
+        "Sozialer Dialog",
+        "Vereinigungsfreiheit, einschließlich der Existenz von Betriebsräten",
+        "Tarifverhandlungen",
+        "Vereinbarkeit von Berufs- und Privatleben",
+        "Gesundheitsschutz und Sicherheit"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Arbeitskräfte in der Wertschöpfungskette",
+      "SubTopic": [
+        "Gleichbehandlung und Chancengleichheit für alle"
+      ],
+      "SubSubTopics": [
+        "Gleichstellung der Geschlechter und gleicher Lohn für gleiche Arbeit",
+        "Weiterbildung und Kompetenzentwicklung",
+        "Beschäftigung und Inklusion von Menschen mit Behinderungen",
+        "Maßnahmen gegen Gewalt und Belästigung am Arbeitsplatz",
+        "Vielfalt"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Arbeitskräfte in der Wertschöpfungskette",
+      "SubTopic": [
+        "Sonstige arbeitsbezogene Rechte"
+      ],
+      "SubSubTopics": [
+        "Kinderarbeit",
+        "Zwangsarbeit",
+        "Angemessene Unterbringung",
+        "Wasser- und Sanitäreinrichtungen",
+        "Datenschutz"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Betroffene Gemeinschaften",
+      "SubTopic": [
+        "Wirtschaftliche, soziale und kulturelle Rechte von Gemeinschaften"
+      ],
+      "SubSubTopics": [
+        "Angemessene Unterbringung",
+        "Angemessene Ernährung",
+        "Wasser- und Sanitäreinrichtungen",
+        "Bodenbezogene Auswirkungen",
+        "Sicherheitsbezogene Auswirkungen"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Betroffene Gemeinschaften",
+      "SubTopic": [
+        "Bürgerrechte und politische Rechte von Gemeinschaften"
+      ],
+      "SubSubTopics": [
+        "Meinungsfreiheit",
+        "Versammlungsfreiheit",
+        "Auswirkungen auf Menschenrechtsverteidiger"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Betroffene Gemeinschaften",
+      "SubTopic": [
+        "Rechte indigener Völker"
+      ],
+      "SubSubTopics": [
+        "Freiwillige und in Kenntnis der Sachlage erteilte vorherige Zustimmung",
+        "Selbstbestimmung",
+        "Kulturelle Rechte"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Verbraucher und End-nutzer",
+      "SubTopic": [
+        "Informationsbezogene Auswirkungen für Verbraucher und/oder Endnutzer"
+      ],
+      "SubSubTopics": [
+        "Datenschutz",
+        "Meinungsfreiheit",
+        "Zugang zu (hochwertigen) Informationen"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Verbraucher und End-nutzer",
+      "SubTopic": [
+        "Persönliche Sicherheit von Verbrauchern und/oder Endnutzern"
+      ],
+      "SubSubTopics": [
+        "Gesundheitsschutz und Sicherheit",
+        "Persönliche Sicherheit",
+        "Kinderschutz"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Verbraucher und End-nutzer",
+      "SubTopic": [
+        "Soziale Inklusion von Verbrauchern und/oder Endnutzern"
+      ],
+      "SubSubTopics": [
+        "Nichtdiskriminierung",
+        "Zugang zu Produkten und Dienstleistungen",
+        "Verantwortliche Vermarktungspraktiken"
+      ]
+    },
+    {
+      "Esrs": "ESRS G1",
+      "TopicName": "Unternehmensführung",
+      "SubTopic": [
+        "Unternehmenskultur",
+        "Schutz von Hinweisgebern (Whistleblowers)",
+        "Tierschutz",
+        "Politisches Engagement und Lobbytätigkeiten",
+        "Management der Beziehungen zu Lieferanten, einschließlich Zahlungspraktiken"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS G1",
+      "TopicName": "Unternehmensführung",
+      "SubTopic": [
+        "Korruption und Bestechung"
+      ],
+      "SubSubTopics": [
+        "Vermeidung und Aufdeckung einschließlich Schulung",
+        "Vorkommnisse"
+      ]
+    }
+  ]
+}

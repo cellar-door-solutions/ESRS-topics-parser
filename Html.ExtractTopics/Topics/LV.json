@@ -1,0 +1,290 @@
+{
+  "Topic": "Temats",
+  "SubTopic": "Apakštemats",
+  "SubSubTopic": "Apakštemata apakštemati",
+  "Topics": [
+    {
+      "Esrs": "ESRS E1",
+      "TopicName": "Klimata pārmaiņas",
+      "SubTopic": [
+        "Pielāgošanās klimata pārmaiņām",
+        "Klimata pārmaiņu mazināšana",
+        "Enerģētika"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E2",
+      "TopicName": "Piesārņojums",
+      "SubTopic": [
+        "Gaisa piesārņojums",
+        "Ūdeņu piesārņojums",
+        "Augsnes piesārņojums",
+        "Dzīvo organismu un pārtikas resursu piesārņojums",
+        "Vielas, kas rada bažas",
+        "Vielas, kas rada ļoti lielas bažas",
+        "Mikroplastmasa"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E3",
+      "TopicName": "Ūdens un jūras resursi",
+      "SubTopic": [
+        "Ūdens",
+        "Jūras resursi"
+      ],
+      "SubSubTopics": [
+        "Ūdens patēriņš",
+        "Ūdens ņemšana",
+        "Ūdens novadīšana",
+        "Ūdens novadīšana okeānā",
+        "Jūras resursu ieguve un izmantojums"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biodaudzveidība un ekosistēmas",
+      "SubTopic": [
+        "Tiešie biodaudzveidības izzušanas ietekmes faktori"
+      ],
+      "SubSubTopics": [
+        "Klimata pārmaiņas",
+        "Zemes izmantojuma maiņa, saldūdens izmantojuma maiņa un jūras izmantojuma maiņa",
+        "Tieša ekspluatācija",
+        "Invazīvas svešzemju sugas",
+        "Piesārņojums",
+        "Citi"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biodaudzveidība un ekosistēmas",
+      "SubTopic": [
+        "Ietekme uz sugu stāvokli"
+      ],
+      "SubSubTopics": [
+        "Piemēram:",
+        "Sugas populācijas lielums",
+        "Sugas globālās izmiršanas risks"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biodaudzveidība un ekosistēmas",
+      "SubTopic": [
+        "Ietekme uz ekosistēmu apjomu un stāvokli"
+      ],
+      "SubSubTopics": [
+        "Piemēram:",
+        "Zemes degradācija",
+        "Pārtuksnešošanās",
+        "Augsnes noslēgšana"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biodaudzveidība un ekosistēmas",
+      "SubTopic": [
+        "Ietekme uz ekosistēmu pakalpojumiem un atkarība no tiem"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E5",
+      "TopicName": "Aprites ekonomika",
+      "SubTopic": [
+        "Ienākošie resursi, tajā skaitā resursu izmantojums",
+        "Izejošie resursi, kas saistīti ar produktiem un pakalpojumiem",
+        "Atkritumi"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Pašu personāls",
+      "SubTopic": [
+        "Darba nosacījumi"
+      ],
+      "SubSubTopics": [
+        "Droša nodarbinātība",
+        "Darba laiks",
+        "Adekvātas algas",
+        "Sociālais dialogs",
+        "Biedrošanās brīvība, uzņēmumu padomju pastāvēšana un darbinieku tiesības uz informāciju, konsultācijām un līdzdalību",
+        "Koplīguma sarunas, arī to darbinieku īpatsvars, uz kuriem attiecas koplīgumi",
+        "Darba un privātās dzīves līdzsvars",
+        "Darba aizsardzība"
+      ]
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Pašu personāls",
+      "SubTopic": [
+        "Vienlīdzīga attieksme un iespējas visiem"
+      ],
+      "SubSubTopics": [
+        "Dzimumu līdztiesība un vienāda darba samaksa par līdzvērtīgu darbu",
+        "Apmācība un prasmju pilnveide",
+        "Personu ar invaliditāti nodarbināšana un iekļaušana",
+        "Pasākumi pret vardarbību un aizskaršanu darbavietā",
+        "Daudzveidība"
+      ]
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Pašu personāls",
+      "SubTopic": [
+        "Citas ar darbu saistītas tiesības"
+      ],
+      "SubSubTopics": [
+        "Bērnu darbs",
+        "Piespiedu darbs",
+        "Pienācīgi mājokļi",
+        "Privātums"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Darbinieki vērtības ķēdē",
+      "SubTopic": [
+        "Darba nosacījumi"
+      ],
+      "SubSubTopics": [
+        "Droša nodarbinātība",
+        "Darba laiks",
+        "Adekvātas algas",
+        "Sociālais dialogs",
+        "Biedrošanās brīvība, tajā skaitā uzņēmumu padomju pastāvēšana",
+        "Koplīguma sarunas",
+        "Darba un privātās dzīves līdzsvars",
+        "Darba aizsardzība"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Darbinieki vērtības ķēdē",
+      "SubTopic": [
+        "Vienlīdzīga attieksme un iespējas visiem"
+      ],
+      "SubSubTopics": [
+        "Dzimumu līdztiesība un vienāda darba samaksa par līdzvērtīgu darbu",
+        "Apmācība un prasmju pilnveide",
+        "Personu ar invaliditāti nodarbinātība un iekļaušana",
+        "Pasākumi pret vardarbību un aizskaršanu darbavietā",
+        "Daudzveidība"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Darbinieki vērtības ķēdē",
+      "SubTopic": [
+        "Citas ar darbu saistītas tiesības"
+      ],
+      "SubSubTopics": [
+        "Bērnu darbs",
+        "Piespiedu darbs",
+        "Pienācīgi mājokļi",
+        "Ūdens un sanitārija",
+        "Privātums"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Skartās kopienas",
+      "SubTopic": [
+        "Kopienu ekonomiskās, sociālās un kultūras tiesības"
+      ],
+      "SubSubTopics": [
+        "Pienācīgi mājokļi",
+        "Atbilstoša pārtika",
+        "Ūdens un sanitārija",
+        "Ar zemi saistīta ietekme",
+        "Ar drošību saistīta ietekme"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Skartās kopienas",
+      "SubTopic": [
+        "Kopienu pilsoniskās un politiskās tiesības"
+      ],
+      "SubSubTopics": [
+        "Vārda brīvība",
+        "Pulcēšanās brīvība",
+        "Ietekmes uz cilvēktiesību aizstāvjiem"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Skartās kopienas",
+      "SubTopic": [
+        "Pirmiedzīvotāju tautu tiesības"
+      ],
+      "SubSubTopics": [
+        "Brīvprātīga, iepriekšēja un informēta piekrišana",
+        "Pašnoteikšanās",
+        "Kultūras tiesības"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Patērētāji un tiešie lietotāji",
+      "SubTopic": [
+        "Ar informāciju saistīta ietekme uz patērētājiem un/vai tiešajiem lietotājiem"
+      ],
+      "SubSubTopics": [
+        "Privātums",
+        "Vārda brīvība",
+        "Piekļuve (kvalitatīvai) informācijai"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Patērētāji un tiešie lietotāji",
+      "SubTopic": [
+        "Patērētāju un/vai tiešo lietotāju personiskā drošība"
+      ],
+      "SubSubTopics": [
+        "Darba aizsardzība",
+        "Personas drošība",
+        "Bērnu aizsardzība"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Patērētāji un tiešie lietotāji",
+      "SubTopic": [
+        "Patērētāju un/vai tiešo lietotāju sociālā iekļaušana"
+      ],
+      "SubSubTopics": [
+        "Nediskriminēšana",
+        "Piekļuve produktiem un pakalpojumiem",
+        "Atbildīga tirgvedības prakse"
+      ]
+    },
+    {
+      "Esrs": "ESRS G1",
+      "TopicName": "Darījumdarbība",
+      "SubTopic": [
+        "Korporatīvā kultūra",
+        "Trauksmes cēlēju aizsardzība",
+        "Dzīvnieku labturība",
+        "Politiskā iesaiste un lobēšanas darbības",
+        "Attiecību ar piegādātājiem pārvaldība, tajā skaitā saistībā ar maksājumu veikšanas praksi"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS G1",
+      "TopicName": "Darījumdarbība",
+      "SubTopic": [
+        "Korupcija un kukuļošana"
+      ],
+      "SubSubTopics": [
+        "Novēršana un atklāšana, arī apmācība",
+        "Incidenti"
+      ]
+    }
+  ]
+}

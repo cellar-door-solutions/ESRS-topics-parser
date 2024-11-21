@@ -1,0 +1,290 @@
+{
+  "Topic": "Ämne",
+  "SubTopic": "Underämne",
+  "SubSubTopic": "Del-underämnen",
+  "Topics": [
+    {
+      "Esrs": "ESRS E1",
+      "TopicName": "Klimatförändringar",
+      "SubTopic": [
+        "Anpassning till klimatförändringar",
+        "Begränsning av klimatförändringar",
+        "Energi"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E2",
+      "TopicName": "Miljöförorening",
+      "SubTopic": [
+        "Miljöförorening av luft",
+        "Miljöförorening av vatten",
+        "Miljöförorening av mark",
+        "Miljöförorening av levande organismer och livsmedelsresurser",
+        "Ämnen som inger betänkligheter",
+        "Ämnen som inger mycket stora betänkligheter",
+        "Mikroplast"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E3",
+      "TopicName": "Vattenresurser och marina resurser",
+      "SubTopic": [
+        "Vatten",
+        "Marina resurser"
+      ],
+      "SubSubTopics": [
+        "Vattenförbrukning",
+        "Vattenuttag",
+        "Utsläpp av vatten",
+        "Vattenutsläpp i haven",
+        "Utvinning och användning av marina resurser"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biologisk mångfald och ekosystem",
+      "SubTopic": [
+        "Direkta påverkansfaktorer som leder till förlust av biologisk mångfald"
+      ],
+      "SubSubTopics": [
+        "Klimatförändring",
+        "Förändrad markanvändning och förändrad sötvattens- och havsvattensanvändning",
+        "Direkt exploatering",
+        "Invasiva främmande arter",
+        "Miljöförorening",
+        "Övriga"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biologisk mångfald och ekosystem",
+      "SubTopic": [
+        "Inverkningar på arters tillstånd"
+      ],
+      "SubSubTopics": [
+        "Exempel:",
+        "Arters populationsstorlek",
+        "Arters risk för globalt utdöende"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biologisk mångfald och ekosystem",
+      "SubTopic": [
+        "Inverkningar på ekosystems omfattning och tillstånd"
+      ],
+      "SubSubTopics": [
+        "Exempel:",
+        "Markförstöring",
+        "Ökenspridning",
+        "Hårdgörning av mark"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biologisk mångfald och ekosystem",
+      "SubTopic": [
+        "Inverkningar på och beroenden av ekosystemtjänster"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E5",
+      "TopicName": "Cirkulär ekonomi",
+      "SubTopic": [
+        "Resursinflöden, inklusive resursanvändning",
+        "Resursutflöden relaterade till produkter och tjänster",
+        "Avfall"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Den egna arbetskraften",
+      "SubTopic": [
+        "Arbetsvillkor"
+      ],
+      "SubSubTopics": [
+        "Trygg anställning",
+        "Arbetstid",
+        "Rimliga löner",
+        "Social dialog",
+        "Föreningsfrihet, förekomsten av företagsråd och arbetstagares rätt till information, samråd och deltagande",
+        "Kollektivförhandlingar, inbegripet andelen arbetstagare som omfattas av kollektivavtal",
+        "Balans mellan arbete och privatliv",
+        "Hälsa och säkerhet"
+      ]
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Den egna arbetskraften",
+      "SubTopic": [
+        "Likabehandling och lika möjligheter för alla"
+      ],
+      "SubSubTopics": [
+        "Jämställdhet och lika lön för likvärdigt arbete",
+        "Utbildning och kompetensutveckling",
+        "Sysselsättning och social delaktighet för personer med funktionsnedsättning",
+        "Åtgärder mot våld och trakasserier på arbetsplatsen",
+        "Mångfald"
+      ]
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Den egna arbetskraften",
+      "SubTopic": [
+        "Andra arbetsrelaterade rättigheter"
+      ],
+      "SubSubTopics": [
+        "Barnarbete",
+        "Tvångsarbete",
+        "Tillräckliga bostäder",
+        "Personlig integritet"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Arbetstagare i värdekedjan",
+      "SubTopic": [
+        "Arbetsvillkor"
+      ],
+      "SubSubTopics": [
+        "Trygg anställning",
+        "Arbetstid",
+        "Rimliga löner",
+        "Social dialog",
+        "Föreningsfrihet, inklusive förekomsten av företagsråd",
+        "Kollektivförhandlingar",
+        "Balans mellan arbete och privatliv",
+        "Hälsa och säkerhet"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Arbetstagare i värdekedjan",
+      "SubTopic": [
+        "Likabehandling och lika möjligheter för alla"
+      ],
+      "SubSubTopics": [
+        "Jämställdhet och lika lön för likvärdigt arbete",
+        "Utbildning och kompetensutveckling",
+        "Sysselsättning och social delaktighet för personer med funktionsnedsättning",
+        "Åtgärder mot våld och trakasserier på arbetsplatsen",
+        "Mångfald"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Arbetstagare i värdekedjan",
+      "SubTopic": [
+        "Andra arbetsrelaterade rättigheter"
+      ],
+      "SubSubTopics": [
+        "Barnarbete",
+        "Tvångsarbete",
+        "Tillräckliga bostäder",
+        "Vatten och sanitet",
+        "Personlig integritet"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Berörda samhällen",
+      "SubTopic": [
+        "Samhällens ekonomiska, sociala och kulturella rättigheter"
+      ],
+      "SubSubTopics": [
+        "Tillräckliga bostäder",
+        "Tillräckliga livsmedel",
+        "Vatten och sanitet",
+        "Markrelaterade inverkningar",
+        "Säkerhetsrelaterade inverkningar"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Berörda samhällen",
+      "SubTopic": [
+        "Samhällens civila och politiska rättigheter"
+      ],
+      "SubSubTopics": [
+        "Yttrandefrihet",
+        "Mötesfrihet",
+        "Inverkningar på människorättsaktivister"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Berörda samhällen",
+      "SubTopic": [
+        "Urfolks rättigheter"
+      ],
+      "SubSubTopics": [
+        "Fritt, på förhand inhämtat och välinformerat samtycke",
+        "Självbestämmande",
+        "Kulturella rättigheter"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Konsumenter och slutanvändare",
+      "SubTopic": [
+        "Informationsrelaterade inverkningar för konsumenter och/eller slutanvändare"
+      ],
+      "SubSubTopics": [
+        "Personlig integritet",
+        "Yttrandefrihet",
+        "Tillgång till (kvalitets)information"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Konsumenter och slutanvändare",
+      "SubTopic": [
+        "Personlig säkerhet för konsumenter och/eller slutanvändare"
+      ],
+      "SubSubTopics": [
+        "Hälsa och säkerhet",
+        "En persons säkerhet",
+        "Skydd av barn"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Konsumenter och slutanvändare",
+      "SubTopic": [
+        "Social inkludering för konsumenter och/eller slutanvändare"
+      ],
+      "SubSubTopics": [
+        "Icke-diskriminering",
+        "Tillgång till varor och tjänster",
+        "Ansvarsfulla marknadsföringsmetoder"
+      ]
+    },
+    {
+      "Esrs": "ESRS G1",
+      "TopicName": "Ansvarsfullt företagande",
+      "SubTopic": [
+        "Företagskultur",
+        "Skydd för visselblåsare",
+        "Djurskydd",
+        "Politiskt engagemang och lobbyverksamhet",
+        "Förvaltning av förbindelser med leverantörer, inbegripet betalningsrutiner"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS G1",
+      "TopicName": "Ansvarsfullt företagande",
+      "SubTopic": [
+        "Korruption och mutor"
+      ],
+      "SubSubTopics": [
+        "och upptäckt inbegripet utbildning Förebyggande",
+        "Tillbud"
+      ]
+    }
+  ]
+}

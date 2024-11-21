@@ -1,0 +1,290 @@
+{
+  "Topic": "Téma",
+  "SubTopic": "Podtéma",
+  "SubSubTopic": "Čiastkové podtémy",
+  "Topics": [
+    {
+      "Esrs": "ESRS E1",
+      "TopicName": "Zmena klímy",
+      "SubTopic": [
+        "Adaptácia na zmenu klímy",
+        "Zmierňovanie zmeny klímy",
+        "Energia"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E2",
+      "TopicName": "Znečisťovanie",
+      "SubTopic": [
+        "Znečisťovanie ovzdušia",
+        "Znečisťovanie vody",
+        "Znečisťovanie pôdy",
+        "Znečisťovanie živých organizmov a potravinových zdrojov",
+        "Látky vzbudzujúce obavy",
+        "Látky vzbudzujúce veľmi veľké obavy",
+        "Mikroplasty"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E3",
+      "TopicName": "Vodné a morské zdroje",
+      "SubTopic": [
+        "Voda",
+        "Morské zdroje"
+      ],
+      "SubSubTopics": [
+        "Spotreba vody",
+        "Odber vody",
+        "Vypúšťanie vody",
+        "Vypúšťanie vody do oceánov",
+        "Ťažba a využívanie morských zdrojov"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biodiverzita a ekosystémy",
+      "SubTopic": [
+        "Priame faktory vplyvu straty biodiverzity"
+      ],
+      "SubSubTopics": [
+        "Zmena klímy",
+        "Zmena využívania krajiny, zmena využívania sladkej vody a zmena využívania morí",
+        "Priame využívanie",
+        "Invázne nepôvodné druhy",
+        "Znečisťovanie",
+        "Ostatné"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biodiverzita a ekosystémy",
+      "SubTopic": [
+        "Vplyvy na stav druhov"
+      ],
+      "SubSubTopics": [
+        "Príklady:",
+        "Veľkosť populácie druhov",
+        "Globálne riziko vyhynutia druhov"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biodiverzita a ekosystémy",
+      "SubTopic": [
+        "Vplyvy na rozsah a stav ekosystémov"
+      ],
+      "SubSubTopics": [
+        "Príklady:",
+        "Degradácia krajiny",
+        "Dezertifikácia",
+        "Zhutňovanie pôdy"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biodiverzita a ekosystémy",
+      "SubTopic": [
+        "Vplyvy na ekosystémové služby a závislosti od nich"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E5",
+      "TopicName": "Obehové hospodárstvo",
+      "SubTopic": [
+        "Prílev zdrojov vrátane využívania zdrojov",
+        "Odlev zdrojov v súvislosti s výrobkami a službami",
+        "Odpad"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Vlastná pracovná sila",
+      "SubTopic": [
+        "Pracovné podmienky"
+      ],
+      "SubSubTopics": [
+        "Bezpečné zamestnanie",
+        "Pracovný čas",
+        "Primerané mzdy",
+        "Sociálny dialóg",
+        "Sloboda združovania, existencia zamestnaneckých rád a práva pracovníkov na informácie, konzultácie a účasť",
+        "Kolektívne vyjednávanie vrátane podielu pracovníkov, na ktorých sa vzťahujú kolektívne zmluvy",
+        "Rovnováha medzi pracovným a súkromným životom",
+        "Zdravie a bezpečnosť"
+      ]
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Vlastná pracovná sila",
+      "SubTopic": [
+        "Rovnaké zaobchádzanie a príležitosti pre všetkých"
+      ],
+      "SubSubTopics": [
+        "Rodová rovnosť a rovnaká odmena za prácu rovnakej hodnoty",
+        "Odborná príprava a rozvoj zručností",
+        "Zamestnanosť a začlenenie osôb so zdravotným postihnutím",
+        "Opatrenia proti násiliu a obťažovaniu na pracovisku",
+        "Rozmanitosť"
+      ]
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Vlastná pracovná sila",
+      "SubTopic": [
+        "Iné pracovné práva"
+      ],
+      "SubSubTopics": [
+        "Detská práca",
+        "Nútená práca",
+        "Primerané bývanie",
+        "Súkromie"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Pracovníci v hodnotovom reťazci",
+      "SubTopic": [
+        "Pracovné podmienky"
+      ],
+      "SubSubTopics": [
+        "Bezpečné zamestnanie",
+        "Pracovný čas",
+        "Primerané mzdy",
+        "Sociálny dialóg",
+        "Sloboda združovania vrátane existencie zamestnaneckých rád",
+        "Kolektívne vyjednávanie",
+        "Rovnováha medzi pracovným a súkromným životom",
+        "Zdravie a bezpečnosť"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Pracovníci v hodnotovom reťazci",
+      "SubTopic": [
+        "Rovnaké zaobchádzanie a príležitosti pre všetkých"
+      ],
+      "SubSubTopics": [
+        "Rodová rovnosť a rovnaká odmena za prácu rovnakej hodnoty",
+        "Odborná príprava a rozvoj zručností",
+        "Zamestnanosť a začlenenie osôb so zdravotným postihnutím",
+        "Opatrenia proti násiliu a obťažovaniu na pracovisku",
+        "Rozmanitosť"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Pracovníci v hodnotovom reťazci",
+      "SubTopic": [
+        "Iné pracovné práva"
+      ],
+      "SubSubTopics": [
+        "Detská práca",
+        "Nútená práca",
+        "Primerané bývanie",
+        "Voda a sanitácia",
+        "Súkromie"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Ovplyvnené spoločenstvá",
+      "SubTopic": [
+        "Hospodárske, sociálne a kultúrne práva spoločenstiev"
+      ],
+      "SubSubTopics": [
+        "Primerané bývanie",
+        "Primeraná výživa",
+        "Voda a sanitácia",
+        "Vplyvy súvisiace s krajinou",
+        "Vplyvy v oblasti bezpečnosti"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Ovplyvnené spoločenstvá",
+      "SubTopic": [
+        "Občianske a politické práva spoločenstiev"
+      ],
+      "SubSubTopics": [
+        "Sloboda prejavu",
+        "Sloboda zhromažďovania",
+        "Vplyv na obhajcov ľudských práv"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Ovplyvnené spoločenstvá",
+      "SubTopic": [
+        "Práva pôvodného obyvateľstva"
+      ],
+      "SubSubTopics": [
+        "Slobodný, predchádzajúci a informovaný súhlas",
+        "Sebaurčenie",
+        "Kultúrne práva"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Spotrebitelia a koncoví používatelia",
+      "SubTopic": [
+        "Informačné vplyvy na spotrebiteľov a/alebo koncových používateľov"
+      ],
+      "SubSubTopics": [
+        "Súkromie",
+        "Sloboda prejavu",
+        "Prístup k/ku (kvalitným) informáciám"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Spotrebitelia a koncoví používatelia",
+      "SubTopic": [
+        "Osobná bezpečnosť spotrebiteľov a/alebo koncových používateľov"
+      ],
+      "SubSubTopics": [
+        "Zdravie a bezpečnosť",
+        "Osobná bezpečnosť",
+        "Ochrana detí"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Spotrebitelia a koncoví používatelia",
+      "SubTopic": [
+        "Sociálna inklúzia spotrebiteľov a/alebo koncových používateľov"
+      ],
+      "SubSubTopics": [
+        "Nediskriminácia",
+        "Prístup k výrobkom a službám",
+        "Zodpovedné marketingové praktiky"
+      ]
+    },
+    {
+      "Esrs": "ESRS G1",
+      "TopicName": "Obchodné správanie",
+      "SubTopic": [
+        "Podniková kultúra",
+        "Ochrana oznamovateľov nekalých praktík",
+        "Dobré životné podmienky zvierat",
+        "Politická angažovanosť a lobistické činnosti",
+        "Riadenie vzťahov s dodávateľmi vrátane platobných postupov"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS G1",
+      "TopicName": "Obchodné správanie",
+      "SubTopic": [
+        "Korupcia a úplatkárstvo"
+      ],
+      "SubSubTopics": [
+        "Prevencia a odhaľovanie vrátane odbornej prípravy",
+        "Incidenty"
+      ]
+    }
+  ]
+}

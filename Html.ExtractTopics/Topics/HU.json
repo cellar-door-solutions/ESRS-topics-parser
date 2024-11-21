@@ -1,0 +1,290 @@
+{
+  "Topic": "Témakör",
+  "SubTopic": "Altéma",
+  "SubSubTopic": "Al-altéma",
+  "Topics": [
+    {
+      "Esrs": "ESRS E1",
+      "TopicName": "Éghajlatváltozás",
+      "SubTopic": [
+        "Az éghajlatváltozáshoz való alkalmazkodás",
+        "Az éghajlatváltozás mérséklése",
+        "Energia"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E2",
+      "TopicName": "Szennyezés",
+      "SubTopic": [
+        "Légszennyezés",
+        "Vízszennyezés",
+        "Talajszennyezés",
+        "Élő szervezetek és élelmiszerforrások szennyezése",
+        "Aggodalomra okot adó anyag",
+        "Különös aggodalomra okot adó anyag",
+        "Mikroműanyagok"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E3",
+      "TopicName": "Víz és tengeri erőforrások",
+      "SubTopic": [
+        "Víz",
+        "Tengeri erőforrások"
+      ],
+      "SubSubTopics": [
+        "Vízfogyasztás",
+        "Vízkivétel",
+        "Vízkibocsátás",
+        "Vízkibocsátás az óceánokba",
+        "Tengeri erőforrások kitermelése és hasznosítása"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biológiai sokféleség és ökoszisztémák",
+      "SubTopic": [
+        "A biológiai sokféleség csökkenését közvetlenül kiváltó tényezők"
+      ],
+      "SubSubTopics": [
+        "Éghajlatváltozás",
+        "A földhasználat megváltoztatása, az édesvízhasználat megváltoztatása és a tengerhasználat megváltoztatása",
+        "Közvetlen kiaknázás",
+        "Idegenhonos inváziós fajok",
+        "Szennyezés",
+        "Egyéb"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biológiai sokféleség és ökoszisztémák",
+      "SubTopic": [
+        "A fajok állapotára gyakorolt hatások"
+      ],
+      "SubSubTopics": [
+        "Példák:",
+        "A faj populációjának mérete",
+        "A faj globális kihalási kockázata"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biológiai sokféleség és ökoszisztémák",
+      "SubTopic": [
+        "Az ökoszisztémák kiterjedésére és állapotára gyakorolt hatások"
+      ],
+      "SubSubTopics": [
+        "Példák:",
+        "Földterület-degradáció",
+        "Elsivatagosodás",
+        "Talajfedés"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biológiai sokféleség és ökoszisztémák",
+      "SubTopic": [
+        "Az ökoszisztéma-szolgáltatásokra gyakorolt hatások és az azoktól való függőségek"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E5",
+      "TopicName": "Körforgásos gazdaság",
+      "SubTopic": [
+        "Erőforrás-beáramlás, beleértve az erőforrás-felhasználást is",
+        "Termékekhez és szolgáltatásokhoz kapcsolódó erőforrás-kiáramlás",
+        "Hulladék"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Saját munkaerő",
+      "SubTopic": [
+        "Munkafeltételek"
+      ],
+      "SubSubTopics": [
+        "Biztos foglalkoztatás",
+        "Munkaidő",
+        "Megfelelő bérek",
+        "Szociális párbeszéd",
+        "Az egyesülési szabadsága, üzemi tanácsok megléte, valamint a munkavállalók tájékoztatáshoz, konzultációhoz és részvételhez való joga",
+        "Kollektív tárgyalások, beleértve a kollektív szerződések hatálya alá tartozó munkavállalók arányát",
+        "A munka és a magánélet közötti egyensúly",
+        "Egészségvédelem és biztonság"
+      ]
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Saját munkaerő",
+      "SubTopic": [
+        "Egyenlő bánásmód és esélyegyenlőség"
+      ],
+      "SubSubTopics": [
+        "Nemek közötti egyenlőség és egyenlő értékű munkáért egyenlő bér",
+        "Képzés és készségfejlesztés",
+        "A fogyatékossággal élő személyek foglalkoztatása és integrációja",
+        "A munkahelyi erőszak és zaklatás elleni intézkedések",
+        "Sokszínűség"
+      ]
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Saját munkaerő",
+      "SubTopic": [
+        "A munkával kapcsolatos egyéb jogok"
+      ],
+      "SubSubTopics": [
+        "Gyermekmunka",
+        "Kényszermunka",
+        "Megfelelő lakhatás",
+        "A magánélet védelme"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Az értékláncban dolgozók",
+      "SubTopic": [
+        "Munkafeltételek"
+      ],
+      "SubSubTopics": [
+        "Biztos foglalkoztatás",
+        "Munkaidő",
+        "Megfelelő bérek",
+        "Szociális párbeszéd",
+        "Az egyesülés szabadsága, beleértve az üzemi tanácsok meglétét is",
+        "Kollektív tárgyalások",
+        "A munka és a magánélet közötti egyensúly",
+        "Egészségvédelem és biztonság"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Az értékláncban dolgozók",
+      "SubTopic": [
+        "Egyenlő bánásmód és esélyegyenlőség"
+      ],
+      "SubSubTopics": [
+        "Nemek közötti egyenlőség és egyenlő értékű munkáért egyenlő bér",
+        "Képzés és készségfejlesztés",
+        "A fogyatékossággal élő személyek foglalkoztatása és integrációja",
+        "A munkahelyi erőszak és zaklatás elleni intézkedések",
+        "Sokszínűség"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Az értékláncban dolgozók",
+      "SubTopic": [
+        "A munkával kapcsolatos egyéb jogok"
+      ],
+      "SubSubTopics": [
+        "Gyermekmunka",
+        "Kényszermunka",
+        "Megfelelő lakhatás",
+        "Víz és víziközmű-szolgáltatás",
+        "A magánélet védelme"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Érintett közösségek",
+      "SubTopic": [
+        "A közösségek gazdasági, szociális és kulturális jogai"
+      ],
+      "SubSubTopics": [
+        "Megfelelő lakhatás",
+        "Megfelelő élelmiszer",
+        "Víz és víziközmű-szolgáltatás",
+        "A földdel kapcsolatos hatások",
+        "A biztonsággal kapcsolatos hatások"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Érintett közösségek",
+      "SubTopic": [
+        "A Közösségek polgári és politikai jogai"
+      ],
+      "SubSubTopics": [
+        "A véleménynyilvánítás szabadsága",
+        "A gyülekezés szabadsága",
+        "Az emberijog-védőkre gyakorolt hatások"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Érintett közösségek",
+      "SubTopic": [
+        "Őslakos népek jogai"
+      ],
+      "SubSubTopics": [
+        "Szabad, előzetes és tájékoztatáson alapuló beleegyezés",
+        "Önrendelkezés",
+        "Kulturális jogok"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Fogyasztók és végfelhasználók",
+      "SubTopic": [
+        "A fogyasztókra és/vagy a végfelhasználókra gyakorolt, tájékoztatással kapcsolatos hatások"
+      ],
+      "SubSubTopics": [
+        "A magánélet védelme",
+        "A véleménynyilvánítás szabadsága",
+        "A (minőségi) információkhoz való hozzáférés"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Fogyasztók és végfelhasználók",
+      "SubTopic": [
+        "A fogyasztók és/vagy végfelhasználók személyes biztonsága"
+      ],
+      "SubSubTopics": [
+        "Egészségvédelem és biztonság",
+        "Személyes biztonság",
+        "A gyermekek védelme"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Fogyasztók és végfelhasználók",
+      "SubTopic": [
+        "A fogyasztók és/vagy végfelhasználók társadalmi befogadása"
+      ],
+      "SubSubTopics": [
+        "A hátrányos megkülönböztetés tilalma",
+        "Hozzáférés a termékekhez és szolgáltatásokhoz",
+        "Felelősségteljes piaci gyakorlatok"
+      ]
+    },
+    {
+      "Esrs": "ESRS G1",
+      "TopicName": "Üzleti magatartás",
+      "SubTopic": [
+        "Vállalati kultúra",
+        "A visszaélést bejelentő személyek védelme",
+        "Állatjólét",
+        "Politikai szerepvállalás és lobbitevékenységek",
+        "A beszállítókkal fenntartott kapcsolatok kezelése, beleértve a fizetési gyakorlatokat is"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS G1",
+      "TopicName": "Üzleti magatartás",
+      "SubTopic": [
+        "Korrupció és vesztegetés"
+      ],
+      "SubSubTopics": [
+        "Megelőzés és felderítés, beleértve a képzést is",
+        "Incidensek"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "Topic": "Tema",
+  "SubTopic": "Podtema",
+  "SubSubTopic": "Podpodteme",
+  "Topics": [
+    {
+      "Esrs": "ESRS E1",
+      "TopicName": "Pod-nebne spre-membe",
+      "SubTopic": [
+        "Prilagajanje podnebnim spremembam",
+        "Blažitev podnebnih sprememb",
+        "Energija"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E2",
+      "TopicName": "Onesnaže-vanje",
+      "SubTopic": [
+        "Onesnaževanje zraka",
+        "Onesnaževanje vode",
+        "onesnaževanje prsti",
+        "Onesnaževanje živih organizmov in virov hrane",
+        "Snovi, ki vzbujajo zaskrbljenost",
+        "Snovi, ki vzbujajo veliko zaskrbljenost",
+        "Mikroplastika"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E3",
+      "TopicName": "Vodni in morski viri",
+      "SubTopic": [
+        "Voda",
+        "Morski viri"
+      ],
+      "SubSubTopics": [
+        "Poraba vode",
+        "Odvzemi vode",
+        "Odvajanje vode",
+        "Odvajanje vode v oceane",
+        "Pridobivanje in raba morskih virov"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biotska raznovrstnost in ekosistemi",
+      "SubTopic": [
+        "Neposredna gonilna sila vplivov na izgubo biotske raznovrstnosti"
+      ],
+      "SubSubTopics": [
+        "Podnebne spremembe",
+        "Sprememba rabe zemljišč, sprememba rabe sladke vode in sprememba rabe morja",
+        "Neposredno izkoriščanje",
+        "Invazivne tujerodne vrste",
+        "Onesnaževanje",
+        "Drugo"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biotska raznovrstnost in ekosistemi",
+      "SubTopic": [
+        "Vplivi na stanje vrst"
+      ],
+      "SubSubTopics": [
+        "Primera:",
+        "Velikost populacije vrst",
+        "Tveganje izumrtja vrste na svetovni ravni"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biotska raznovrstnost in ekosistemi",
+      "SubTopic": [
+        "Vplivi na obseg in stanje ekosistemov"
+      ],
+      "SubSubTopics": [
+        "Primeri:",
+        "Degradacija tal",
+        "Dezertifikacija",
+        "Pozidava tal"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biotska raznovrstnost in ekosistemi",
+      "SubTopic": [
+        "Vplivi na ekosistemske storitve in odvisnosti od njih"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E5",
+      "TopicName": "Krožno gospo-darstvo",
+      "SubTopic": [
+        "Pritoki virov, vključno z rabo virov",
+        "Odtoki virov, povezani s proizvodi in storitvami",
+        "Odpadki"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Lastna delovna sila",
+      "SubTopic": [
+        "Delovni pogoji"
+      ],
+      "SubSubTopics": [
+        "Varnost zaposlitve",
+        "Delovni čas",
+        "Dostojne plače",
+        "Socialni dialog",
+        "Svoboda združevanja, obstoj svetov delavcev ter pravice delavcev do obveščenosti, posvetovanja in udeležbe",
+        "Kolektivna pogajanja, vključno z deležem delavcev, za katere veljajo kolektivne pogodbe",
+        "Usklajevanje poklicnega in zasebnega življenja",
+        "Zdravje in varnost"
+      ]
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Lastna delovna sila",
+      "SubTopic": [
+        "Enaka obravnava in enake možnosti za vse"
+      ],
+      "SubSubTopics": [
+        "Enakost spolov in enako plačilo za delo enake vrednosti",
+        "Usposabljanje ter razvoj znanj in spretnosti",
+        "Zaposlovanje in vključevanje invalidov",
+        "Ukrepi proti nasilju in nadlegovanju na delovnem mestu",
+        "Raznolikost"
+      ]
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Lastna delovna sila",
+      "SubTopic": [
+        "Druge z delom povezane pravice"
+      ],
+      "SubSubTopics": [
+        "Delo otrok",
+        "Prisilno delo",
+        "Ustrezna stanovanja",
+        "Zasebnost"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Delavci v vrednostni verigi",
+      "SubTopic": [
+        "Delovni pogoji"
+      ],
+      "SubSubTopics": [
+        "Varnost zaposlitve",
+        "Delovni čas",
+        "Dostojne plače",
+        "Socialni dialog",
+        "Svoboda združevanja, vključno z obstojem svetov delavcev",
+        "Kolektivna pogajanja",
+        "Usklajevanje poklicnega in zasebnega življenja",
+        "Zdravje in varnost"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Delavci v vrednostni verigi",
+      "SubTopic": [
+        "Enaka obravnava in enake možnosti za vse"
+      ],
+      "SubSubTopics": [
+        "Enakost spolov in enako plačilo za delo enake vrednosti",
+        "Usposabljanje ter razvoj znanj in spretnosti",
+        "Zaposlovanje in vključevanje invalidov",
+        "Ukrepi proti nasilju in nadlegovanju na delovnem mestu",
+        "Raznolikost"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Delavci v vrednostni verigi",
+      "SubTopic": [
+        "Druge z delom povezane pravice"
+      ],
+      "SubSubTopics": [
+        "Delo otrok",
+        "Prisilno delo",
+        "Ustrezna stanovanja",
+        "Voda in sanitarna ureditev",
+        "Zasebnost"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Prizadete skupnosti",
+      "SubTopic": [
+        "Ekonomske, socialne in kulturne pravice skupnosti"
+      ],
+      "SubSubTopics": [
+        "Ustrezna stanovanja",
+        "Ustrezna hrana",
+        "Voda in sanitarna ureditev",
+        "Vplivi, povezani z zemljišči",
+        "Vplivi, povezani z varnostjo"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Prizadete skupnosti",
+      "SubTopic": [
+        "Državljanske in politične pravice skupnosti"
+      ],
+      "SubSubTopics": [
+        "Svoboda izražanja",
+        "Svoboda zbiranja",
+        "Vplivi na zagovornike človekovih pravic"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Prizadete skupnosti",
+      "SubTopic": [
+        "Pravice indigenih ljudstev"
+      ],
+      "SubSubTopics": [
+        "Prostovoljno, predhodno in informirano soglasje",
+        "Samoodločba",
+        "Kulturne pravice"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Potrošniki in končni uporabniki",
+      "SubTopic": [
+        "Vplivi na potrošnike in/ali končne uporabnike, povezani z informacijami"
+      ],
+      "SubSubTopics": [
+        "Zasebnost",
+        "Svoboda izražanja",
+        "Dostop do (kakovostnih) informacij"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Potrošniki in končni uporabniki",
+      "SubTopic": [
+        "Osebna varnost potrošnikov in/ali končnih uporabnikov"
+      ],
+      "SubSubTopics": [
+        "Zdravje in varnost",
+        "Varnost osebe",
+        "Zaščita otrok"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Potrošniki in končni uporabniki",
+      "SubTopic": [
+        "Socialna vključenost potrošnikov in/ali končnih uporabnikov"
+      ],
+      "SubSubTopics": [
+        "Nediskriminacija",
+        "Dostop do proizvodov in storitev",
+        "Odgovorne tržne prakse"
+      ]
+    },
+    {
+      "Esrs": "ESRS G1",
+      "TopicName": "Poslovno ravnanje",
+      "SubTopic": [
+        "Korporativna kultura",
+        "Zaščita žvižgačev",
+        "Dobrobit živali",
+        "Politično sodelovanje in dejavnosti lobiranja",
+        "Upravljanje odnosov z dobavitelji, vključno s plačilnimi praksami"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS G1",
+      "TopicName": "Poslovno ravnanje",
+      "SubTopic": [
+        "Korupcija in podkupovanje"
+      ],
+      "SubSubTopics": [
+        "Preprečevanje in odkrivanje, vključno z usposabljanjem",
+        "Incidenti"
+      ]
+    }
+  ]
+}

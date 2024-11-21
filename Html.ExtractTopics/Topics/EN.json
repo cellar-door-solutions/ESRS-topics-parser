@@ -1,0 +1,290 @@
+{
+  "Topic": "Topic",
+  "SubTopic": "Sub-topic",
+  "SubSubTopic": "Sub-sub-topics",
+  "Topics": [
+    {
+      "Esrs": "ESRS E1",
+      "TopicName": "Climate change",
+      "SubTopic": [
+        "Climate change adaptation",
+        "Climate change mitigation",
+        "Energy"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E2",
+      "TopicName": "Pollution",
+      "SubTopic": [
+        "Pollution of air",
+        "Pollution of water",
+        "Pollution of soil",
+        "Pollution of living organisms and food resources",
+        "Substances of concern",
+        "Substances of very high concern",
+        "Microplastics"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E3",
+      "TopicName": "Water and marine resources",
+      "SubTopic": [
+        "Water",
+        "Marine resources"
+      ],
+      "SubSubTopics": [
+        "Water consumption",
+        "Water withdrawals",
+        "Water discharges",
+        "Water discharges in the oceans",
+        "Extraction and use of marine resources"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biodiversity and ecosystems",
+      "SubTopic": [
+        "Direct impact drivers of biodiversity loss"
+      ],
+      "SubSubTopics": [
+        "Climate Change",
+        "Land-use change, fresh water-use change and sea-use change",
+        "Direct exploitation",
+        "Invasive alien species",
+        "Pollution",
+        "Others"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biodiversity and ecosystems",
+      "SubTopic": [
+        "Impacts on the state of species"
+      ],
+      "SubSubTopics": [
+        "Examples:",
+        "Species population size",
+        "Species global extinction risk"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biodiversity and ecosystems",
+      "SubTopic": [
+        "Impacts on the extent and condition of ecosystems"
+      ],
+      "SubSubTopics": [
+        "Examples:",
+        "Land degradation",
+        "Desertification",
+        "Soil sealing"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biodiversity and ecosystems",
+      "SubTopic": [
+        "Impacts and dependencies on ecosystem services"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E5",
+      "TopicName": "Circular economy",
+      "SubTopic": [
+        "Resources inflows, including resource use",
+        "Resource outflows related to products and services",
+        "Waste"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Own workforce",
+      "SubTopic": [
+        "Working conditions"
+      ],
+      "SubSubTopics": [
+        "Secure employment",
+        "Working time",
+        "Adequate wages",
+        "Social dialogue",
+        "Freedom of association, the existence of works councils and the information, consultation and participation rights of workers",
+        "Collective bargaining, including rate of workers covered by collective agreements",
+        "Work-life balance",
+        "Health and safety"
+      ]
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Own workforce",
+      "SubTopic": [
+        "Equal treatment and opportunities for all"
+      ],
+      "SubSubTopics": [
+        "Gender equality and equal pay for work of equal value",
+        "Training and skills development",
+        "Employment and inclusion of persons with disabilities",
+        "Measures against violence and harassment in the workplace",
+        "Diversity"
+      ]
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Own workforce",
+      "SubTopic": [
+        "Other work-related rights"
+      ],
+      "SubSubTopics": [
+        "Child labour",
+        "Forced labour",
+        "Adequate housing",
+        "Privacy"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Workers in the value chain",
+      "SubTopic": [
+        "Working conditions"
+      ],
+      "SubSubTopics": [
+        "Secure employment",
+        "Working time",
+        "Adequate wages",
+        "Social dialogue",
+        "Freedom of association, including the existence of work councils",
+        "Collective bargaining",
+        "Work-life balance",
+        "Health and safety"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Workers in the value chain",
+      "SubTopic": [
+        "Equal treatment and opportunities for all"
+      ],
+      "SubSubTopics": [
+        "Gender equality and equal pay for work of equal value",
+        "Training and skills development",
+        "The employment and inclusion of persons with disabilities",
+        "Measures against violence and harassment in the workplace",
+        "Diversity"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Workers in the value chain",
+      "SubTopic": [
+        "Other work-related rights"
+      ],
+      "SubSubTopics": [
+        "Child labour",
+        "Forced labour",
+        "Adequate housing",
+        "Water and sanitation",
+        "Privacy"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Affected communities",
+      "SubTopic": [
+        "Communities’ economic, social and cultural rights"
+      ],
+      "SubSubTopics": [
+        "Adequate housing",
+        "Adequate food",
+        "Water and sanitation",
+        "Land-related impacts",
+        "Security-related impacts"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Affected communities",
+      "SubTopic": [
+        "Communities’ civil and political rights"
+      ],
+      "SubSubTopics": [
+        "Freedom of expression",
+        "Freedom of assembly",
+        "Impacts on human rights defenders"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Affected communities",
+      "SubTopic": [
+        "Rights of indigenous peoples"
+      ],
+      "SubSubTopics": [
+        "Free, prior and informed consent",
+        "Self-determination",
+        "Cultural rights"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Consumers and end- users",
+      "SubTopic": [
+        "Information-related impacts for consumers and/or end-users"
+      ],
+      "SubSubTopics": [
+        "Privacy",
+        "Freedom of expression",
+        "Access to (quality) information"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Consumers and end- users",
+      "SubTopic": [
+        "Personal safety of consumers and/or end-users"
+      ],
+      "SubSubTopics": [
+        "Health and safety",
+        "Security of a person",
+        "Protection of children"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Consumers and end- users",
+      "SubTopic": [
+        "Social inclusion of consumers and/or end-users"
+      ],
+      "SubSubTopics": [
+        "Non-discrimination",
+        "Access to products and services",
+        "Responsible marketing practices"
+      ]
+    },
+    {
+      "Esrs": "ESRS G1",
+      "TopicName": "Business conduct",
+      "SubTopic": [
+        "Corporate culture",
+        "Protection of whistle-blowers",
+        "Animal welfare",
+        "Political engagement and lobbying activities",
+        "Management of relationships with suppliers including payment practices"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS G1",
+      "TopicName": "Business conduct",
+      "SubTopic": [
+        "Corruption and bribery"
+      ],
+      "SubSubTopics": [
+        "Prevention and detection including training",
+        "Incidents"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "Topic": "Tema",
+  "SubTopic": "Sottosuġġett",
+  "SubSubTopic": "Sottosottosuġġetti",
+  "Topics": [
+    {
+      "Esrs": "ESRS E1",
+      "TopicName": "Tibdil fil-klima",
+      "SubTopic": [
+        "Adattament għat-tibdil fil-klima",
+        "Mitigazzjoni tat-tibdil fil-klima",
+        "Enerġija"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E2",
+      "TopicName": "Tniġġis",
+      "SubTopic": [
+        "Tniġġis tal-arja",
+        "Tniġġis tal-ilma",
+        "Tniġġis tal-ħamrija",
+        "Tniġġis tal-organiżmi ħajjin u tar-riżorsi tal-ikel",
+        "Sustanzi ta’ tħassib",
+        "Sustanzi ta’ tħassib serju ħafna",
+        "Mikroplastiċi"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E3",
+      "TopicName": "Ilma u riżorsi tal-baħar",
+      "SubTopic": [
+        "Ilma",
+        "Riżorsi tal-baħar"
+      ],
+      "SubSubTopics": [
+        "Konsum tal-ilma",
+        "Estrazzjoni tal-ilma",
+        "Skariki tal-ilma",
+        "Skariki tal-ilma fl-oċeani",
+        "Estrazzjoni u użu ta’ riżorsi tal-baħar"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Bijodiversità u ekosistemi",
+      "SubTopic": [
+        "Fatturi ewlenin tal-impatt diretti tat-telf tal-bijodiversità"
+      ],
+      "SubSubTopics": [
+        "Tibdil fil-Klima",
+        "Tibdil fl-użu tal-art, tibdil fl-użu tal-ilma frisk u tibdil fl-użu tal-baħar",
+        "Sfruttament dirett",
+        "Speċijiet aljeni invażivi",
+        "Tniġġis",
+        "Oħrajn"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Bijodiversità u ekosistemi",
+      "SubTopic": [
+        "Impatti fuq l-istat tal-ispeċijiet"
+      ],
+      "SubSubTopics": [
+        "Eżempji:",
+        "Daqs tal-popolazzjoni tal-ispeċijiet",
+        "Riskju ta’ estinzjoni globali tal-ispeċijiet"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Bijodiversità u ekosistemi",
+      "SubTopic": [
+        "Impatti fuq il-firxa u fuq il-kundizzjoni tal-ekosistemi"
+      ],
+      "SubSubTopics": [
+        "Eżempji:",
+        "Degradazzjoni tal-art",
+        "Deżertifikazzjoni",
+        "Issiġillar tal-ħamrija"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Bijodiversità u ekosistemi",
+      "SubTopic": [
+        "Impatti u dipendenzi fuq servizzi tal-ekosistema"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E5",
+      "TopicName": "Ekonomija ċirkolari",
+      "SubTopic": [
+        "Influssi mir-riżorsi, inkluż l-użu tar-riżorsi",
+        "Ħruġ tar-riżorsi b’rabta mal-prodotti u mas-servizzi",
+        "Skart"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Forza tax-xogħol proprja",
+      "SubTopic": [
+        "Kondizzjonijiet tax-xogħol"
+      ],
+      "SubSubTopics": [
+        "Impjieg sigur",
+        "Ħin tax-xogħol",
+        "Pagi adegwati",
+        "Djalogu soċjali",
+        "Il-libertà ta’ assoċjazzjoni, l-eżistenza ta’ kunsilli tax-xogħol u d-drittijiet ta’ informazzjoni, ta’ konsultazzjoni u ta’ parteċipazzjoni tal-ħaddiema",
+        "In-negozjar kollettiv, inkluża r-rata ta’ ħaddiema koperti minn ftehimiet kollettivi",
+        "Bilanċ bejn ix-xogħol u l-ħajja privata",
+        "Saħħa u sikurezza"
+      ]
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Forza tax-xogħol proprja",
+      "SubTopic": [
+        "Trattament u opportunitajiet indaqs għal kulħadd"
+      ],
+      "SubSubTopics": [
+        "Ugwaljanza bejn il-ġeneri u paga ugwali għal xogħol ta’ valur ugwali",
+        "Taħriġ u żvilupp tal-ħiliet",
+        "Impjieg u inklużjoni ta’ persuni b’diżabilità",
+        "Miżuri kontra l-vjolenza u l-fastidju fuq il-post tax-xogħol",
+        "Diversità"
+      ]
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Forza tax-xogħol proprja",
+      "SubTopic": [
+        "Drittijiet oħrajn relatati max-xogħol"
+      ],
+      "SubSubTopics": [
+        "Tħaddim tat-tfal",
+        "Xogħol furzat",
+        "Akkomodazzjoni adegwata",
+        "Privatezza"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Ħaddiema fil-katina tal-valur",
+      "SubTopic": [
+        "Kondizzjonijiet tax-xogħol"
+      ],
+      "SubSubTopics": [
+        "Impjieg sigur",
+        "Ħin tax-xogħol",
+        "Pagi adegwati",
+        "Djalogu soċjali",
+        "Il-libertà ta’ assoċjazzjoni, inkluża l-eżistenza ta’ kunsilli tax-xogħol",
+        "Negozjar kollettiv",
+        "Bilanċ bejn ix-xogħol u l-ħajja privata",
+        "Saħħa u sikurezza"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Ħaddiema fil-katina tal-valur",
+      "SubTopic": [
+        "Trattament u opportunitajiet indaqs għal kulħadd"
+      ],
+      "SubSubTopics": [
+        "Ugwaljanza bejn il-ġeneri u paga ugwali għal xogħol ta’ valur ugwali",
+        "Taħriġ u żvilupp tal-ħiliet",
+        "L-impjieg u l-inklużjoni ta’ persuni b’diżabilità",
+        "Miżuri kontra l-vjolenza u l-fastidju fuq il-post tax-xogħol",
+        "Diversità"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Ħaddiema fil-katina tal-valur",
+      "SubTopic": [
+        "Drittijiet oħrajn relatati max-xogħol"
+      ],
+      "SubSubTopics": [
+        "Tħaddim tat-tfal",
+        "Xogħol furzat",
+        "Akkomodazzjoni adegwata",
+        "Ilma u sanità",
+        "Privatezza"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Komunitajiet affettwati",
+      "SubTopic": [
+        "Drittijiet ekonomiċi, soċjali u kulturali tal-komunitajiet"
+      ],
+      "SubSubTopics": [
+        "Akkomodazzjoni adegwata",
+        "Ikel adegwat",
+        "Ilma u sanità",
+        "Impatti relatati mal-art",
+        "Impatti relatati mas-sigurtà"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Komunitajiet affettwati",
+      "SubTopic": [
+        "Drittijiet ċivili u politiċi tal-komunitajiet"
+      ],
+      "SubSubTopics": [
+        "Libertà ta’ espressjoni",
+        "Libertà ta’ għaqda",
+        "Impatti fuq id-difensuri tad-drittijiet tal-bniedem"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Komunitajiet affettwati",
+      "SubTopic": [
+        "Drittijiet ta’ popli indiġeni"
+      ],
+      "SubSubTopics": [
+        "Kunsens liberu, minn qabel u infurmat",
+        "Awtodeterminazzjoni",
+        "Drittijiet kulturali"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Konsumaturi u utenti finali",
+      "SubTopic": [
+        "Impatti relatati mal-informazzjoni għall-konsumaturi u/jew għall-utenti finali"
+      ],
+      "SubSubTopics": [
+        "Privatezza",
+        "Libertà ta’ espressjoni",
+        "Aċċess għal informazzjoni (ta’ kwalità)"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Konsumaturi u utenti finali",
+      "SubTopic": [
+        "Sikurezza personali tal-konsumaturi u/jew tal-utenti finali"
+      ],
+      "SubSubTopics": [
+        "Saħħa u sikurezza",
+        "Sigurtà ta’ persuna",
+        "Protezzjoni tat-tfal"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Konsumaturi u utenti finali",
+      "SubTopic": [
+        "Inklużjoni soċjali tal-konsumaturi u/jew tal-utenti finali"
+      ],
+      "SubSubTopics": [
+        "Nondiskriminazzjoni",
+        "Aċċess għal prodotti u servizzi",
+        "Responsabbli prattiki ta’ kummerċjalizzazzjoni"
+      ]
+    },
+    {
+      "Esrs": "ESRS G1",
+      "TopicName": "Kondotta kummerċjali",
+      "SubTopic": [
+        "Kultura korporattiva",
+        "Protezzjoni tal-informaturi",
+        "Trattament xieraq tal-annimali",
+        "Impenn politiku u attivitajiet ta’ lobbying",
+        "Ġestjoni tar-relazzjonijiet mal-fornituri inklużi prattiki ta’ ħlas"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS G1",
+      "TopicName": "Kondotta kummerċjali",
+      "SubTopic": [
+        "Korruzzjoni u tixħim"
+      ],
+      "SubSubTopics": [
+        "Prevenzjoni u detezzjoni inkluż taħriġ",
+        "Inċidenti"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "Topic": "Topaic",
+  "SubTopic": "Fothopaic",
+  "SubSubTopic": "Fo-fhothopaicí",
+  "Topics": [
+    {
+      "Esrs": "ESRS E1",
+      "TopicName": "Athrú aeráide",
+      "SubTopic": [
+        "Oiriúnú don athrú aeráide",
+        "Maolú ar an athrú aeráide",
+        "Fuinneamh"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E2",
+      "TopicName": "Truailliú",
+      "SubTopic": [
+        "Truailliú aeir",
+        "Truailliú uisce",
+        "Truailliú ithreach",
+        "Truailliú orgánach beo agus acmhainní bia",
+        "Substaintí ar díol imní iad",
+        "Substaintí ar ábhar mór imní iad",
+        "Micreaphlaistigh"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E3",
+      "TopicName": "Uisce agus acmhainní muirí",
+      "SubTopic": [
+        "Uisce",
+        "Acmhainní muirí"
+      ],
+      "SubSubTopics": [
+        "Tomhaltas uisce",
+        "Asbhaintí uisce",
+        "Sceitheadh uisce",
+        "Sceitheadh uisce sna haigéin",
+        "Acmhainní muirí a bhaint agus a úsáid"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Bithéagsúlacht agus éiceachórais",
+      "SubTopic": [
+        "Spreagthaí tionchair dhírigh chailliúint na bithéagsúlachta"
+      ],
+      "SubSubTopics": [
+        "Athrú Aeráide",
+        "Athrú ar thalamhúsáid, athrú ar úsáid uisce úir agus athrú ar úsáid na farraige",
+        "Saothrú díreach",
+        "Speicis choimhthíocha ionracha",
+        "Truailliú",
+        "Eile"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Bithéagsúlacht agus éiceachórais",
+      "SubTopic": [
+        "Tionchair ar staid speiceas"
+      ],
+      "SubSubTopics": [
+        "Samplaí:",
+        "Méid dhaonra na speiceas",
+        "Baol díothaithe domhanda speicis"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Bithéagsúlacht agus éiceachórais",
+      "SubTopic": [
+        "Tionchair ar fhairsinge agus ar riocht na n-éiceachóras"
+      ],
+      "SubSubTopics": [
+        "Samplaí:",
+        "Díghrádú talún",
+        "Fású",
+        "Séalú ithreach"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Bithéagsúlacht agus éiceachórais",
+      "SubTopic": [
+        "Tionchair agus spleáchais ar éicisheirbhísí"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E5",
+      "TopicName": "Geilleagar ciorclach",
+      "SubTopic": [
+        "Insreafaí acmhainní, lena n-áirítear úsáid acmhainní",
+        "Eis-sreafaí acmhainní a bhaineann le táirgí agus seirbhísí",
+        "Dramhaíl"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Lucht saothair dílis",
+      "SubTopic": [
+        "Coinníollacha oibre"
+      ],
+      "SubSubTopics": [
+        "Fostaíocht shlán",
+        "Am oibre",
+        "Pá leordhóthanach",
+        "Idirphlé sóisialta",
+        "Saoirse comhlachais, comhairlí oibreacha a bheith ann agus cearta oibrithe maidir le faisnéis, comhairliúchán agus rannpháirtíocht",
+        "Cómhargáil, lena n-áirítear an ráta oibrithe atá cumhdaithe ag comhaontuithe comhchoiteanna",
+        "Cothromaíocht oibre is saoil",
+        "Sláinte agus sábháilteacht"
+      ]
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Lucht saothair dílis",
+      "SubTopic": [
+        "Cóir chomhionann agus deiseanna comhionanna do chách"
+      ],
+      "SubSubTopics": [
+        "Comhionannas inscne agus pá comhionann as obair ar comhionann a luach",
+        "Oiliúint agus forbairt scileanna",
+        "Fostaíocht agus cuimsiú daoine faoi mhíchumas",
+        "Bearta in aghaidh foréigin agus ciapadh i saol na hoibre",
+        "Éagsúlacht"
+      ]
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Lucht saothair dílis",
+      "SubTopic": [
+        "Cearta eile a bhaineann le saol na hoibre"
+      ],
+      "SubSubTopics": [
+        "Saothar leanaí",
+        "Obair éigeantais",
+        "Tithíocht leordhóthanach",
+        "Príobháideachas"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Oibrithe sa slabhra luacha",
+      "SubTopic": [
+        "Coinníollacha oibre"
+      ],
+      "SubSubTopics": [
+        "Fostaíocht shlán",
+        "Am oibre",
+        "Pá leordhóthanach",
+        "Idirphlé sóisialta",
+        "Saoirse comhlachais, lena n-áirítear comhairlí oibre a bheith ann",
+        "Cómhargáil",
+        "Cothromaíocht oibre is saoil",
+        "Sláinte agus sábháilteacht"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Oibrithe sa slabhra luacha",
+      "SubTopic": [
+        "Cóir chomhionann agus deiseanna comhionanna do chách"
+      ],
+      "SubSubTopics": [
+        "Comhionannas inscne agus pá comhionann as obair ar comhionann a luach",
+        "Oiliúint agus forbairt scileanna",
+        "Fostaíocht agus cuimsiú daoine faoi mhíchumas",
+        "Bearta in aghaidh foréigin agus ciapadh i saol na hoibre",
+        "Éagsúlacht"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Oibrithe sa slabhra luacha",
+      "SubTopic": [
+        "Cearta eile a bhaineann le saol na hoibre"
+      ],
+      "SubSubTopics": [
+        "Saothar leanaí",
+        "Obair éigeantais",
+        "Tithíocht leordhóthanach",
+        "Uisce agus sláintíocht",
+        "Príobháideachas"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Pobail dá ndéantar difear",
+      "SubTopic": [
+        "Cearta eacnamaíocha, sóisialta agus cultúrtha pobal"
+      ],
+      "SubSubTopics": [
+        "Tithíocht leordhóthanach",
+        "Bia leordhóthanach",
+        "Uisce agus sláintíocht",
+        "Tionchair a bhaineann le talamh",
+        "Tionchair a bhaineann le slándáil"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Pobail dá ndéantar difear",
+      "SubTopic": [
+        "Cearta sibhialta agus polaitiúla pobal"
+      ],
+      "SubSubTopics": [
+        "Saoirse cainte",
+        "Saoirse comhthionóil",
+        "Tionchair ar chosantóirí chearta an duine"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Pobail dá ndéantar difear",
+      "SubTopic": [
+        "Cearta na bpobal dúchasach"
+      ],
+      "SubSubTopics": [
+        "Toiliú saor, roimh ré agus eolasach",
+        "Féinchinntiúchán",
+        "Cearta cultúrtha"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Tomhaltóirí agus úsáideoirí deiridh",
+      "SubTopic": [
+        "Tionchair a bhaineann le faisnéis do thomhaltóirí agus d’úsáideoirí deiridh"
+      ],
+      "SubSubTopics": [
+        "Príobháideachas",
+        "Saoirse cainte",
+        "Rochtain ar fhaisnéis (cháilíochta)"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Tomhaltóirí agus úsáideoirí deiridh",
+      "SubTopic": [
+        "Sábháilteacht phearsanta tomhaltóirí agus/nó úsáideoirí deiridh"
+      ],
+      "SubSubTopics": [
+        "Sláinte agus sábháilteacht",
+        "Slándáil duine",
+        "Cosaint leanaí"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Tomhaltóirí agus úsáideoirí deiridh",
+      "SubTopic": [
+        "Cuimsiú sóisialta tomhaltóirí agus/nó úsáideoirí deiridh"
+      ],
+      "SubSubTopics": [
+        "Neamh-idirdhealú",
+        "Rochtain ar tháirgí agus seirbhísí",
+        "Cleachtais margaíochta fhreagracha"
+      ]
+    },
+    {
+      "Esrs": "ESRS G1",
+      "TopicName": "Iompar gnó",
+      "SubTopic": [
+        "Cultúr corparáideach",
+        "Sceithirí a chosaint",
+        "Leas ainmhithe",
+        "Rannpháirtíocht pholaitiúil agus gníomhaíochtaí stocaireachta",
+        "Bainistiú gaolmhaireachtaí le soláthróirí lena n-áirítear cleachtais íocaíochta"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS G1",
+      "TopicName": "Iompar gnó",
+      "SubTopic": [
+        "Éilliú agus breabaireacht"
+      ],
+      "SubSubTopics": [
+        "agus brath lena n-áirítear oiliúint Cosc",
+        "Teagmhais"
+      ]
+    }
+  ]
+}

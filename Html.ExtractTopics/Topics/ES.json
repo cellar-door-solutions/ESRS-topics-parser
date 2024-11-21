@@ -1,0 +1,290 @@
+{
+  "Topic": "Tema",
+  "SubTopic": "Subtema",
+  "SubSubTopic": "Subsubtema",
+  "Topics": [
+    {
+      "Esrs": "NEIS E1",
+      "TopicName": "Cambio climático",
+      "SubTopic": [
+        "Adaptación al cambio climático",
+        "Mitigación del cambio climático",
+        "Energía"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "NEIS E2",
+      "TopicName": "Contaminación",
+      "SubTopic": [
+        "Contaminación del aire",
+        "Contaminación del agua",
+        "Contaminación del suelo",
+        "Contaminación de organismos vivos y recursos alimentarios",
+        "Sustancias preocupantes",
+        "Sustancias extremadamente preocupantes",
+        "Microplásticos"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "NEIS E3",
+      "TopicName": "Agua y recursos marinos",
+      "SubTopic": [
+        "Agua",
+        "Recursos marinos"
+      ],
+      "SubSubTopics": [
+        "Consumo de agua",
+        "Extracciones de agua",
+        "Vertidos de agua",
+        "Vertidos de agua en los océanos",
+        "Extracción y utilización de los recursos marinos"
+      ]
+    },
+    {
+      "Esrs": "NEIS E4",
+      "TopicName": "Biodiversidad y ecosistemas",
+      "SubTopic": [
+        "Factores de incidencia directa sobre la pérdida de biodiversidad"
+      ],
+      "SubSubTopics": [
+        "Cambio climático",
+        "Cambio del uso de la tierra, cambio del uso de las aguas dulces y cambio del uso del mar",
+        "Explotación directa",
+        "Especies exóticas invasoras",
+        "Contaminación",
+        "Otros"
+      ]
+    },
+    {
+      "Esrs": "NEIS E4",
+      "TopicName": "Biodiversidad y ecosistemas",
+      "SubTopic": [
+        "Incidencias sobre el estado de las especies"
+      ],
+      "SubSubTopics": [
+        "Ejemplos:",
+        "Tamaño de la población de las especies",
+        "Riesgo de extinción de las especies a escala mundial"
+      ]
+    },
+    {
+      "Esrs": "NEIS E4",
+      "TopicName": "Biodiversidad y ecosistemas",
+      "SubTopic": [
+        "Incidencias sobre la extensión y el estado de los ecosistemas"
+      ],
+      "SubSubTopics": [
+        "Ejemplos:",
+        "Degradación de tierras",
+        "Desertificación",
+        "Sellado del suelo"
+      ]
+    },
+    {
+      "Esrs": "NEIS E4",
+      "TopicName": "Biodiversidad y ecosistemas",
+      "SubTopic": [
+        "Incidencias sobre los servicios ecosistémicos y dependencias de estos servicios"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "NEIS E5",
+      "TopicName": "Economía circular",
+      "SubTopic": [
+        "Entradas de recursos, incluida la utilización de los recursos",
+        "Salidas de recursos relacionadas con productos y servicios",
+        "Residuos"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "NEIS S1",
+      "TopicName": "Personal propio",
+      "SubTopic": [
+        "Condiciones de trabajo"
+      ],
+      "SubSubTopics": [
+        "Empleo seguro",
+        "Tiempo de trabajo",
+        "Salarios adecuados",
+        "Diálogo social",
+        "Libertad de asociación, la existencia de comités de empresa y los derechos de información, consulta y participación de los trabajadores",
+        "Negociación colectiva, incluida la proporción de trabajadores cubiertos por convenios colectivos",
+        "Conciliación laboral",
+        "Salud y seguridad"
+      ]
+    },
+    {
+      "Esrs": "NEIS S1",
+      "TopicName": "Personal propio",
+      "SubTopic": [
+        "Igualdad de trato y oportunidades para todos"
+      ],
+      "SubSubTopics": [
+        "Igualdad de género e igualdad de remuneración por un trabajo de igual valor",
+        "Formación y desarrollo de capacidades",
+        "Empleo e inclusión de las personas con discapacidad",
+        "Medidas contra la violencia y el acoso en el lugar de trabajo",
+        "Diversidad"
+      ]
+    },
+    {
+      "Esrs": "NEIS S1",
+      "TopicName": "Personal propio",
+      "SubTopic": [
+        "Otros derechos laborales"
+      ],
+      "SubSubTopics": [
+        "Trabajo infantil",
+        "Trabajo forzoso",
+        "Vivienda adecuada",
+        "Privacidad"
+      ]
+    },
+    {
+      "Esrs": "NEIS S2",
+      "TopicName": "Trabajadores de la cadena de valor",
+      "SubTopic": [
+        "Condiciones de trabajo"
+      ],
+      "SubSubTopics": [
+        "Empleo seguro",
+        "Tiempo de trabajo",
+        "Salarios adecuados",
+        "Diálogo social",
+        "Libertad de asociación, incluida la existencia de comités de empresa",
+        "Negociación colectiva",
+        "Conciliación laboral",
+        "Salud y seguridad"
+      ]
+    },
+    {
+      "Esrs": "NEIS S2",
+      "TopicName": "Trabajadores de la cadena de valor",
+      "SubTopic": [
+        "Igualdad de trato y oportunidades para todos"
+      ],
+      "SubSubTopics": [
+        "Igualdad de género e igualdad de remuneración por un trabajo de igual valor",
+        "Formación y desarrollo de capacidades",
+        "El empleo y la inclusión de las personas con discapacidad",
+        "Medidas contra la violencia y el acoso en el lugar de trabajo",
+        "Diversidad"
+      ]
+    },
+    {
+      "Esrs": "NEIS S2",
+      "TopicName": "Trabajadores de la cadena de valor",
+      "SubTopic": [
+        "Otros derechos laborales"
+      ],
+      "SubSubTopics": [
+        "Trabajo infantil",
+        "Trabajo forzoso",
+        "Vivienda adecuada",
+        "Agua y saneamiento",
+        "Privacidad"
+      ]
+    },
+    {
+      "Esrs": "NEIS S3",
+      "TopicName": "Colectivos afectados",
+      "SubTopic": [
+        "Derechos económicos, sociales y culturales de los colectivos"
+      ],
+      "SubSubTopics": [
+        "Vivienda adecuada",
+        "Alimentación adecuada",
+        "Agua y saneamiento",
+        "Incidencias relacionadas con la tierra",
+        "Incidencias relacionadas con la seguridad"
+      ]
+    },
+    {
+      "Esrs": "NEIS S3",
+      "TopicName": "Colectivos afectados",
+      "SubTopic": [
+        "Derechos civiles y políticos de los colectivos"
+      ],
+      "SubSubTopics": [
+        "Libertad de expresión",
+        "Libertad de reunión",
+        "Incidencias sobre los defensores de los derechos humanos"
+      ]
+    },
+    {
+      "Esrs": "NEIS S3",
+      "TopicName": "Colectivos afectados",
+      "SubTopic": [
+        "Derechos de pueblos indígenas"
+      ],
+      "SubSubTopics": [
+        "Consentimiento libre, previo e informado",
+        "Autodeterminación",
+        "Derechos culturales"
+      ]
+    },
+    {
+      "Esrs": "NEIS S4",
+      "TopicName": "Consumidores y usuarios finales",
+      "SubTopic": [
+        "Incidencias relacionadas con la información para los consumidores o usuarios finales"
+      ],
+      "SubSubTopics": [
+        "Privacidad",
+        "Libertad de expresión",
+        "Acceso a la información (de calidad)"
+      ]
+    },
+    {
+      "Esrs": "NEIS S4",
+      "TopicName": "Consumidores y usuarios finales",
+      "SubTopic": [
+        "Seguridad personal de los consumidores o usuarios finales"
+      ],
+      "SubSubTopics": [
+        "Salud y seguridad",
+        "Seguridad de una persona",
+        "Protección de los niños"
+      ]
+    },
+    {
+      "Esrs": "NEIS S4",
+      "TopicName": "Consumidores y usuarios finales",
+      "SubTopic": [
+        "Inclusión social de los consumidores o usuarios finales"
+      ],
+      "SubSubTopics": [
+        "No discriminación",
+        "Acceso a productos y servicios",
+        "Prácticas de marketing responsables"
+      ]
+    },
+    {
+      "Esrs": "NEIS G1",
+      "TopicName": "Conducta empresarial",
+      "SubTopic": [
+        "Cultura corporativa",
+        "Protección de los denunciantes",
+        "Bienestar animal",
+        "Compromiso político y actividades de los grupos de presión",
+        "Gestión de las relaciones con los proveedores, incluidas las prácticas de pago"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "NEIS G1",
+      "TopicName": "Conducta empresarial",
+      "SubTopic": [
+        "Corrupción y soborno"
+      ],
+      "SubSubTopics": [
+        "y detección, incluida la formación Prevención",
+        "Casos"
+      ]
+    }
+  ]
+}

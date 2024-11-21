@@ -1,0 +1,290 @@
+{
+  "Topic": "Teema",
+  "SubTopic": "Alateema",
+  "SubSubTopic": "Alateema alateemad",
+  "Topics": [
+    {
+      "Esrs": "ESRS E1",
+      "TopicName": "Kliimamuutused",
+      "SubTopic": [
+        "Kliimamuutustega kohanemine",
+        "Kliimamuutuste leevendamine",
+        "Energia"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E2",
+      "TopicName": "Saastus",
+      "SubTopic": [
+        "Õhusaaste",
+        "Veesaaste",
+        "Pinnase saastamine",
+        "Elusorganismide ja toiduressursside saastamine",
+        "Probleemsed ained",
+        "Väga ohtlikud ained",
+        "Mikroplast"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E3",
+      "TopicName": "Vee-ja mereressursid",
+      "SubTopic": [
+        "Vesi",
+        "Mereressursid"
+      ],
+      "SubSubTopics": [
+        "Veetarbimine",
+        "Veevõtt",
+        "Veeheide",
+        "Veeheide ookeanides",
+        "Mereressursside hõlvamine ja kasutamine"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Elurikkus ja ökosüsteemid",
+      "SubTopic": [
+        "Elurikkuse kadumise otsesed mõjurid"
+      ],
+      "SubSubTopics": [
+        "Kliimamuutused",
+        "Maakasutuse muutus, mageveekasutuse muutus ja merekasutuse muutus",
+        "Otsene ekspluateerimine",
+        "Invasiivsed võõrliigid",
+        "Saastus",
+        "Muu"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Elurikkus ja ökosüsteemid",
+      "SubTopic": [
+        "Mõjud liikide seisundile"
+      ],
+      "SubSubTopics": [
+        "Näited:",
+        "liigi populatsiooni suurus",
+        "liigi väljasuremise oht kogu maailmas"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Elurikkus ja ökosüsteemid",
+      "SubTopic": [
+        "Mõjud ökosüsteemide suurusele ja seisundile"
+      ],
+      "SubSubTopics": [
+        "Näited:",
+        "maa degradeerumine",
+        "kõrbestumine",
+        "mulla katmine"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Elurikkus ja ökosüsteemid",
+      "SubTopic": [
+        "Mõjud ökosüsteemi teenustele ja sõltuvus nendest"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E5",
+      "TopicName": "Ring-majandus",
+      "SubTopic": [
+        "Ressursside sisendvood, sealhulgas ressursside kasutamine",
+        "Toodete ja teenustega seotud ressursside väljundvood",
+        "Jäätmed"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Oma töötajaskond",
+      "SubTopic": [
+        "Töötingimused"
+      ],
+      "SubSubTopics": [
+        "Tööhõivekindlus",
+        "Tööaeg",
+        "Piisav töötasu",
+        "Sotsiaaldialoog",
+        "Ühinemisvabadus, töönõukogude olemasolu ning töötajate teavitamis-, konsulteerimis- ja osalemisõigus",
+        "Kollektiivläbirääkimised, sh kollektiivlepingutega hõlmatud töötajate määr",
+        "Töö ja eraelu tasakaal",
+        "Tervishoid ja ohutus"
+      ]
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Oma töötajaskond",
+      "SubTopic": [
+        "Võrdne kohtlemine ja võrdsed võimalused kõigile"
+      ],
+      "SubSubTopics": [
+        "Sooline võrdõiguslikkus ja võrdne palk võrdväärse töö eest",
+        "Koolitus ja oskuste arendamine",
+        "Puuetega inimeste tööhõive ja kaasamine",
+        "Meetmed vägivalla ja ahistamise vastu töökohal",
+        "Mitmekesisus"
+      ]
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Oma töötajaskond",
+      "SubTopic": [
+        "Muud tööga seotud õigused"
+      ],
+      "SubSubTopics": [
+        "Lapstööjõu kasutamine",
+        "Sunniviisiline töö",
+        "Piisav eluase",
+        "Eraelu puutumatus"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Töötajad väärtusahelas",
+      "SubTopic": [
+        "Töötingimused"
+      ],
+      "SubSubTopics": [
+        "Tööhõivekindlus",
+        "Tööaeg",
+        "Piisav töötasu",
+        "Sotsiaaldialoog",
+        "Ühinemisvabadus, sh töönõukogude olemasolu",
+        "Kollektiivläbirääkimised",
+        "Töö ja eraelu tasakaal",
+        "Tervishoid ja ohutus"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Töötajad väärtusahelas",
+      "SubTopic": [
+        "Võrdne kohtlemine ja võrdsed võimalused kõigile"
+      ],
+      "SubSubTopics": [
+        "Sooline võrdõiguslikkus ja võrdne tasu võrdväärse töö eest",
+        "Koolitus ja oskuste arendamine",
+        "Puuetega inimeste tööhõive ja kaasamine",
+        "Meetmed vägivalla ja ahistamise vastu töökohal",
+        "Mitmekesisus"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Töötajad väärtusahelas",
+      "SubTopic": [
+        "Muud tööga seotud õigused"
+      ],
+      "SubSubTopics": [
+        "Lapstööjõu kasutamine",
+        "Sunniviisiline töö",
+        "Piisav eluase",
+        "Vesi ja kanalisatsioon",
+        "Eraelu puutumatus"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Mõjutatud kogukonnad",
+      "SubTopic": [
+        "Kogukondade majanduslikud, sotsiaalsed ja kultuurilised õigused"
+      ],
+      "SubSubTopics": [
+        "Piisav eluase",
+        "Piisav toit",
+        "Vesi ja kanalisatsioon",
+        "Mõjud maale",
+        "Mõjud julgeolekule"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Mõjutatud kogukonnad",
+      "SubTopic": [
+        "Kogukondade kodaniku- ja poliitilised õigused"
+      ],
+      "SubSubTopics": [
+        "Väljendusvabadus",
+        "Kogunemisvabadus",
+        "Mõjud inimõiguste kaitsjatele"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Mõjutatud kogukonnad",
+      "SubTopic": [
+        "Põlisrahvaste õigused"
+      ],
+      "SubSubTopics": [
+        "Eelnev vabatahtlik ja teadev nõusolek",
+        "Enesemääramine",
+        "Kultuurilised õigused"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Tarbijad ja lõppkasutajad",
+      "SubTopic": [
+        "Teabega seotud mõjud tarbijatele ja/või lõppkasutajatele"
+      ],
+      "SubSubTopics": [
+        "Eraelu puutumatus",
+        "Väljendusvabadus",
+        "Juurdepääs (kvaliteet)teabele"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Tarbijad ja lõppkasutajad",
+      "SubTopic": [
+        "Tarbijate ja/või lõppkasutajate isiklik ohutus"
+      ],
+      "SubSubTopics": [
+        "Tervishoid ja ohutus",
+        "Isiku turvalisus",
+        "Lastekaitse"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Tarbijad ja lõppkasutajad",
+      "SubTopic": [
+        "Tarbijate ja/või lõppkasutajate sotsiaalne kaasamine"
+      ],
+      "SubSubTopics": [
+        "Diskrimineerimisest hoidumine",
+        "Juurdepääs toodetele ja teenustele",
+        "Vastutustundlikud turundustavad"
+      ]
+    },
+    {
+      "Esrs": "ESRS G1",
+      "TopicName": "Äriline käitumine",
+      "SubTopic": [
+        "Ettevõtte kultuur",
+        "Rikkumisest teatajate kaitse",
+        "Loomade heaolu",
+        "Poliitiline aktiivsus ja lobitöö",
+        "Suhete haldamine tarnijatega, sh maksetavad"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS G1",
+      "TopicName": "Äriline käitumine",
+      "SubTopic": [
+        "Korruptsioon ja altkäemaksu andmine"
+      ],
+      "SubSubTopics": [
+        "Ennetus ja avastamine, sh koolitus",
+        "Juhtumid"
+      ]
+    }
+  ]
+}

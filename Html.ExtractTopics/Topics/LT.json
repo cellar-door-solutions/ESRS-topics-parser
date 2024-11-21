@@ -1,0 +1,290 @@
+{
+  "Topic": "Tema",
+  "SubTopic": "Potemė",
+  "SubSubTopic": "Potemių potemės",
+  "Topics": [
+    {
+      "Esrs": "E1 ETAS",
+      "TopicName": "Klimato kaita",
+      "SubTopic": [
+        "Prisitaikymas prie klimato kaitos",
+        "Klimato kaitos švelninimas",
+        "Energetika"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "E2 ETAS",
+      "TopicName": "Tarša",
+      "SubTopic": [
+        "Oro tarša",
+        "Vandens tarša",
+        "Dirvožemio tarša",
+        "Gyvų organizmų ir maisto išteklių tarša",
+        "Susirūpinimą keliančios medžiagos",
+        "Labai didelį susirūpinimą keliančios medžiagos",
+        "Mikroplastikas"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "E3 ETAS",
+      "TopicName": "Vandens ir jūrų ištekliai",
+      "SubTopic": [
+        "Vandens ištekliai",
+        "Jūrų ištekliai"
+      ],
+      "SubSubTopics": [
+        "Vandens suvartojimas",
+        "Vandens ėmimas",
+        "Vandens išleidimas",
+        "Vandens išleidimas į vandenynus",
+        "Jūrų išteklių išgavimas ir naudojimas"
+      ]
+    },
+    {
+      "Esrs": "E4 ETAS",
+      "TopicName": "Biologinė įvairovė ir ekosistemos",
+      "SubTopic": [
+        "Tiesioginiai poveikio biologinės įvairovės nykimui veiksniai"
+      ],
+      "SubSubTopics": [
+        "Klimato kaita",
+        "Žemės naudojimo pokyčiai, gėlo vandens naudojimo pokyčiai ir jūrų naudojimo pokyčiai",
+        "Tiesioginis naudojimas",
+        "Invazinės svetimos rūšys",
+        "Tarša",
+        "Kita"
+      ]
+    },
+    {
+      "Esrs": "E4 ETAS",
+      "TopicName": "Biologinė įvairovė ir ekosistemos",
+      "SubTopic": [
+        "Poveikis rūšių būklei"
+      ],
+      "SubSubTopics": [
+        "Pavyzdžiai:",
+        "Rūšies populiacijos dydis",
+        "Rūšies išnykimo visame pasaulyje rizika"
+      ]
+    },
+    {
+      "Esrs": "E4 ETAS",
+      "TopicName": "Biologinė įvairovė ir ekosistemos",
+      "SubTopic": [
+        "Poveikis ekosistemų mastui ir būklei"
+      ],
+      "SubSubTopics": [
+        "Pavyzdžiai:",
+        "Žemės degradacija",
+        "Dykumėjimas",
+        "Dirvožemio sandarinimas"
+      ]
+    },
+    {
+      "Esrs": "E4 ETAS",
+      "TopicName": "Biologinė įvairovė ir ekosistemos",
+      "SubTopic": [
+        "Poveikis ekosisteminėms paslaugoms ir priklausomybė nuo jų"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "E5 ETAS",
+      "TopicName": "Žiedinė ekonomika",
+      "SubTopic": [
+        "Išteklių įvediniai, įskaitant išteklių naudojimą",
+        "Su produktais ir paslaugomis susiję išteklių išvediniai",
+        "Atliekos"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "S1 ETAS",
+      "TopicName": "Sava darbo jėga",
+      "SubTopic": [
+        "Darbo sąlygos"
+      ],
+      "SubSubTopics": [
+        "Užtikrintas užimtumas",
+        "Darbo laikas",
+        "Deramas darbo užmokestis",
+        "Socialinis dialogas",
+        "Asociacijų laisvė, esamos darbo tarybos ir darbuotojų informavimo, konsultavimosi su jais ir jų dalyvavimo teisės",
+        "Kolektyvinės derybos, įskaitant darbuotojų, kuriems taikomos kolektyvinės sutartys, dalį",
+        "Profesinio ir asmeninio gyvenimo pusiausvyra",
+        "Sveikata ir sauga"
+      ]
+    },
+    {
+      "Esrs": "S1 ETAS",
+      "TopicName": "Sava darbo jėga",
+      "SubTopic": [
+        "Vienodas požiūris ir lygios galimybės visiems"
+      ],
+      "SubSubTopics": [
+        "Lyčių lygybė ir vienodas užmokestis už vienodos vertės darbą",
+        "Mokymas ir įgūdžių ugdymas",
+        "Neįgaliųjų užimtumas ir įtrauktis",
+        "Kovos su smurtu ir priekabiavimu darbo vietoje priemonės",
+        "Įvairovė"
+      ]
+    },
+    {
+      "Esrs": "S1 ETAS",
+      "TopicName": "Sava darbo jėga",
+      "SubTopic": [
+        "Kitos su darbu susijusios teisės"
+      ],
+      "SubSubTopics": [
+        "Vaikų darbas",
+        "Priverčiamasis darbas",
+        "Tinkamas būstas",
+        "Privatumas"
+      ]
+    },
+    {
+      "Esrs": "S2 ETAS",
+      "TopicName": "Vertės grandinės darbuotojai",
+      "SubTopic": [
+        "Darbo sąlygos"
+      ],
+      "SubSubTopics": [
+        "Užtikrintas užimtumas",
+        "Darbo laikas",
+        "Deramas darbo užmokestis",
+        "Socialinis dialogas",
+        "Asociacijų laisvė, įskaitant darbo tarybų buvimą",
+        "Kolektyvinės sutartys",
+        "Profesinio ir asmeninio gyvenimo pusiausvyra",
+        "Sveikata ir sauga"
+      ]
+    },
+    {
+      "Esrs": "S2 ETAS",
+      "TopicName": "Vertės grandinės darbuotojai",
+      "SubTopic": [
+        "Vienodas požiūris ir lygios galimybės visiems"
+      ],
+      "SubSubTopics": [
+        "Lyčių lygybė ir vienodas užmokestis už vienodos vertės darbą",
+        "Mokymas ir įgūdžių ugdymas",
+        "Neįgaliųjų užimtumas ir įtrauktis",
+        "Kovos su smurtu ir priekabiavimu darbo vietoje priemonės",
+        "Įvairovė"
+      ]
+    },
+    {
+      "Esrs": "S2 ETAS",
+      "TopicName": "Vertės grandinės darbuotojai",
+      "SubTopic": [
+        "Kitos su darbu susijusios teisės"
+      ],
+      "SubSubTopics": [
+        "Vaikų darbas",
+        "Priverčiamasis darbas",
+        "Tinkamas būstas",
+        "Vanduo ir sanitarija",
+        "Privatumas"
+      ]
+    },
+    {
+      "Esrs": "S3 ETAS",
+      "TopicName": "Paveikiamos bendruomenės",
+      "SubTopic": [
+        "Bendruomenių ekonominės, socialinės ir kultūrinės teisės"
+      ],
+      "SubSubTopics": [
+        "Tinkamas būstas",
+        "Tinkamas maistas",
+        "Vanduo ir sanitarija",
+        "Su žeme susijęs poveikis",
+        "Su saugumu susijęs poveikis"
+      ]
+    },
+    {
+      "Esrs": "S3 ETAS",
+      "TopicName": "Paveikiamos bendruomenės",
+      "SubTopic": [
+        "Bendruomenių pilietinės ir politinės teisės"
+      ],
+      "SubSubTopics": [
+        "Saviraiškos laisvė",
+        "Susirinkimų laisvė",
+        "Poveikis žmogaus teisių gynėjams"
+      ]
+    },
+    {
+      "Esrs": "S3 ETAS",
+      "TopicName": "Paveikiamos bendruomenės",
+      "SubTopic": [
+        "Čiabuvių teisės"
+      ],
+      "SubSubTopics": [
+        "Laisvas, išankstinis ir informacija grindžiamas sutikimas",
+        "Apsisprendimas",
+        "Kultūrinės teisės"
+      ]
+    },
+    {
+      "Esrs": "S4 ETAS",
+      "TopicName": "Vartotojai irgalutiniai naudotojai",
+      "SubTopic": [
+        "Su informacija susijęs poveikis vartotojams ir (arba) galutiniams naudotojams"
+      ],
+      "SubSubTopics": [
+        "Privatumas",
+        "Saviraiškos laisvė",
+        "Galimybė gauti (kokybišką) informaciją"
+      ]
+    },
+    {
+      "Esrs": "S4 ETAS",
+      "TopicName": "Vartotojai irgalutiniai naudotojai",
+      "SubTopic": [
+        "Vartotojų ir (arba) galutinių naudotojų asmeninė sauga"
+      ],
+      "SubSubTopics": [
+        "Sveikata ir sauga",
+        "Asmens saugumas",
+        "Vaikų apsauga"
+      ]
+    },
+    {
+      "Esrs": "S4 ETAS",
+      "TopicName": "Vartotojai irgalutiniai naudotojai",
+      "SubTopic": [
+        "Vartotojų ir (arba) galutinių naudotojų socialinė įtrauktis"
+      ],
+      "SubSubTopics": [
+        "Nediskriminavimas",
+        "Prieiga prie produktų ir paslaugų",
+        "Atsakinga rinkodara"
+      ]
+    },
+    {
+      "Esrs": "G1 ETAS",
+      "TopicName": "Verslo etika",
+      "SubTopic": [
+        "Įmonės kultūra",
+        "Pranešėjų apsauga",
+        "Gyvūnų gerovė",
+        "Politinis angažavimasis ir lobistinė veikla",
+        "Santykių su tiekėjais valdymas, įskaitant mokėjimo praktiką"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "G1 ETAS",
+      "TopicName": "Verslo etika",
+      "SubTopic": [
+        "Korupcija ir kyšininkavimas"
+      ],
+      "SubSubTopics": [
+        "Prevencija ir aptikimas, įskaitant mokymą",
+        "Incidentai"
+      ]
+    }
+  ]
+}

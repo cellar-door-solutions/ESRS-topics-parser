@@ -1,0 +1,290 @@
+{
+  "Topic": "Emne",
+  "SubTopic": "Underemne",
+  "SubSubTopic": "Under-underemner",
+  "Topics": [
+    {
+      "Esrs": "ESRS E1",
+      "TopicName": "Klimaændringer",
+      "SubTopic": [
+        "Tilpasning til klimaændringer",
+        "Modvirkning af klimaændringer",
+        "Energi"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E2",
+      "TopicName": "Forurening",
+      "SubTopic": [
+        "Luftforurening",
+        "Vandforurening",
+        "Jordbundsforurening",
+        "Forurening af levende organismer og fødevareressourcer",
+        "Problematiske stoffer",
+        "Særligt problematiske stoffer",
+        "Mikroplast"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E3",
+      "TopicName": "Vand og havressourcer",
+      "SubTopic": [
+        "Vand",
+        "Havressourcer"
+      ],
+      "SubSubTopics": [
+        "Vandforbrug",
+        "Vandudtag",
+        "Spildevandsudledning",
+        "Udledning af vand i havene",
+        "Udvinding og udnyttelse af havressourcer"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biodiversitet og økosystemer",
+      "SubTopic": [
+        "Direkte drivkræfter for indvirkning på tab af biodiversitet"
+      ],
+      "SubSubTopics": [
+        "Klimaændringer",
+        "Ændringer i arealanvendelsen, ændringer i anvendelsen af ferskvand og ændringer i anvendelsen af havet",
+        "Direkte udnyttelse",
+        "Invasive ikkehjemmehørende arter",
+        "Forurening",
+        "Andre"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biodiversitet og økosystemer",
+      "SubTopic": [
+        "Indvirkninger på arters tilstand"
+      ],
+      "SubSubTopics": [
+        "Eksempler:",
+        "Artens bestandsstørrelse",
+        "Artens udryddelsesrisiko på verdensplan"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biodiversitet og økosystemer",
+      "SubTopic": [
+        "Indvirkninger på økosystemers omfang og tilstand"
+      ],
+      "SubSubTopics": [
+        "Eksempler:",
+        "Jordforringelse",
+        "Ørkendannelse",
+        "Arealbefæstelse"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biodiversitet og økosystemer",
+      "SubTopic": [
+        "Indvirkninger på og afhængigheder af økosystemtjenester"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E5",
+      "TopicName": "Cirkulær økonomi",
+      "SubTopic": [
+        "Ressourceinput, herunder ressourceforbrug",
+        "Ressourceoutput i forbindelse med produkter og tjenesteydelser",
+        "Affald"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Egen arbejdsstyrke",
+      "SubTopic": [
+        "Arbejdsvilkår"
+      ],
+      "SubSubTopics": [
+        "Sikker beskæftigelse",
+        "Arbejdstid",
+        "Passende aflønning",
+        "Arbejdsmarkedsdialog",
+        "Foreningsfrihed, eksistensen af samarbejdsudvalg og arbejdstagernes ret til information, høring og deltagelse",
+        "Kollektive overenskomstforhandlinger, herunder andelen af arbejdstagere, der er omfattet af kollektive overenskomster",
+        "Balance mellem arbejdsliv og privatliv",
+        "Sundhed og sikkerhed"
+      ]
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Egen arbejdsstyrke",
+      "SubTopic": [
+        "Ligebehandling og lige muligheder for alle, herunder:"
+      ],
+      "SubSubTopics": [
+        "Ligestilling mellem kønnene og lige løn for arbejde af samme værdi",
+        "Uddannelse og kompetenceudvikling",
+        "Beskæftigelse og inklusion af personer med handicap",
+        "Tiltag mod vold og chikane på arbejdspladsen",
+        "Mangfoldighed"
+      ]
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Egen arbejdsstyrke",
+      "SubTopic": [
+        "Andre arbejdsrelaterede rettigheder"
+      ],
+      "SubSubTopics": [
+        "Børnearbejde",
+        "Tvangsarbejde",
+        "Ordentlige boligforhold",
+        "Privatlivets fred"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Arbejdstagere i værdikæden",
+      "SubTopic": [
+        "Arbejdsvilkår"
+      ],
+      "SubSubTopics": [
+        "Sikker beskæftigelse",
+        "Arbejdstid",
+        "Passende aflønning",
+        "Arbejdsmarkedsdialog",
+        "Foreningsfrihed, herunder eksistensen af samarbejdsudvalg",
+        "Kollektive forhandlinger",
+        "Balance mellem arbejdsliv og privatliv",
+        "Sundhed og sikkerhed"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Arbejdstagere i værdikæden",
+      "SubTopic": [
+        "Ligebehandling og lige muligheder for alle, herunder:"
+      ],
+      "SubSubTopics": [
+        "Ligestilling mellem kønnene og lige løn for arbejde af samme værdi",
+        "Uddannelse og kompetenceudvikling",
+        "Beskæftigelse og inklusion af personer med handicap",
+        "Tiltag mod vold og chikane på arbejdspladsen",
+        "Mangfoldighed"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Arbejdstagere i værdikæden",
+      "SubTopic": [
+        "Andre arbejdsrelaterede rettigheder"
+      ],
+      "SubSubTopics": [
+        "Børnearbejde",
+        "Tvangsarbejde",
+        "Ordentlige boligforhold",
+        "Vand og sanitet",
+        "Privatlivets fred"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Berørte samfund",
+      "SubTopic": [
+        "Samfundenes økonomiske, sociale og kulturelle rettigheder"
+      ],
+      "SubSubTopics": [
+        "Ordentlige boligforhold",
+        "Passende fødevarer",
+        "Vand og sanitet",
+        "Arealrelaterede indvirkninger",
+        "Sikkerhedsrelaterede indvirkninger"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Berørte samfund",
+      "SubTopic": [
+        "Samfundenes borgerlige og politiske rettigheder"
+      ],
+      "SubSubTopics": [
+        "Ytringsfrihed",
+        "Forsamlingsfrihed",
+        "Konsekvenser for menneskerettighedsforkæmpere"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Berørte samfund",
+      "SubTopic": [
+        "Oprindelige folks rettigheder"
+      ],
+      "SubSubTopics": [
+        "Frit, forudgående og informeret samtykke",
+        "Selvbestemmelse",
+        "Kulturelle rettigheder"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Forbrugere og slutbrugere",
+      "SubTopic": [
+        "Informationsrelaterede indvirkninger på forbrugere og/eller slutbrugere"
+      ],
+      "SubSubTopics": [
+        "Privatlivets fred",
+        "Ytringsfrihed",
+        "Adgang til (kvalitets-)oplysninger"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Forbrugere og slutbrugere",
+      "SubTopic": [
+        "Forbrugernes og/eller slutbrugernes personlige sikkerhed"
+      ],
+      "SubSubTopics": [
+        "Sundhed og sikkerhed",
+        "En persons sikkerhed",
+        "Beskyttelse af børn"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Forbrugere og slutbrugere",
+      "SubTopic": [
+        "Social inklusion af forbrugere og/eller slutbrugere"
+      ],
+      "SubSubTopics": [
+        "Ikkediskriminerende behandling",
+        "Adgang til produkter og tjenesteydelser",
+        "Ansvarlig markedsføringspraksis"
+      ]
+    },
+    {
+      "Esrs": "ESRS G1",
+      "TopicName": "Virksomhedsadfærd",
+      "SubTopic": [
+        "Virksomhedskultur",
+        "Beskyttelse af whistleblowere",
+        "Dyrevelfærd",
+        "Politisk engagement og lobbyvirksomhed",
+        "Forvaltning af forbindelser med leverandører, herunder betalingspraksis"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS G1",
+      "TopicName": "Virksomhedsadfærd",
+      "SubTopic": [
+        "Korruption og bestikkelse"
+      ],
+      "SubSubTopics": [
+        "Forebyggelse og opdagelse, herunder uddannelse",
+        "Hændelser"
+      ]
+    }
+  ]
+}

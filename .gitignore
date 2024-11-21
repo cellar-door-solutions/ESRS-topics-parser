@@ -1,0 +1,84 @@
+# Build artifacts
+bin/
+obj/
+out/
+
+# Visual Studio/JetBrains Rider/VS Code settings
+.vs/
+.idea/
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.log
+*.tlog
+*.pdb
+*.cache
+*.ilk
+*.idb
+*.obj
+*.exe
+*.dll
+*.pyc
+*.class
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored if you enable Package Restore in NuGet
+packages/
+# Uncomment if necessary, but generally it’s not needed
+# !packages/repositories.config
+
+# Dotnet-specific artifacts
+*.dbmdl
+*.ds_store
+*.generated.cs
+*.mdb
+*.pidb
+
+# Visual Studio temporary files
+_TemporaryKey.pfx
+*.publishsettings
+
+# Deployment and debug
+.publish/
+*.pubxml
+*.pubxml.user
+*.zip
+*.aplnote
+*.log
+*.bak
+*.old
+*.orig
+*.swp
+*.tmp
+
+# Logs
+*.log
+
+# Resharper/EditorConfig
+_ReSharper*
+*.DotSettings.user
+.editorconfig
+
+# Rider
+.idea/
+*.idea/
+
+# macOS files
+.DS_Store
+
+# SQL Server generated files
+*.mdf
+*.ldf
+*.ndf
+
+# Other
+*.csv
+*.db
+

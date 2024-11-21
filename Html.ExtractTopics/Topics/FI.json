@@ -1,0 +1,290 @@
+{
+  "Topic": "Aihe",
+  "SubTopic": "Osa-aihe",
+  "SubSubTopic": "Osaosa-aiheet",
+  "Topics": [
+    {
+      "Esrs": "ESRS E1",
+      "TopicName": "Ilmastonmuutos",
+      "SubTopic": [
+        "Ilmastonmuutokseen sopeutuminen",
+        "Ilmastonmuutoksen hillintä",
+        "Energia"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E2",
+      "TopicName": "Pilaantuminen",
+      "SubTopic": [
+        "Ilman pilaantuminen",
+        "Veden pilaantuminen",
+        "Maaperän pilaantuminen",
+        "Elävien organismien ja elintarvikkeiden pilaantuminen",
+        "Ongelma-aineet",
+        "Erityistä huolta aiheuttavat aineet",
+        "Mikromuovit"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E3",
+      "TopicName": "Vesivarat ja merten luonnonvarat",
+      "SubTopic": [
+        "Vesi",
+        "Merten luonnonvarat"
+      ],
+      "SubSubTopics": [
+        "Vedenkulutus",
+        "Vedenotto",
+        "Jätevesipäästöt",
+        "Jätevesipäästöt valtameriin",
+        "Merten luonnonvarojen hyödyntäminen ja käyttö"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biologinen monimuotoisuus ja ekosysteemit",
+      "SubTopic": [
+        "Biologisen monimuotoisuuden vähenemisen suorat vaikutustekijät"
+      ],
+      "SubSubTopics": [
+        "Ilmastonmuutos",
+        "Maankäytön muutokset, makean veden ja merten käytön muutokset",
+        "Suora hyödyntäminen",
+        "Haitalliset vieraslajit",
+        "Pilaantuminen",
+        "Muut"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biologinen monimuotoisuus ja ekosysteemit",
+      "SubTopic": [
+        "Vaikutukset lajien tilaan"
+      ],
+      "SubSubTopics": [
+        "Esimerkkejä:",
+        "Lajin populaation koko",
+        "Lajin maailmanlaajuisen sukupuuton riski"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biologinen monimuotoisuus ja ekosysteemit",
+      "SubTopic": [
+        "Vaikutukset ekosysteemien laajuuteen ja tilaan"
+      ],
+      "SubSubTopics": [
+        "Esimerkkejä:",
+        "Maaympäristön tilan heikkeneminen",
+        "Aavikoituminen",
+        "Maaperän sulkeminen rakentamisella"
+      ]
+    },
+    {
+      "Esrs": "ESRS E4",
+      "TopicName": "Biologinen monimuotoisuus ja ekosysteemit",
+      "SubTopic": [
+        "Vaikutukset ekosysteemipalveluihin ja riippuvuudet niistä"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS E5",
+      "TopicName": "Kiertotalous",
+      "SubTopic": [
+        "Resurssien sisäänvirtaukset, mukaan lukien resurssien käyttö",
+        "Tuotteisiin ja palveluihin liittyvät resurssien ulosvirtaukset",
+        "Jäte"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Oma työvoima",
+      "SubTopic": [
+        "Työolot"
+      ],
+      "SubSubTopics": [
+        "Työllisyysturva",
+        "Työaika",
+        "Riittävä palkka",
+        "Työmarkkinaosapuolten vuoropuhelu",
+        "Yhdistymisvapaus, yritysneuvostojen olemassaolo sekä työntekijöiden tiedonsaanti-, kuulemis- ja osallistumisoikeudet",
+        "Työehtosopimusneuvottelut, mukaan lukien työehtosopimusten piiriin kuuluvien työntekijöiden osuus",
+        "Työ- ja yksityiselämän tasapaino",
+        "Terveys ja turvallisuus"
+      ]
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Oma työvoima",
+      "SubTopic": [
+        "Yhdenvertainen kohtelu ja yhtäläiset mahdollisuudet kaikille"
+      ],
+      "SubSubTopics": [
+        "Sukupuolten tasa-arvo ja sama palkka samanarvoisesta työstä",
+        "Koulutus ja taitojen kehittäminen",
+        "Vammaisten ja toimintarajoitteisten henkilöiden työllistäminen ja inkluusio",
+        "Toimenpiteet työpaikalla esiintyvän väkivallan ja häirinnän torjumiseksi",
+        "Moninaisuus"
+      ]
+    },
+    {
+      "Esrs": "ESRS S1",
+      "TopicName": "Oma työvoima",
+      "SubTopic": [
+        "Muut työhön liittyvät oikeudet"
+      ],
+      "SubSubTopics": [
+        "Lapsityövoima",
+        "Pakkotyö",
+        "Asianmukaiset asuinolot",
+        "Yksityisyys"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Arvoketjun työntekijät",
+      "SubTopic": [
+        "Työolot"
+      ],
+      "SubSubTopics": [
+        "Työllisyysturva",
+        "Työaika",
+        "Riittävä palkka",
+        "Työmarkkinaosapuolten vuoropuhelu",
+        "Yhdistymisvapaus, mukaan lukien yritysneuvostojen olemassaolo",
+        "Työehtosopimusneuvottelut",
+        "Työ- ja yksityiselämän tasapaino",
+        "Terveys ja turvallisuus"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Arvoketjun työntekijät",
+      "SubTopic": [
+        "Yhdenvertainen kohtelu ja yhtäläiset mahdollisuudet kaikille"
+      ],
+      "SubSubTopics": [
+        "Sukupuolten tasa-arvo ja sama palkka samanarvoisesta työstä",
+        "Koulutus ja taitojen kehittäminen",
+        "Vammaisten ja toimintarajoitteisten henkilöiden työllistäminen ja inkluusio",
+        "Toimenpiteet työpaikalla esiintyvän väkivallan ja häirinnän torjumiseksi",
+        "Moninaisuus"
+      ]
+    },
+    {
+      "Esrs": "ESRS S2",
+      "TopicName": "Arvoketjun työntekijät",
+      "SubTopic": [
+        "Muut työhön liittyvät oikeudet"
+      ],
+      "SubSubTopics": [
+        "Lapsityövoima",
+        "Pakkotyö",
+        "Asianmukaiset asuinolot",
+        "Puhdas vesi ja sanitaatio",
+        "Yksityisyys"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Vaikutusten kohteena olevat yhteisöt",
+      "SubTopic": [
+        "Yhteisöjen taloudelliset, sosiaaliset ja sivistykselliset oikeudet"
+      ],
+      "SubSubTopics": [
+        "Asianmukaiset asuinolot",
+        "Riittävä ruoka",
+        "Puhdas vesi ja sanitaatio",
+        "Maahan liittyvät vaikutukset",
+        "Turvallisuuteen liittyvät vaikutukset"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Vaikutusten kohteena olevat yhteisöt",
+      "SubTopic": [
+        "Yhteisöjen kansalaisoikeudet ja poliittiset oikeudet"
+      ],
+      "SubSubTopics": [
+        "Sananvapaus",
+        "Kokoontumisvapaus",
+        "Vaikutukset ihmisoikeuksien puolustajiin"
+      ]
+    },
+    {
+      "Esrs": "ESRS S3",
+      "TopicName": "Vaikutusten kohteena olevat yhteisöt",
+      "SubTopic": [
+        "Alkuperäiskansojen oikeudet"
+      ],
+      "SubSubTopics": [
+        "Vapaa ja tietoon perustuva ennakkosuostumus",
+        "Itsemääräämisoikeus",
+        "Sivistykselliset oikeudet"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Consumers and end- users",
+      "SubTopic": [
+        "Tietoihin liittyvät kuluttajiin ja/tai loppukäyttäjiin kohdistuvat vaikutukset"
+      ],
+      "SubSubTopics": [
+        "Yksityisyys",
+        "Sananvapaus",
+        "(Laadukkaiden) tietojen saatavuus"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Consumers and end- users",
+      "SubTopic": [
+        "Kuluttajien ja/tai loppukäyttäjien henkilökohtainen turvallisuus"
+      ],
+      "SubSubTopics": [
+        "Terveys ja turvallisuus",
+        "Henkilönsuoja",
+        "Lasten suojeleminen"
+      ]
+    },
+    {
+      "Esrs": "ESRS S4",
+      "TopicName": "Consumers and end- users",
+      "SubTopic": [
+        "Kuluttajien ja/tai loppukäyttäjien sosiaalinen inkluusio"
+      ],
+      "SubSubTopics": [
+        "Syrjimättömyys",
+        "Tuotteiden ja palvelujen saanti",
+        "Responsible marketing practices"
+      ]
+    },
+    {
+      "Esrs": "ESRS G1",
+      "TopicName": "Liiketoiminnan harjoittaminen",
+      "SubTopic": [
+        "Yrityskulttuuri",
+        "Väärinkäytösten paljastajien suojelu",
+        "Eläinten hyvinvointi",
+        "Poliittinen vuorovaikutus ja lobbaustoiminta",
+        "Suhteet tavaran- ja palveluntoimittajiin, mukaan lukien maksukäytännöt"
+      ],
+      "SubSubTopics": []
+    },
+    {
+      "Esrs": "ESRS G1",
+      "TopicName": "Liiketoiminnan harjoittaminen",
+      "SubTopic": [
+        "Korruptio ja lahjonta"
+      ],
+      "SubSubTopics": [
+        "Ehkäiseminen ja havaitseminen, mukaan lukien koulutus",
+        "Tapaukset"
+      ]
+    }
+  ]
+}
