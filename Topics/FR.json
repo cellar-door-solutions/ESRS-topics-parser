@@ -6,7 +6,7 @@
     {
       "Esrs": "ESRS E1",
       "TopicName": "Changement climatique",
-      "SubTopic": [
+      "SubTopics": [
         "Adaptation au changement climatique",
         "Atténuation du changement climatique",
         "Énergie"
@@ -16,7 +16,7 @@
     {
       "Esrs": "ESRS E2",
       "TopicName": "Pollution",
-      "SubTopic": [
+      "SubTopics": [
         "Pollution de l’air",
         "Pollution des eaux",
         "Pollution des sols",
@@ -30,7 +30,7 @@
     {
       "Esrs": "ESRS E3",
       "TopicName": "Ressources hydriques et marines",
-      "SubTopic": [
+      "SubTopics": [
         "Eau",
         "Ressources marines"
       ],
@@ -45,7 +45,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodiversité et écosystèmes",
-      "SubTopic": [
+      "SubTopics": [
         "Vecteurs directs de perte de biodiversité"
       ],
       "SubSubTopics": [
@@ -60,7 +60,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodiversité et écosystèmes",
-      "SubTopic": [
+      "SubTopics": [
         "Impacts sur l’état des espèces"
       ],
       "SubSubTopics": [
@@ -72,7 +72,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodiversité et écosystèmes",
-      "SubTopic": [
+      "SubTopics": [
         "Impacts sur l’étendue et l’état des écosystèmes"
       ],
       "SubSubTopics": [
@@ -85,7 +85,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodiversité et écosystèmes",
-      "SubTopic": [
+      "SubTopics": [
         "Impacts et dépendances sur les services écosystémiques"
       ],
       "SubSubTopics": []
@@ -93,7 +93,7 @@
     {
       "Esrs": "ESRS E5",
       "TopicName": "Économie circulaire",
-      "SubTopic": [
+      "SubTopics": [
         "Flux de ressources entrants, y compris l’utilisation des ressources",
         "Flux de ressources sortants liés aux produits et services",
         "Déchets"
@@ -103,7 +103,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Personnel de l’entreprise",
-      "SubTopic": [
+      "SubTopics": [
         "Conditions de travail"
       ],
       "SubSubTopics": [
@@ -120,7 +120,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Personnel de l’entreprise",
-      "SubTopic": [
+      "SubTopics": [
         "Égalité de traitement et égalité des chances pour tous"
       ],
       "SubSubTopics": [
@@ -134,7 +134,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Personnel de l’entreprise",
-      "SubTopic": [
+      "SubTopics": [
         "Autres droits liés au travail"
       ],
       "SubSubTopics": [
@@ -147,7 +147,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Travailleurs de la chaîne de valeur",
-      "SubTopic": [
+      "SubTopics": [
         "Conditions de travail"
       ],
       "SubSubTopics": [
@@ -164,7 +164,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Travailleurs de la chaîne de valeur",
-      "SubTopic": [
+      "SubTopics": [
         "Égalité de traitement et égalité des chances pour tous"
       ],
       "SubSubTopics": [
@@ -178,7 +178,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Travailleurs de la chaîne de valeur",
-      "SubTopic": [
+      "SubTopics": [
         "Autres droits liés au travail"
       ],
       "SubSubTopics": [
@@ -192,7 +192,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Communautés affectées",
-      "SubTopic": [
+      "SubTopics": [
         "Droits économiques, sociaux et culturels des communautés"
       ],
       "SubSubTopics": [
@@ -206,7 +206,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Communautés affectées",
-      "SubTopic": [
+      "SubTopics": [
         "Droits civils et politiques des communautés"
       ],
       "SubSubTopics": [
@@ -218,7 +218,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Communautés affectées",
-      "SubTopic": [
+      "SubTopics": [
         "Droits des peuples autochtones"
       ],
       "SubSubTopics": [
@@ -230,7 +230,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Consommateurs et utilisateurs finaux",
-      "SubTopic": [
+      "SubTopics": [
         "Impacts liés aux informations sur les consommateurs et/ou les utilisateurs finaux"
       ],
       "SubSubTopics": [
@@ -242,7 +242,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Consommateurs et utilisateurs finaux",
-      "SubTopic": [
+      "SubTopics": [
         "Sécurité des consommateurs et/ou des utilisateurs finaux"
       ],
       "SubSubTopics": [
@@ -254,7 +254,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Consommateurs et utilisateurs finaux",
-      "SubTopic": [
+      "SubTopics": [
         "Inclusion sociale des consommateurs et/ou des utilisateurs finaux"
       ],
       "SubSubTopics": [
@@ -266,7 +266,7 @@
     {
       "Esrs": "ESRS G1",
       "TopicName": "Conduite des affaires",
-      "SubTopic": [
+      "SubTopics": [
         "Culture d’entreprise",
         "Protection des lanceurs d’alerte",
         "Bien-être animal",
@@ -278,7 +278,7 @@
     {
       "Esrs": "ESRS G1",
       "TopicName": "Conduite des affaires",
-      "SubTopic": [
+      "SubTopics": [
         "Corruption et versement de pots-de-vin"
       ],
       "SubSubTopics": [

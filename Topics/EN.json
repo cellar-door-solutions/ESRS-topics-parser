@@ -6,7 +6,7 @@
     {
       "Esrs": "ESRS E1",
       "TopicName": "Climate change",
-      "SubTopic": [
+      "SubTopics": [
         "Climate change adaptation",
         "Climate change mitigation",
         "Energy"
@@ -16,7 +16,7 @@
     {
       "Esrs": "ESRS E2",
       "TopicName": "Pollution",
-      "SubTopic": [
+      "SubTopics": [
         "Pollution of air",
         "Pollution of water",
         "Pollution of soil",
@@ -30,7 +30,7 @@
     {
       "Esrs": "ESRS E3",
       "TopicName": "Water and marine resources",
-      "SubTopic": [
+      "SubTopics": [
         "Water",
         "Marine resources"
       ],
@@ -45,7 +45,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodiversity and ecosystems",
-      "SubTopic": [
+      "SubTopics": [
         "Direct impact drivers of biodiversity loss"
       ],
       "SubSubTopics": [
@@ -60,7 +60,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodiversity and ecosystems",
-      "SubTopic": [
+      "SubTopics": [
         "Impacts on the state of species"
       ],
       "SubSubTopics": [
@@ -72,7 +72,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodiversity and ecosystems",
-      "SubTopic": [
+      "SubTopics": [
         "Impacts on the extent and condition of ecosystems"
       ],
       "SubSubTopics": [
@@ -85,7 +85,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodiversity and ecosystems",
-      "SubTopic": [
+      "SubTopics": [
         "Impacts and dependencies on ecosystem services"
       ],
       "SubSubTopics": []
@@ -93,7 +93,7 @@
     {
       "Esrs": "ESRS E5",
       "TopicName": "Circular economy",
-      "SubTopic": [
+      "SubTopics": [
         "Resources inflows, including resource use",
         "Resource outflows related to products and services",
         "Waste"
@@ -103,7 +103,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Own workforce",
-      "SubTopic": [
+      "SubTopics": [
         "Working conditions"
       ],
       "SubSubTopics": [
@@ -120,7 +120,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Own workforce",
-      "SubTopic": [
+      "SubTopics": [
         "Equal treatment and opportunities for all"
       ],
       "SubSubTopics": [
@@ -134,7 +134,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Own workforce",
-      "SubTopic": [
+      "SubTopics": [
         "Other work-related rights"
       ],
       "SubSubTopics": [
@@ -147,7 +147,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Workers in the value chain",
-      "SubTopic": [
+      "SubTopics": [
         "Working conditions"
       ],
       "SubSubTopics": [
@@ -164,7 +164,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Workers in the value chain",
-      "SubTopic": [
+      "SubTopics": [
         "Equal treatment and opportunities for all"
       ],
       "SubSubTopics": [
@@ -178,7 +178,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Workers in the value chain",
-      "SubTopic": [
+      "SubTopics": [
         "Other work-related rights"
       ],
       "SubSubTopics": [
@@ -192,7 +192,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Affected communities",
-      "SubTopic": [
+      "SubTopics": [
         "Communities’ economic, social and cultural rights"
       ],
       "SubSubTopics": [
@@ -206,7 +206,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Affected communities",
-      "SubTopic": [
+      "SubTopics": [
         "Communities’ civil and political rights"
       ],
       "SubSubTopics": [
@@ -218,7 +218,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Affected communities",
-      "SubTopic": [
+      "SubTopics": [
         "Rights of indigenous peoples"
       ],
       "SubSubTopics": [
@@ -230,7 +230,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Consumers and end- users",
-      "SubTopic": [
+      "SubTopics": [
         "Information-related impacts for consumers and/or end-users"
       ],
       "SubSubTopics": [
@@ -242,7 +242,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Consumers and end- users",
-      "SubTopic": [
+      "SubTopics": [
         "Personal safety of consumers and/or end-users"
       ],
       "SubSubTopics": [
@@ -254,7 +254,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Consumers and end- users",
-      "SubTopic": [
+      "SubTopics": [
         "Social inclusion of consumers and/or end-users"
       ],
       "SubSubTopics": [
@@ -266,7 +266,7 @@
     {
       "Esrs": "ESRS G1",
       "TopicName": "Business conduct",
-      "SubTopic": [
+      "SubTopics": [
         "Corporate culture",
         "Protection of whistle-blowers",
         "Animal welfare",
@@ -278,7 +278,7 @@
     {
       "Esrs": "ESRS G1",
       "TopicName": "Business conduct",
-      "SubTopic": [
+      "SubTopics": [
         "Corruption and bribery"
       ],
       "SubSubTopics": [

@@ -6,7 +6,7 @@
     {
       "Esrs": "ESRS E1",
       "TopicName": "Ilmastonmuutos",
-      "SubTopic": [
+      "SubTopics": [
         "Ilmastonmuutokseen sopeutuminen",
         "Ilmastonmuutoksen hillintä",
         "Energia"
@@ -16,7 +16,7 @@
     {
       "Esrs": "ESRS E2",
       "TopicName": "Pilaantuminen",
-      "SubTopic": [
+      "SubTopics": [
         "Ilman pilaantuminen",
         "Veden pilaantuminen",
         "Maaperän pilaantuminen",
@@ -30,7 +30,7 @@
     {
       "Esrs": "ESRS E3",
       "TopicName": "Vesivarat ja merten luonnonvarat",
-      "SubTopic": [
+      "SubTopics": [
         "Vesi",
         "Merten luonnonvarat"
       ],
@@ -45,7 +45,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biologinen monimuotoisuus ja ekosysteemit",
-      "SubTopic": [
+      "SubTopics": [
         "Biologisen monimuotoisuuden vähenemisen suorat vaikutustekijät"
       ],
       "SubSubTopics": [
@@ -60,7 +60,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biologinen monimuotoisuus ja ekosysteemit",
-      "SubTopic": [
+      "SubTopics": [
         "Vaikutukset lajien tilaan"
       ],
       "SubSubTopics": [
@@ -72,7 +72,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biologinen monimuotoisuus ja ekosysteemit",
-      "SubTopic": [
+      "SubTopics": [
         "Vaikutukset ekosysteemien laajuuteen ja tilaan"
       ],
       "SubSubTopics": [
@@ -85,7 +85,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biologinen monimuotoisuus ja ekosysteemit",
-      "SubTopic": [
+      "SubTopics": [
         "Vaikutukset ekosysteemipalveluihin ja riippuvuudet niistä"
       ],
       "SubSubTopics": []
@@ -93,7 +93,7 @@
     {
       "Esrs": "ESRS E5",
       "TopicName": "Kiertotalous",
-      "SubTopic": [
+      "SubTopics": [
         "Resurssien sisäänvirtaukset, mukaan lukien resurssien käyttö",
         "Tuotteisiin ja palveluihin liittyvät resurssien ulosvirtaukset",
         "Jäte"
@@ -103,7 +103,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Oma työvoima",
-      "SubTopic": [
+      "SubTopics": [
         "Työolot"
       ],
       "SubSubTopics": [
@@ -120,7 +120,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Oma työvoima",
-      "SubTopic": [
+      "SubTopics": [
         "Yhdenvertainen kohtelu ja yhtäläiset mahdollisuudet kaikille"
       ],
       "SubSubTopics": [
@@ -134,7 +134,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Oma työvoima",
-      "SubTopic": [
+      "SubTopics": [
         "Muut työhön liittyvät oikeudet"
       ],
       "SubSubTopics": [
@@ -147,7 +147,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Arvoketjun työntekijät",
-      "SubTopic": [
+      "SubTopics": [
         "Työolot"
       ],
       "SubSubTopics": [
@@ -164,7 +164,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Arvoketjun työntekijät",
-      "SubTopic": [
+      "SubTopics": [
         "Yhdenvertainen kohtelu ja yhtäläiset mahdollisuudet kaikille"
       ],
       "SubSubTopics": [
@@ -178,7 +178,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Arvoketjun työntekijät",
-      "SubTopic": [
+      "SubTopics": [
         "Muut työhön liittyvät oikeudet"
       ],
       "SubSubTopics": [
@@ -192,7 +192,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Vaikutusten kohteena olevat yhteisöt",
-      "SubTopic": [
+      "SubTopics": [
         "Yhteisöjen taloudelliset, sosiaaliset ja sivistykselliset oikeudet"
       ],
       "SubSubTopics": [
@@ -206,7 +206,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Vaikutusten kohteena olevat yhteisöt",
-      "SubTopic": [
+      "SubTopics": [
         "Yhteisöjen kansalaisoikeudet ja poliittiset oikeudet"
       ],
       "SubSubTopics": [
@@ -218,7 +218,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Vaikutusten kohteena olevat yhteisöt",
-      "SubTopic": [
+      "SubTopics": [
         "Alkuperäiskansojen oikeudet"
       ],
       "SubSubTopics": [
@@ -230,7 +230,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Consumers and end- users",
-      "SubTopic": [
+      "SubTopics": [
         "Tietoihin liittyvät kuluttajiin ja/tai loppukäyttäjiin kohdistuvat vaikutukset"
       ],
       "SubSubTopics": [
@@ -242,7 +242,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Consumers and end- users",
-      "SubTopic": [
+      "SubTopics": [
         "Kuluttajien ja/tai loppukäyttäjien henkilökohtainen turvallisuus"
       ],
       "SubSubTopics": [
@@ -254,7 +254,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Consumers and end- users",
-      "SubTopic": [
+      "SubTopics": [
         "Kuluttajien ja/tai loppukäyttäjien sosiaalinen inkluusio"
       ],
       "SubSubTopics": [
@@ -266,7 +266,7 @@
     {
       "Esrs": "ESRS G1",
       "TopicName": "Liiketoiminnan harjoittaminen",
-      "SubTopic": [
+      "SubTopics": [
         "Yrityskulttuuri",
         "Väärinkäytösten paljastajien suojelu",
         "Eläinten hyvinvointi",
@@ -278,7 +278,7 @@
     {
       "Esrs": "ESRS G1",
       "TopicName": "Liiketoiminnan harjoittaminen",
-      "SubTopic": [
+      "SubTopics": [
         "Korruptio ja lahjonta"
       ],
       "SubSubTopics": [

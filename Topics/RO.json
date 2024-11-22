@@ -6,7 +6,7 @@
     {
       "Esrs": "ESRS E1",
       "TopicName": "Schimbările climatice",
-      "SubTopic": [
+      "SubTopics": [
         "Adaptarea la schimbările climatice",
         "Atenuarea schimbărilor climatice",
         "Eficiența"
@@ -16,7 +16,7 @@
     {
       "Esrs": "ESRS E2",
       "TopicName": "Poluare",
-      "SubTopic": [
+      "SubTopics": [
         "Poluarea aerului",
         "Poluarea apei",
         "Poluarea solului",
@@ -30,7 +30,7 @@
     {
       "Esrs": "ESRS E3",
       "TopicName": "Resursele de apă și cele marine",
-      "SubTopic": [
+      "SubTopics": [
         "Resursele de apă",
         "Resursele marine"
       ],
@@ -45,7 +45,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodiversitatea și ecosistemele",
-      "SubTopic": [
+      "SubTopics": [
         "Factorii determinanți ai impactului direct asupra declinului biodiversității"
       ],
       "SubSubTopics": [
@@ -60,7 +60,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodiversitatea și ecosistemele",
-      "SubTopic": [
+      "SubTopics": [
         "Impacturile asupra stării speciilor"
       ],
       "SubSubTopics": [
@@ -72,7 +72,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodiversitatea și ecosistemele",
-      "SubTopic": [
+      "SubTopics": [
         "Impacturile asupra întinderii și stării ecosistemelor"
       ],
       "SubSubTopics": [
@@ -85,7 +85,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodiversitatea și ecosistemele",
-      "SubTopic": [
+      "SubTopics": [
         "Impacturile și dependențele de serviciile ecosistemice"
       ],
       "SubSubTopics": []
@@ -93,7 +93,7 @@
     {
       "Esrs": "ESRS E5",
       "TopicName": "Economie circulară",
-      "SubTopic": [
+      "SubTopics": [
         "Intrările de resurse, inclusiv utilizarea resurselor",
         "Ieșirile de resurse legate de produse și servicii",
         "Deșeurile"
@@ -103,7 +103,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Forța de muncă proprie",
-      "SubTopic": [
+      "SubTopics": [
         "Condiții de muncă"
       ],
       "SubSubTopics": [
@@ -120,7 +120,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Forța de muncă proprie",
-      "SubTopic": [
+      "SubTopics": [
         "Egalitatea de tratament și de șanse pentru toți"
       ],
       "SubSubTopics": [
@@ -134,7 +134,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Forța de muncă proprie",
-      "SubTopic": [
+      "SubTopics": [
         "Alte drepturi legate de muncă"
       ],
       "SubSubTopics": [
@@ -147,7 +147,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Lucrătorii din lanțul valoric",
-      "SubTopic": [
+      "SubTopics": [
         "Condiții de muncă"
       ],
       "SubSubTopics": [
@@ -164,7 +164,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Lucrătorii din lanțul valoric",
-      "SubTopic": [
+      "SubTopics": [
         "Egalitatea de tratament și de șanse pentru toți"
       ],
       "SubSubTopics": [
@@ -178,7 +178,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Lucrătorii din lanțul valoric",
-      "SubTopic": [
+      "SubTopics": [
         "Alte drepturi legate de muncă"
       ],
       "SubSubTopics": [
@@ -192,7 +192,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Comunitățile afectate",
-      "SubTopic": [
+      "SubTopics": [
         "Drepturile economice, sociale și culturale ale comunităților"
       ],
       "SubSubTopics": [
@@ -206,7 +206,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Comunitățile afectate",
-      "SubTopic": [
+      "SubTopics": [
         "Drepturile civile și politice ale comunităților"
       ],
       "SubSubTopics": [
@@ -218,7 +218,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Comunitățile afectate",
-      "SubTopic": [
+      "SubTopics": [
         "Drepturile populațiilor indigene"
       ],
       "SubSubTopics": [
@@ -230,7 +230,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Consumatorii și utilizatorii finali",
-      "SubTopic": [
+      "SubTopics": [
         "Impacturile legate de informare pentru consumatori și/sau utilizatorii finali"
       ],
       "SubSubTopics": [
@@ -242,7 +242,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Consumatorii și utilizatorii finali",
-      "SubTopic": [
+      "SubTopics": [
         "Siguranța personală a consumatorilor și/sau a utilizatorilor finali"
       ],
       "SubSubTopics": [
@@ -254,7 +254,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Consumatorii și utilizatorii finali",
-      "SubTopic": [
+      "SubTopics": [
         "Incluziunea socială a consumatorilor și/sau a utilizatorilor finali"
       ],
       "SubSubTopics": [
@@ -266,7 +266,7 @@
     {
       "Esrs": "ESRS G1",
       "TopicName": "Conduita profesională",
-      "SubTopic": [
+      "SubTopics": [
         "Cultură corporativă",
         "Protecția avertizorilor",
         "Bunăstarea animalelor",
@@ -278,7 +278,7 @@
     {
       "Esrs": "ESRS G1",
       "TopicName": "Conduita profesională",
-      "SubTopic": [
+      "SubTopics": [
         "Corupția și mita"
       ],
       "SubSubTopics": [

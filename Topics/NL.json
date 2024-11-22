@@ -6,7 +6,7 @@
     {
       "Esrs": "ESRS E1",
       "TopicName": "Klimaat-verandering",
-      "SubTopic": [
+      "SubTopics": [
         "Klimaatadaptatie",
         "Klimaatmitigatie",
         "Energie"
@@ -16,7 +16,7 @@
     {
       "Esrs": "ESRS E2",
       "TopicName": "Verontreiniging",
-      "SubTopic": [
+      "SubTopics": [
         "Luchtverontreiniging",
         "Waterverontreiniging",
         "Bodemverontreiniging",
@@ -30,7 +30,7 @@
     {
       "Esrs": "ESRS E3",
       "TopicName": "Water en mariene hulpbronnen",
-      "SubTopic": [
+      "SubTopics": [
         "Water",
         "Mariene hulpbronnen"
       ],
@@ -45,7 +45,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodiversiteit en ecosystemen",
-      "SubTopic": [
+      "SubTopics": [
         "Directe drukfactoren biodiversiteitsverlies"
       ],
       "SubSubTopics": [
@@ -60,7 +60,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodiversiteit en ecosystemen",
-      "SubTopic": [
+      "SubTopics": [
         "Impact op toestand soorten"
       ],
       "SubSubTopics": [
@@ -72,7 +72,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodiversiteit en ecosystemen",
-      "SubTopic": [
+      "SubTopics": [
         "Impact op omvang en toestand ecosystemen"
       ],
       "SubSubTopics": [
@@ -85,7 +85,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodiversiteit en ecosystemen",
-      "SubTopic": [
+      "SubTopics": [
         "Impacts op en afhankelijkheden van ecosysteemdiensten"
       ],
       "SubSubTopics": []
@@ -93,7 +93,7 @@
     {
       "Esrs": "ESRS E5",
       "TopicName": "Circulaire economie",
-      "SubTopic": [
+      "SubTopics": [
         "Materiaalinstromen, incl. materiaalgebruik",
         "Materiaaluitstromen m.b.t. producten en diensten",
         "Afval(stoffen)"
@@ -103,7 +103,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Eigen personeel",
-      "SubTopic": [
+      "SubTopics": [
         "Arbeidsvoorwaarden"
       ],
       "SubSubTopics": [
@@ -120,7 +120,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Eigen personeel",
-      "SubTopic": [
+      "SubTopics": [
         "Gelijke behandeling en gelijke kansen voor iedereen"
       ],
       "SubSubTopics": [
@@ -134,7 +134,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Eigen personeel",
-      "SubTopic": [
+      "SubTopics": [
         "Andere arbeidsrechten"
       ],
       "SubSubTopics": [
@@ -147,7 +147,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Werknemers in de waardeketen",
-      "SubTopic": [
+      "SubTopics": [
         "Arbeidsvoorwaarden"
       ],
       "SubSubTopics": [
@@ -164,7 +164,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Werknemers in de waardeketen",
-      "SubTopic": [
+      "SubTopics": [
         "Gelijke behandeling en gelijke kansen voor iedereen"
       ],
       "SubSubTopics": [
@@ -178,7 +178,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Werknemers in de waardeketen",
-      "SubTopic": [
+      "SubTopics": [
         "Andere arbeidsrechten"
       ],
       "SubSubTopics": [
@@ -192,7 +192,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Getroffen gemeen-schappen",
-      "SubTopic": [
+      "SubTopics": [
         "Economische, sociale en culturele rechten van gemeenschappen"
       ],
       "SubSubTopics": [
@@ -206,7 +206,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Getroffen gemeen-schappen",
-      "SubTopic": [
+      "SubTopics": [
         "Burger- en politieke rechten van gemeenschappen"
       ],
       "SubSubTopics": [
@@ -218,7 +218,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Getroffen gemeen-schappen",
-      "SubTopic": [
+      "SubTopics": [
         "Rechten inheemse volken"
       ],
       "SubSubTopics": [
@@ -230,7 +230,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Consumenten en eindgebruikers",
-      "SubTopic": [
+      "SubTopics": [
         "Impact op informatie voor consumenten en/of eindgebruikers"
       ],
       "SubSubTopics": [
@@ -242,7 +242,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Consumenten en eindgebruikers",
-      "SubTopic": [
+      "SubTopics": [
         "Persoonlijke veiligheid consumenten en/of eindgebruikers"
       ],
       "SubSubTopics": [
@@ -254,7 +254,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Consumenten en eindgebruikers",
-      "SubTopic": [
+      "SubTopics": [
         "Sociale inclusie consumenten en/of eindgebruikers"
       ],
       "SubSubTopics": [
@@ -266,7 +266,7 @@
     {
       "Esrs": "ESRS G1",
       "TopicName": "Zakelijk gedrag",
-      "SubTopic": [
+      "SubTopics": [
         "Bedrijfscultuur",
         "Bescherming klokkenluiders",
         "Dierenwelzijn",
@@ -278,7 +278,7 @@
     {
       "Esrs": "ESRS G1",
       "TopicName": "Zakelijk gedrag",
-      "SubTopic": [
+      "SubTopics": [
         "Corruptie en omkoping"
       ],
       "SubSubTopics": [

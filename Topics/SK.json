@@ -6,7 +6,7 @@
     {
       "Esrs": "ESRS E1",
       "TopicName": "Zmena klímy",
-      "SubTopic": [
+      "SubTopics": [
         "Adaptácia na zmenu klímy",
         "Zmierňovanie zmeny klímy",
         "Energia"
@@ -16,7 +16,7 @@
     {
       "Esrs": "ESRS E2",
       "TopicName": "Znečisťovanie",
-      "SubTopic": [
+      "SubTopics": [
         "Znečisťovanie ovzdušia",
         "Znečisťovanie vody",
         "Znečisťovanie pôdy",
@@ -30,7 +30,7 @@
     {
       "Esrs": "ESRS E3",
       "TopicName": "Vodné a morské zdroje",
-      "SubTopic": [
+      "SubTopics": [
         "Voda",
         "Morské zdroje"
       ],
@@ -45,7 +45,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodiverzita a ekosystémy",
-      "SubTopic": [
+      "SubTopics": [
         "Priame faktory vplyvu straty biodiverzity"
       ],
       "SubSubTopics": [
@@ -60,7 +60,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodiverzita a ekosystémy",
-      "SubTopic": [
+      "SubTopics": [
         "Vplyvy na stav druhov"
       ],
       "SubSubTopics": [
@@ -72,7 +72,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodiverzita a ekosystémy",
-      "SubTopic": [
+      "SubTopics": [
         "Vplyvy na rozsah a stav ekosystémov"
       ],
       "SubSubTopics": [
@@ -85,7 +85,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodiverzita a ekosystémy",
-      "SubTopic": [
+      "SubTopics": [
         "Vplyvy na ekosystémové služby a závislosti od nich"
       ],
       "SubSubTopics": []
@@ -93,7 +93,7 @@
     {
       "Esrs": "ESRS E5",
       "TopicName": "Obehové hospodárstvo",
-      "SubTopic": [
+      "SubTopics": [
         "Prílev zdrojov vrátane využívania zdrojov",
         "Odlev zdrojov v súvislosti s výrobkami a službami",
         "Odpad"
@@ -103,7 +103,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Vlastná pracovná sila",
-      "SubTopic": [
+      "SubTopics": [
         "Pracovné podmienky"
       ],
       "SubSubTopics": [
@@ -120,7 +120,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Vlastná pracovná sila",
-      "SubTopic": [
+      "SubTopics": [
         "Rovnaké zaobchádzanie a príležitosti pre všetkých"
       ],
       "SubSubTopics": [
@@ -134,7 +134,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Vlastná pracovná sila",
-      "SubTopic": [
+      "SubTopics": [
         "Iné pracovné práva"
       ],
       "SubSubTopics": [
@@ -147,7 +147,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Pracovníci v hodnotovom reťazci",
-      "SubTopic": [
+      "SubTopics": [
         "Pracovné podmienky"
       ],
       "SubSubTopics": [
@@ -164,7 +164,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Pracovníci v hodnotovom reťazci",
-      "SubTopic": [
+      "SubTopics": [
         "Rovnaké zaobchádzanie a príležitosti pre všetkých"
       ],
       "SubSubTopics": [
@@ -178,7 +178,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Pracovníci v hodnotovom reťazci",
-      "SubTopic": [
+      "SubTopics": [
         "Iné pracovné práva"
       ],
       "SubSubTopics": [
@@ -192,7 +192,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Ovplyvnené spoločenstvá",
-      "SubTopic": [
+      "SubTopics": [
         "Hospodárske, sociálne a kultúrne práva spoločenstiev"
       ],
       "SubSubTopics": [
@@ -206,7 +206,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Ovplyvnené spoločenstvá",
-      "SubTopic": [
+      "SubTopics": [
         "Občianske a politické práva spoločenstiev"
       ],
       "SubSubTopics": [
@@ -218,7 +218,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Ovplyvnené spoločenstvá",
-      "SubTopic": [
+      "SubTopics": [
         "Práva pôvodného obyvateľstva"
       ],
       "SubSubTopics": [
@@ -230,7 +230,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Spotrebitelia a koncoví používatelia",
-      "SubTopic": [
+      "SubTopics": [
         "Informačné vplyvy na spotrebiteľov a/alebo koncových používateľov"
       ],
       "SubSubTopics": [
@@ -242,7 +242,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Spotrebitelia a koncoví používatelia",
-      "SubTopic": [
+      "SubTopics": [
         "Osobná bezpečnosť spotrebiteľov a/alebo koncových používateľov"
       ],
       "SubSubTopics": [
@@ -254,7 +254,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Spotrebitelia a koncoví používatelia",
-      "SubTopic": [
+      "SubTopics": [
         "Sociálna inklúzia spotrebiteľov a/alebo koncových používateľov"
       ],
       "SubSubTopics": [
@@ -266,7 +266,7 @@
     {
       "Esrs": "ESRS G1",
       "TopicName": "Obchodné správanie",
-      "SubTopic": [
+      "SubTopics": [
         "Podniková kultúra",
         "Ochrana oznamovateľov nekalých praktík",
         "Dobré životné podmienky zvierat",
@@ -278,7 +278,7 @@
     {
       "Esrs": "ESRS G1",
       "TopicName": "Obchodné správanie",
-      "SubTopic": [
+      "SubTopics": [
         "Korupcia a úplatkárstvo"
       ],
       "SubSubTopics": [

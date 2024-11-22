@@ -6,7 +6,7 @@
     {
       "Esrs": "ESRS E1",
       "TopicName": "Klimatske promjene",
-      "SubTopic": [
+      "SubTopics": [
         "Prilagodba klimatskim promjenama",
         "Ublažavanje klimatskih promjena",
         "Energetika"
@@ -16,7 +16,7 @@
     {
       "Esrs": "ESRS E2",
       "TopicName": "Onečišćenje",
-      "SubTopic": [
+      "SubTopics": [
         "Onečišćenje zraka",
         "Onečišćenje vode",
         "Onečišćenje tla",
@@ -30,7 +30,7 @@
     {
       "Esrs": "ESRS E3",
       "TopicName": "Voda i morski resursi",
-      "SubTopic": [
+      "SubTopics": [
         "Voda",
         "Morski resursi"
       ],
@@ -45,7 +45,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Bioraznolikost i ekosustavi",
-      "SubTopic": [
+      "SubTopics": [
         "Izravni pokretači gubitka bioraznolikosti"
       ],
       "SubSubTopics": [
@@ -60,7 +60,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Bioraznolikost i ekosustavi",
-      "SubTopic": [
+      "SubTopics": [
         "Učinci na stanje vrsta"
       ],
       "SubSubTopics": [
@@ -72,7 +72,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Bioraznolikost i ekosustavi",
-      "SubTopic": [
+      "SubTopics": [
         "Učinci na opseg i stanje ekosustavâ"
       ],
       "SubSubTopics": [
@@ -85,7 +85,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Bioraznolikost i ekosustavi",
-      "SubTopic": [
+      "SubTopics": [
         "Učinci usluga ekosustava i ovisnosti o tim uslugama"
       ],
       "SubSubTopics": []
@@ -93,7 +93,7 @@
     {
       "Esrs": "ESRS E5",
       "TopicName": "Kružno gospodarstvo",
-      "SubTopic": [
+      "SubTopics": [
         "Priljevi sredstava, uključujući iskorištavanje resursa",
         "Odljevi resursa povezani s proizvodima i uslugama",
         "Otpad"
@@ -103,7 +103,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Vlastita radna snaga",
-      "SubTopic": [
+      "SubTopics": [
         "Radni uvjeti"
       ],
       "SubSubTopics": [
@@ -120,7 +120,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Vlastita radna snaga",
-      "SubTopic": [
+      "SubTopics": [
         "Jednako postupanje i mogućnosti za sve"
       ],
       "SubSubTopics": [
@@ -134,7 +134,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Vlastita radna snaga",
-      "SubTopic": [
+      "SubTopics": [
         "Ostala prava koja proizlaze iz radnog odnosa"
       ],
       "SubSubTopics": [
@@ -147,7 +147,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Radnici u lancu vrijednosti",
-      "SubTopic": [
+      "SubTopics": [
         "Radni uvjeti"
       ],
       "SubSubTopics": [
@@ -164,7 +164,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Radnici u lancu vrijednosti",
-      "SubTopic": [
+      "SubTopics": [
         "Jednako postupanje i mogućnosti za sve"
       ],
       "SubSubTopics": [
@@ -178,7 +178,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Radnici u lancu vrijednosti",
-      "SubTopic": [
+      "SubTopics": [
         "Ostala prava koja proizlaze iz radnog odnosa"
       ],
       "SubSubTopics": [
@@ -192,7 +192,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Pogođene zajednice",
-      "SubTopic": [
+      "SubTopics": [
         "Gospodarska, socijalna i kulturna prava zajednica"
       ],
       "SubSubTopics": [
@@ -206,7 +206,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Pogođene zajednice",
-      "SubTopic": [
+      "SubTopics": [
         "Građanska i politička prava zajednica"
       ],
       "SubSubTopics": [
@@ -218,7 +218,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Pogođene zajednice",
-      "SubTopic": [
+      "SubTopics": [
         "Prava autohtonih naroda"
       ],
       "SubSubTopics": [
@@ -230,7 +230,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Potrošači i krajnji korisnici",
-      "SubTopic": [
+      "SubTopics": [
         "Učinci povezani s informacijama za potrošače i/ili krajnje korisnike"
       ],
       "SubSubTopics": [
@@ -242,7 +242,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Potrošači i krajnji korisnici",
-      "SubTopic": [
+      "SubTopics": [
         "Osobna sigurnost potrošača i/ili krajnjih korisnika"
       ],
       "SubSubTopics": [
@@ -254,7 +254,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Potrošači i krajnji korisnici",
-      "SubTopic": [
+      "SubTopics": [
         "Socijalna uključenost potrošača i/ili krajnjih korisnika"
       ],
       "SubSubTopics": [
@@ -266,7 +266,7 @@
     {
       "Esrs": "ESRS G1",
       "TopicName": "Poslovno ponašanje",
-      "SubTopic": [
+      "SubTopics": [
         "Korporativna kultura",
         "Zaštita zviždača",
         "Dobrobit životinja",
@@ -278,7 +278,7 @@
     {
       "Esrs": "ESRS G1",
       "TopicName": "Poslovno ponašanje",
-      "SubTopic": [
+      "SubTopics": [
         "Korupcija i podmićivanje"
       ],
       "SubSubTopics": [

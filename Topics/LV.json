@@ -6,7 +6,7 @@
     {
       "Esrs": "ESRS E1",
       "TopicName": "Klimata pārmaiņas",
-      "SubTopic": [
+      "SubTopics": [
         "Pielāgošanās klimata pārmaiņām",
         "Klimata pārmaiņu mazināšana",
         "Enerģētika"
@@ -16,7 +16,7 @@
     {
       "Esrs": "ESRS E2",
       "TopicName": "Piesārņojums",
-      "SubTopic": [
+      "SubTopics": [
         "Gaisa piesārņojums",
         "Ūdeņu piesārņojums",
         "Augsnes piesārņojums",
@@ -30,7 +30,7 @@
     {
       "Esrs": "ESRS E3",
       "TopicName": "Ūdens un jūras resursi",
-      "SubTopic": [
+      "SubTopics": [
         "Ūdens",
         "Jūras resursi"
       ],
@@ -45,7 +45,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodaudzveidība un ekosistēmas",
-      "SubTopic": [
+      "SubTopics": [
         "Tiešie biodaudzveidības izzušanas ietekmes faktori"
       ],
       "SubSubTopics": [
@@ -60,7 +60,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodaudzveidība un ekosistēmas",
-      "SubTopic": [
+      "SubTopics": [
         "Ietekme uz sugu stāvokli"
       ],
       "SubSubTopics": [
@@ -72,7 +72,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodaudzveidība un ekosistēmas",
-      "SubTopic": [
+      "SubTopics": [
         "Ietekme uz ekosistēmu apjomu un stāvokli"
       ],
       "SubSubTopics": [
@@ -85,7 +85,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodaudzveidība un ekosistēmas",
-      "SubTopic": [
+      "SubTopics": [
         "Ietekme uz ekosistēmu pakalpojumiem un atkarība no tiem"
       ],
       "SubSubTopics": []
@@ -93,7 +93,7 @@
     {
       "Esrs": "ESRS E5",
       "TopicName": "Aprites ekonomika",
-      "SubTopic": [
+      "SubTopics": [
         "Ienākošie resursi, tajā skaitā resursu izmantojums",
         "Izejošie resursi, kas saistīti ar produktiem un pakalpojumiem",
         "Atkritumi"
@@ -103,7 +103,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Pašu personāls",
-      "SubTopic": [
+      "SubTopics": [
         "Darba nosacījumi"
       ],
       "SubSubTopics": [
@@ -120,7 +120,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Pašu personāls",
-      "SubTopic": [
+      "SubTopics": [
         "Vienlīdzīga attieksme un iespējas visiem"
       ],
       "SubSubTopics": [
@@ -134,7 +134,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Pašu personāls",
-      "SubTopic": [
+      "SubTopics": [
         "Citas ar darbu saistītas tiesības"
       ],
       "SubSubTopics": [
@@ -147,7 +147,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Darbinieki vērtības ķēdē",
-      "SubTopic": [
+      "SubTopics": [
         "Darba nosacījumi"
       ],
       "SubSubTopics": [
@@ -164,7 +164,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Darbinieki vērtības ķēdē",
-      "SubTopic": [
+      "SubTopics": [
         "Vienlīdzīga attieksme un iespējas visiem"
       ],
       "SubSubTopics": [
@@ -178,7 +178,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Darbinieki vērtības ķēdē",
-      "SubTopic": [
+      "SubTopics": [
         "Citas ar darbu saistītas tiesības"
       ],
       "SubSubTopics": [
@@ -192,7 +192,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Skartās kopienas",
-      "SubTopic": [
+      "SubTopics": [
         "Kopienu ekonomiskās, sociālās un kultūras tiesības"
       ],
       "SubSubTopics": [
@@ -206,7 +206,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Skartās kopienas",
-      "SubTopic": [
+      "SubTopics": [
         "Kopienu pilsoniskās un politiskās tiesības"
       ],
       "SubSubTopics": [
@@ -218,7 +218,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Skartās kopienas",
-      "SubTopic": [
+      "SubTopics": [
         "Pirmiedzīvotāju tautu tiesības"
       ],
       "SubSubTopics": [
@@ -230,7 +230,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Patērētāji un tiešie lietotāji",
-      "SubTopic": [
+      "SubTopics": [
         "Ar informāciju saistīta ietekme uz patērētājiem un/vai tiešajiem lietotājiem"
       ],
       "SubSubTopics": [
@@ -242,7 +242,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Patērētāji un tiešie lietotāji",
-      "SubTopic": [
+      "SubTopics": [
         "Patērētāju un/vai tiešo lietotāju personiskā drošība"
       ],
       "SubSubTopics": [
@@ -254,7 +254,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Patērētāji un tiešie lietotāji",
-      "SubTopic": [
+      "SubTopics": [
         "Patērētāju un/vai tiešo lietotāju sociālā iekļaušana"
       ],
       "SubSubTopics": [
@@ -266,7 +266,7 @@
     {
       "Esrs": "ESRS G1",
       "TopicName": "Darījumdarbība",
-      "SubTopic": [
+      "SubTopics": [
         "Korporatīvā kultūra",
         "Trauksmes cēlēju aizsardzība",
         "Dzīvnieku labturība",
@@ -278,7 +278,7 @@
     {
       "Esrs": "ESRS G1",
       "TopicName": "Darījumdarbība",
-      "SubTopic": [
+      "SubTopics": [
         "Korupcija un kukuļošana"
       ],
       "SubSubTopics": [

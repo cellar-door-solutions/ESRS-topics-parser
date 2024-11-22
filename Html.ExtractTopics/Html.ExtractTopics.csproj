@@ -10,9 +10,4 @@
     <ItemGroup>
       <PackageReference Include="HtmlAgilityPack" Version="1.11.71" />
     </ItemGroup>
-
-    <ItemGroup>
-      <Folder Include="Topics\" />
-    </ItemGroup>
-
 </Project>

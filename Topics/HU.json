@@ -6,7 +6,7 @@
     {
       "Esrs": "ESRS E1",
       "TopicName": "Éghajlatváltozás",
-      "SubTopic": [
+      "SubTopics": [
         "Az éghajlatváltozáshoz való alkalmazkodás",
         "Az éghajlatváltozás mérséklése",
         "Energia"
@@ -16,7 +16,7 @@
     {
       "Esrs": "ESRS E2",
       "TopicName": "Szennyezés",
-      "SubTopic": [
+      "SubTopics": [
         "Légszennyezés",
         "Vízszennyezés",
         "Talajszennyezés",
@@ -30,7 +30,7 @@
     {
       "Esrs": "ESRS E3",
       "TopicName": "Víz és tengeri erőforrások",
-      "SubTopic": [
+      "SubTopics": [
         "Víz",
         "Tengeri erőforrások"
       ],
@@ -45,7 +45,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biológiai sokféleség és ökoszisztémák",
-      "SubTopic": [
+      "SubTopics": [
         "A biológiai sokféleség csökkenését közvetlenül kiváltó tényezők"
       ],
       "SubSubTopics": [
@@ -60,7 +60,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biológiai sokféleség és ökoszisztémák",
-      "SubTopic": [
+      "SubTopics": [
         "A fajok állapotára gyakorolt hatások"
       ],
       "SubSubTopics": [
@@ -72,7 +72,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biológiai sokféleség és ökoszisztémák",
-      "SubTopic": [
+      "SubTopics": [
         "Az ökoszisztémák kiterjedésére és állapotára gyakorolt hatások"
       ],
       "SubSubTopics": [
@@ -85,7 +85,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biológiai sokféleség és ökoszisztémák",
-      "SubTopic": [
+      "SubTopics": [
         "Az ökoszisztéma-szolgáltatásokra gyakorolt hatások és az azoktól való függőségek"
       ],
       "SubSubTopics": []
@@ -93,7 +93,7 @@
     {
       "Esrs": "ESRS E5",
       "TopicName": "Körforgásos gazdaság",
-      "SubTopic": [
+      "SubTopics": [
         "Erőforrás-beáramlás, beleértve az erőforrás-felhasználást is",
         "Termékekhez és szolgáltatásokhoz kapcsolódó erőforrás-kiáramlás",
         "Hulladék"
@@ -103,7 +103,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Saját munkaerő",
-      "SubTopic": [
+      "SubTopics": [
         "Munkafeltételek"
       ],
       "SubSubTopics": [
@@ -120,7 +120,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Saját munkaerő",
-      "SubTopic": [
+      "SubTopics": [
         "Egyenlő bánásmód és esélyegyenlőség"
       ],
       "SubSubTopics": [
@@ -134,7 +134,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Saját munkaerő",
-      "SubTopic": [
+      "SubTopics": [
         "A munkával kapcsolatos egyéb jogok"
       ],
       "SubSubTopics": [
@@ -147,7 +147,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Az értékláncban dolgozók",
-      "SubTopic": [
+      "SubTopics": [
         "Munkafeltételek"
       ],
       "SubSubTopics": [
@@ -164,7 +164,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Az értékláncban dolgozók",
-      "SubTopic": [
+      "SubTopics": [
         "Egyenlő bánásmód és esélyegyenlőség"
       ],
       "SubSubTopics": [
@@ -178,7 +178,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Az értékláncban dolgozók",
-      "SubTopic": [
+      "SubTopics": [
         "A munkával kapcsolatos egyéb jogok"
       ],
       "SubSubTopics": [
@@ -192,7 +192,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Érintett közösségek",
-      "SubTopic": [
+      "SubTopics": [
         "A közösségek gazdasági, szociális és kulturális jogai"
       ],
       "SubSubTopics": [
@@ -206,7 +206,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Érintett közösségek",
-      "SubTopic": [
+      "SubTopics": [
         "A Közösségek polgári és politikai jogai"
       ],
       "SubSubTopics": [
@@ -218,7 +218,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Érintett közösségek",
-      "SubTopic": [
+      "SubTopics": [
         "Őslakos népek jogai"
       ],
       "SubSubTopics": [
@@ -230,7 +230,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Fogyasztók és végfelhasználók",
-      "SubTopic": [
+      "SubTopics": [
         "A fogyasztókra és/vagy a végfelhasználókra gyakorolt, tájékoztatással kapcsolatos hatások"
       ],
       "SubSubTopics": [
@@ -242,7 +242,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Fogyasztók és végfelhasználók",
-      "SubTopic": [
+      "SubTopics": [
         "A fogyasztók és/vagy végfelhasználók személyes biztonsága"
       ],
       "SubSubTopics": [
@@ -254,7 +254,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Fogyasztók és végfelhasználók",
-      "SubTopic": [
+      "SubTopics": [
         "A fogyasztók és/vagy végfelhasználók társadalmi befogadása"
       ],
       "SubSubTopics": [
@@ -266,7 +266,7 @@
     {
       "Esrs": "ESRS G1",
       "TopicName": "Üzleti magatartás",
-      "SubTopic": [
+      "SubTopics": [
         "Vállalati kultúra",
         "A visszaélést bejelentő személyek védelme",
         "Állatjólét",
@@ -278,7 +278,7 @@
     {
       "Esrs": "ESRS G1",
       "TopicName": "Üzleti magatartás",
-      "SubTopic": [
+      "SubTopics": [
         "Korrupció és vesztegetés"
       ],
       "SubSubTopics": [

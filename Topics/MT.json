@@ -6,7 +6,7 @@
     {
       "Esrs": "ESRS E1",
       "TopicName": "Tibdil fil-klima",
-      "SubTopic": [
+      "SubTopics": [
         "Adattament għat-tibdil fil-klima",
         "Mitigazzjoni tat-tibdil fil-klima",
         "Enerġija"
@@ -16,7 +16,7 @@
     {
       "Esrs": "ESRS E2",
       "TopicName": "Tniġġis",
-      "SubTopic": [
+      "SubTopics": [
         "Tniġġis tal-arja",
         "Tniġġis tal-ilma",
         "Tniġġis tal-ħamrija",
@@ -30,7 +30,7 @@
     {
       "Esrs": "ESRS E3",
       "TopicName": "Ilma u riżorsi tal-baħar",
-      "SubTopic": [
+      "SubTopics": [
         "Ilma",
         "Riżorsi tal-baħar"
       ],
@@ -45,7 +45,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Bijodiversità u ekosistemi",
-      "SubTopic": [
+      "SubTopics": [
         "Fatturi ewlenin tal-impatt diretti tat-telf tal-bijodiversità"
       ],
       "SubSubTopics": [
@@ -60,7 +60,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Bijodiversità u ekosistemi",
-      "SubTopic": [
+      "SubTopics": [
         "Impatti fuq l-istat tal-ispeċijiet"
       ],
       "SubSubTopics": [
@@ -72,7 +72,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Bijodiversità u ekosistemi",
-      "SubTopic": [
+      "SubTopics": [
         "Impatti fuq il-firxa u fuq il-kundizzjoni tal-ekosistemi"
       ],
       "SubSubTopics": [
@@ -85,7 +85,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Bijodiversità u ekosistemi",
-      "SubTopic": [
+      "SubTopics": [
         "Impatti u dipendenzi fuq servizzi tal-ekosistema"
       ],
       "SubSubTopics": []
@@ -93,7 +93,7 @@
     {
       "Esrs": "ESRS E5",
       "TopicName": "Ekonomija ċirkolari",
-      "SubTopic": [
+      "SubTopics": [
         "Influssi mir-riżorsi, inkluż l-użu tar-riżorsi",
         "Ħruġ tar-riżorsi b’rabta mal-prodotti u mas-servizzi",
         "Skart"
@@ -103,7 +103,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Forza tax-xogħol proprja",
-      "SubTopic": [
+      "SubTopics": [
         "Kondizzjonijiet tax-xogħol"
       ],
       "SubSubTopics": [
@@ -120,7 +120,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Forza tax-xogħol proprja",
-      "SubTopic": [
+      "SubTopics": [
         "Trattament u opportunitajiet indaqs għal kulħadd"
       ],
       "SubSubTopics": [
@@ -134,7 +134,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Forza tax-xogħol proprja",
-      "SubTopic": [
+      "SubTopics": [
         "Drittijiet oħrajn relatati max-xogħol"
       ],
       "SubSubTopics": [
@@ -147,7 +147,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Ħaddiema fil-katina tal-valur",
-      "SubTopic": [
+      "SubTopics": [
         "Kondizzjonijiet tax-xogħol"
       ],
       "SubSubTopics": [
@@ -164,7 +164,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Ħaddiema fil-katina tal-valur",
-      "SubTopic": [
+      "SubTopics": [
         "Trattament u opportunitajiet indaqs għal kulħadd"
       ],
       "SubSubTopics": [
@@ -178,7 +178,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Ħaddiema fil-katina tal-valur",
-      "SubTopic": [
+      "SubTopics": [
         "Drittijiet oħrajn relatati max-xogħol"
       ],
       "SubSubTopics": [
@@ -192,7 +192,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Komunitajiet affettwati",
-      "SubTopic": [
+      "SubTopics": [
         "Drittijiet ekonomiċi, soċjali u kulturali tal-komunitajiet"
       ],
       "SubSubTopics": [
@@ -206,7 +206,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Komunitajiet affettwati",
-      "SubTopic": [
+      "SubTopics": [
         "Drittijiet ċivili u politiċi tal-komunitajiet"
       ],
       "SubSubTopics": [
@@ -218,7 +218,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Komunitajiet affettwati",
-      "SubTopic": [
+      "SubTopics": [
         "Drittijiet ta’ popli indiġeni"
       ],
       "SubSubTopics": [
@@ -230,7 +230,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Konsumaturi u utenti finali",
-      "SubTopic": [
+      "SubTopics": [
         "Impatti relatati mal-informazzjoni għall-konsumaturi u/jew għall-utenti finali"
       ],
       "SubSubTopics": [
@@ -242,7 +242,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Konsumaturi u utenti finali",
-      "SubTopic": [
+      "SubTopics": [
         "Sikurezza personali tal-konsumaturi u/jew tal-utenti finali"
       ],
       "SubSubTopics": [
@@ -254,7 +254,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Konsumaturi u utenti finali",
-      "SubTopic": [
+      "SubTopics": [
         "Inklużjoni soċjali tal-konsumaturi u/jew tal-utenti finali"
       ],
       "SubSubTopics": [
@@ -266,7 +266,7 @@
     {
       "Esrs": "ESRS G1",
       "TopicName": "Kondotta kummerċjali",
-      "SubTopic": [
+      "SubTopics": [
         "Kultura korporattiva",
         "Protezzjoni tal-informaturi",
         "Trattament xieraq tal-annimali",
@@ -278,7 +278,7 @@
     {
       "Esrs": "ESRS G1",
       "TopicName": "Kondotta kummerċjali",
-      "SubTopic": [
+      "SubTopics": [
         "Korruzzjoni u tixħim"
       ],
       "SubSubTopics": [

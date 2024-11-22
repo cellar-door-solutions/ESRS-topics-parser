@@ -6,7 +6,7 @@
     {
       "Esrs": "ESRS E1",
       "TopicName": "Klimatförändringar",
-      "SubTopic": [
+      "SubTopics": [
         "Anpassning till klimatförändringar",
         "Begränsning av klimatförändringar",
         "Energi"
@@ -16,7 +16,7 @@
     {
       "Esrs": "ESRS E2",
       "TopicName": "Miljöförorening",
-      "SubTopic": [
+      "SubTopics": [
         "Miljöförorening av luft",
         "Miljöförorening av vatten",
         "Miljöförorening av mark",
@@ -30,7 +30,7 @@
     {
       "Esrs": "ESRS E3",
       "TopicName": "Vattenresurser och marina resurser",
-      "SubTopic": [
+      "SubTopics": [
         "Vatten",
         "Marina resurser"
       ],
@@ -45,7 +45,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biologisk mångfald och ekosystem",
-      "SubTopic": [
+      "SubTopics": [
         "Direkta påverkansfaktorer som leder till förlust av biologisk mångfald"
       ],
       "SubSubTopics": [
@@ -60,7 +60,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biologisk mångfald och ekosystem",
-      "SubTopic": [
+      "SubTopics": [
         "Inverkningar på arters tillstånd"
       ],
       "SubSubTopics": [
@@ -72,7 +72,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biologisk mångfald och ekosystem",
-      "SubTopic": [
+      "SubTopics": [
         "Inverkningar på ekosystems omfattning och tillstånd"
       ],
       "SubSubTopics": [
@@ -85,7 +85,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biologisk mångfald och ekosystem",
-      "SubTopic": [
+      "SubTopics": [
         "Inverkningar på och beroenden av ekosystemtjänster"
       ],
       "SubSubTopics": []
@@ -93,7 +93,7 @@
     {
       "Esrs": "ESRS E5",
       "TopicName": "Cirkulär ekonomi",
-      "SubTopic": [
+      "SubTopics": [
         "Resursinflöden, inklusive resursanvändning",
         "Resursutflöden relaterade till produkter och tjänster",
         "Avfall"
@@ -103,7 +103,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Den egna arbetskraften",
-      "SubTopic": [
+      "SubTopics": [
         "Arbetsvillkor"
       ],
       "SubSubTopics": [
@@ -120,7 +120,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Den egna arbetskraften",
-      "SubTopic": [
+      "SubTopics": [
         "Likabehandling och lika möjligheter för alla"
       ],
       "SubSubTopics": [
@@ -134,7 +134,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Den egna arbetskraften",
-      "SubTopic": [
+      "SubTopics": [
         "Andra arbetsrelaterade rättigheter"
       ],
       "SubSubTopics": [
@@ -147,7 +147,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Arbetstagare i värdekedjan",
-      "SubTopic": [
+      "SubTopics": [
         "Arbetsvillkor"
       ],
       "SubSubTopics": [
@@ -164,7 +164,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Arbetstagare i värdekedjan",
-      "SubTopic": [
+      "SubTopics": [
         "Likabehandling och lika möjligheter för alla"
       ],
       "SubSubTopics": [
@@ -178,7 +178,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Arbetstagare i värdekedjan",
-      "SubTopic": [
+      "SubTopics": [
         "Andra arbetsrelaterade rättigheter"
       ],
       "SubSubTopics": [
@@ -192,7 +192,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Berörda samhällen",
-      "SubTopic": [
+      "SubTopics": [
         "Samhällens ekonomiska, sociala och kulturella rättigheter"
       ],
       "SubSubTopics": [
@@ -206,7 +206,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Berörda samhällen",
-      "SubTopic": [
+      "SubTopics": [
         "Samhällens civila och politiska rättigheter"
       ],
       "SubSubTopics": [
@@ -218,7 +218,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Berörda samhällen",
-      "SubTopic": [
+      "SubTopics": [
         "Urfolks rättigheter"
       ],
       "SubSubTopics": [
@@ -230,7 +230,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Konsumenter och slutanvändare",
-      "SubTopic": [
+      "SubTopics": [
         "Informationsrelaterade inverkningar för konsumenter och/eller slutanvändare"
       ],
       "SubSubTopics": [
@@ -242,7 +242,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Konsumenter och slutanvändare",
-      "SubTopic": [
+      "SubTopics": [
         "Personlig säkerhet för konsumenter och/eller slutanvändare"
       ],
       "SubSubTopics": [
@@ -254,7 +254,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Konsumenter och slutanvändare",
-      "SubTopic": [
+      "SubTopics": [
         "Social inkludering för konsumenter och/eller slutanvändare"
       ],
       "SubSubTopics": [
@@ -266,7 +266,7 @@
     {
       "Esrs": "ESRS G1",
       "TopicName": "Ansvarsfullt företagande",
-      "SubTopic": [
+      "SubTopics": [
         "Företagskultur",
         "Skydd för visselblåsare",
         "Djurskydd",
@@ -278,7 +278,7 @@
     {
       "Esrs": "ESRS G1",
       "TopicName": "Ansvarsfullt företagande",
-      "SubTopic": [
+      "SubTopics": [
         "Korruption och mutor"
       ],
       "SubSubTopics": [

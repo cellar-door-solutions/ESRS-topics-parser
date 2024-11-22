@@ -6,7 +6,7 @@
     {
       "Esrs": "ESRS E1",
       "TopicName": "Kliimamuutused",
-      "SubTopic": [
+      "SubTopics": [
         "Kliimamuutustega kohanemine",
         "Kliimamuutuste leevendamine",
         "Energia"
@@ -16,7 +16,7 @@
     {
       "Esrs": "ESRS E2",
       "TopicName": "Saastus",
-      "SubTopic": [
+      "SubTopics": [
         "Õhusaaste",
         "Veesaaste",
         "Pinnase saastamine",
@@ -30,7 +30,7 @@
     {
       "Esrs": "ESRS E3",
       "TopicName": "Vee-ja mereressursid",
-      "SubTopic": [
+      "SubTopics": [
         "Vesi",
         "Mereressursid"
       ],
@@ -45,7 +45,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Elurikkus ja ökosüsteemid",
-      "SubTopic": [
+      "SubTopics": [
         "Elurikkuse kadumise otsesed mõjurid"
       ],
       "SubSubTopics": [
@@ -60,7 +60,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Elurikkus ja ökosüsteemid",
-      "SubTopic": [
+      "SubTopics": [
         "Mõjud liikide seisundile"
       ],
       "SubSubTopics": [
@@ -72,7 +72,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Elurikkus ja ökosüsteemid",
-      "SubTopic": [
+      "SubTopics": [
         "Mõjud ökosüsteemide suurusele ja seisundile"
       ],
       "SubSubTopics": [
@@ -85,7 +85,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Elurikkus ja ökosüsteemid",
-      "SubTopic": [
+      "SubTopics": [
         "Mõjud ökosüsteemi teenustele ja sõltuvus nendest"
       ],
       "SubSubTopics": []
@@ -93,7 +93,7 @@
     {
       "Esrs": "ESRS E5",
       "TopicName": "Ring-majandus",
-      "SubTopic": [
+      "SubTopics": [
         "Ressursside sisendvood, sealhulgas ressursside kasutamine",
         "Toodete ja teenustega seotud ressursside väljundvood",
         "Jäätmed"
@@ -103,7 +103,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Oma töötajaskond",
-      "SubTopic": [
+      "SubTopics": [
         "Töötingimused"
       ],
       "SubSubTopics": [
@@ -120,7 +120,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Oma töötajaskond",
-      "SubTopic": [
+      "SubTopics": [
         "Võrdne kohtlemine ja võrdsed võimalused kõigile"
       ],
       "SubSubTopics": [
@@ -134,7 +134,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Oma töötajaskond",
-      "SubTopic": [
+      "SubTopics": [
         "Muud tööga seotud õigused"
       ],
       "SubSubTopics": [
@@ -147,7 +147,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Töötajad väärtusahelas",
-      "SubTopic": [
+      "SubTopics": [
         "Töötingimused"
       ],
       "SubSubTopics": [
@@ -164,7 +164,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Töötajad väärtusahelas",
-      "SubTopic": [
+      "SubTopics": [
         "Võrdne kohtlemine ja võrdsed võimalused kõigile"
       ],
       "SubSubTopics": [
@@ -178,7 +178,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Töötajad väärtusahelas",
-      "SubTopic": [
+      "SubTopics": [
         "Muud tööga seotud õigused"
       ],
       "SubSubTopics": [
@@ -192,7 +192,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Mõjutatud kogukonnad",
-      "SubTopic": [
+      "SubTopics": [
         "Kogukondade majanduslikud, sotsiaalsed ja kultuurilised õigused"
       ],
       "SubSubTopics": [
@@ -206,7 +206,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Mõjutatud kogukonnad",
-      "SubTopic": [
+      "SubTopics": [
         "Kogukondade kodaniku- ja poliitilised õigused"
       ],
       "SubSubTopics": [
@@ -218,7 +218,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Mõjutatud kogukonnad",
-      "SubTopic": [
+      "SubTopics": [
         "Põlisrahvaste õigused"
       ],
       "SubSubTopics": [
@@ -230,7 +230,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Tarbijad ja lõppkasutajad",
-      "SubTopic": [
+      "SubTopics": [
         "Teabega seotud mõjud tarbijatele ja/või lõppkasutajatele"
       ],
       "SubSubTopics": [
@@ -242,7 +242,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Tarbijad ja lõppkasutajad",
-      "SubTopic": [
+      "SubTopics": [
         "Tarbijate ja/või lõppkasutajate isiklik ohutus"
       ],
       "SubSubTopics": [
@@ -254,7 +254,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Tarbijad ja lõppkasutajad",
-      "SubTopic": [
+      "SubTopics": [
         "Tarbijate ja/või lõppkasutajate sotsiaalne kaasamine"
       ],
       "SubSubTopics": [
@@ -266,7 +266,7 @@
     {
       "Esrs": "ESRS G1",
       "TopicName": "Äriline käitumine",
-      "SubTopic": [
+      "SubTopics": [
         "Ettevõtte kultuur",
         "Rikkumisest teatajate kaitse",
         "Loomade heaolu",
@@ -278,7 +278,7 @@
     {
       "Esrs": "ESRS G1",
       "TopicName": "Äriline käitumine",
-      "SubTopic": [
+      "SubTopics": [
         "Korruptsioon ja altkäemaksu andmine"
       ],
       "SubSubTopics": [

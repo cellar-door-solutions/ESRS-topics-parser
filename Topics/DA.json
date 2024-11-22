@@ -6,7 +6,7 @@
     {
       "Esrs": "ESRS E1",
       "TopicName": "Klimaændringer",
-      "SubTopic": [
+      "SubTopics": [
         "Tilpasning til klimaændringer",
         "Modvirkning af klimaændringer",
         "Energi"
@@ -16,7 +16,7 @@
     {
       "Esrs": "ESRS E2",
       "TopicName": "Forurening",
-      "SubTopic": [
+      "SubTopics": [
         "Luftforurening",
         "Vandforurening",
         "Jordbundsforurening",
@@ -30,7 +30,7 @@
     {
       "Esrs": "ESRS E3",
       "TopicName": "Vand og havressourcer",
-      "SubTopic": [
+      "SubTopics": [
         "Vand",
         "Havressourcer"
       ],
@@ -45,7 +45,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodiversitet og økosystemer",
-      "SubTopic": [
+      "SubTopics": [
         "Direkte drivkræfter for indvirkning på tab af biodiversitet"
       ],
       "SubSubTopics": [
@@ -60,7 +60,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodiversitet og økosystemer",
-      "SubTopic": [
+      "SubTopics": [
         "Indvirkninger på arters tilstand"
       ],
       "SubSubTopics": [
@@ -72,7 +72,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodiversitet og økosystemer",
-      "SubTopic": [
+      "SubTopics": [
         "Indvirkninger på økosystemers omfang og tilstand"
       ],
       "SubSubTopics": [
@@ -85,7 +85,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodiversitet og økosystemer",
-      "SubTopic": [
+      "SubTopics": [
         "Indvirkninger på og afhængigheder af økosystemtjenester"
       ],
       "SubSubTopics": []
@@ -93,7 +93,7 @@
     {
       "Esrs": "ESRS E5",
       "TopicName": "Cirkulær økonomi",
-      "SubTopic": [
+      "SubTopics": [
         "Ressourceinput, herunder ressourceforbrug",
         "Ressourceoutput i forbindelse med produkter og tjenesteydelser",
         "Affald"
@@ -103,7 +103,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Egen arbejdsstyrke",
-      "SubTopic": [
+      "SubTopics": [
         "Arbejdsvilkår"
       ],
       "SubSubTopics": [
@@ -120,7 +120,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Egen arbejdsstyrke",
-      "SubTopic": [
+      "SubTopics": [
         "Ligebehandling og lige muligheder for alle, herunder:"
       ],
       "SubSubTopics": [
@@ -134,7 +134,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Egen arbejdsstyrke",
-      "SubTopic": [
+      "SubTopics": [
         "Andre arbejdsrelaterede rettigheder"
       ],
       "SubSubTopics": [
@@ -147,7 +147,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Arbejdstagere i værdikæden",
-      "SubTopic": [
+      "SubTopics": [
         "Arbejdsvilkår"
       ],
       "SubSubTopics": [
@@ -164,7 +164,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Arbejdstagere i værdikæden",
-      "SubTopic": [
+      "SubTopics": [
         "Ligebehandling og lige muligheder for alle, herunder:"
       ],
       "SubSubTopics": [
@@ -178,7 +178,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Arbejdstagere i værdikæden",
-      "SubTopic": [
+      "SubTopics": [
         "Andre arbejdsrelaterede rettigheder"
       ],
       "SubSubTopics": [
@@ -192,7 +192,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Berørte samfund",
-      "SubTopic": [
+      "SubTopics": [
         "Samfundenes økonomiske, sociale og kulturelle rettigheder"
       ],
       "SubSubTopics": [
@@ -206,7 +206,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Berørte samfund",
-      "SubTopic": [
+      "SubTopics": [
         "Samfundenes borgerlige og politiske rettigheder"
       ],
       "SubSubTopics": [
@@ -218,7 +218,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Berørte samfund",
-      "SubTopic": [
+      "SubTopics": [
         "Oprindelige folks rettigheder"
       ],
       "SubSubTopics": [
@@ -230,7 +230,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Forbrugere og slutbrugere",
-      "SubTopic": [
+      "SubTopics": [
         "Informationsrelaterede indvirkninger på forbrugere og/eller slutbrugere"
       ],
       "SubSubTopics": [
@@ -242,7 +242,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Forbrugere og slutbrugere",
-      "SubTopic": [
+      "SubTopics": [
         "Forbrugernes og/eller slutbrugernes personlige sikkerhed"
       ],
       "SubSubTopics": [
@@ -254,7 +254,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Forbrugere og slutbrugere",
-      "SubTopic": [
+      "SubTopics": [
         "Social inklusion af forbrugere og/eller slutbrugere"
       ],
       "SubSubTopics": [
@@ -266,7 +266,7 @@
     {
       "Esrs": "ESRS G1",
       "TopicName": "Virksomhedsadfærd",
-      "SubTopic": [
+      "SubTopics": [
         "Virksomhedskultur",
         "Beskyttelse af whistleblowere",
         "Dyrevelfærd",
@@ -278,7 +278,7 @@
     {
       "Esrs": "ESRS G1",
       "TopicName": "Virksomhedsadfærd",
-      "SubTopic": [
+      "SubTopics": [
         "Korruption og bestikkelse"
       ],
       "SubSubTopics": [

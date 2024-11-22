@@ -6,7 +6,7 @@
     {
       "Esrs": "ESRS E1",
       "TopicName": "Athrú aeráide",
-      "SubTopic": [
+      "SubTopics": [
         "Oiriúnú don athrú aeráide",
         "Maolú ar an athrú aeráide",
         "Fuinneamh"
@@ -16,7 +16,7 @@
     {
       "Esrs": "ESRS E2",
       "TopicName": "Truailliú",
-      "SubTopic": [
+      "SubTopics": [
         "Truailliú aeir",
         "Truailliú uisce",
         "Truailliú ithreach",
@@ -30,7 +30,7 @@
     {
       "Esrs": "ESRS E3",
       "TopicName": "Uisce agus acmhainní muirí",
-      "SubTopic": [
+      "SubTopics": [
         "Uisce",
         "Acmhainní muirí"
       ],
@@ -45,7 +45,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Bithéagsúlacht agus éiceachórais",
-      "SubTopic": [
+      "SubTopics": [
         "Spreagthaí tionchair dhírigh chailliúint na bithéagsúlachta"
       ],
       "SubSubTopics": [
@@ -60,7 +60,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Bithéagsúlacht agus éiceachórais",
-      "SubTopic": [
+      "SubTopics": [
         "Tionchair ar staid speiceas"
       ],
       "SubSubTopics": [
@@ -72,7 +72,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Bithéagsúlacht agus éiceachórais",
-      "SubTopic": [
+      "SubTopics": [
         "Tionchair ar fhairsinge agus ar riocht na n-éiceachóras"
       ],
       "SubSubTopics": [
@@ -85,7 +85,7 @@
     {
       "Esrs": "ESRS E4",
       "TopicName": "Bithéagsúlacht agus éiceachórais",
-      "SubTopic": [
+      "SubTopics": [
         "Tionchair agus spleáchais ar éicisheirbhísí"
       ],
       "SubSubTopics": []
@@ -93,7 +93,7 @@
     {
       "Esrs": "ESRS E5",
       "TopicName": "Geilleagar ciorclach",
-      "SubTopic": [
+      "SubTopics": [
         "Insreafaí acmhainní, lena n-áirítear úsáid acmhainní",
         "Eis-sreafaí acmhainní a bhaineann le táirgí agus seirbhísí",
         "Dramhaíl"
@@ -103,7 +103,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Lucht saothair dílis",
-      "SubTopic": [
+      "SubTopics": [
         "Coinníollacha oibre"
       ],
       "SubSubTopics": [
@@ -120,7 +120,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Lucht saothair dílis",
-      "SubTopic": [
+      "SubTopics": [
         "Cóir chomhionann agus deiseanna comhionanna do chách"
       ],
       "SubSubTopics": [
@@ -134,7 +134,7 @@
     {
       "Esrs": "ESRS S1",
       "TopicName": "Lucht saothair dílis",
-      "SubTopic": [
+      "SubTopics": [
         "Cearta eile a bhaineann le saol na hoibre"
       ],
       "SubSubTopics": [
@@ -147,7 +147,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Oibrithe sa slabhra luacha",
-      "SubTopic": [
+      "SubTopics": [
         "Coinníollacha oibre"
       ],
       "SubSubTopics": [
@@ -164,7 +164,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Oibrithe sa slabhra luacha",
-      "SubTopic": [
+      "SubTopics": [
         "Cóir chomhionann agus deiseanna comhionanna do chách"
       ],
       "SubSubTopics": [
@@ -178,7 +178,7 @@
     {
       "Esrs": "ESRS S2",
       "TopicName": "Oibrithe sa slabhra luacha",
-      "SubTopic": [
+      "SubTopics": [
         "Cearta eile a bhaineann le saol na hoibre"
       ],
       "SubSubTopics": [
@@ -192,7 +192,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Pobail dá ndéantar difear",
-      "SubTopic": [
+      "SubTopics": [
         "Cearta eacnamaíocha, sóisialta agus cultúrtha pobal"
       ],
       "SubSubTopics": [
@@ -206,7 +206,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Pobail dá ndéantar difear",
-      "SubTopic": [
+      "SubTopics": [
         "Cearta sibhialta agus polaitiúla pobal"
       ],
       "SubSubTopics": [
@@ -218,7 +218,7 @@
     {
       "Esrs": "ESRS S3",
       "TopicName": "Pobail dá ndéantar difear",
-      "SubTopic": [
+      "SubTopics": [
         "Cearta na bpobal dúchasach"
       ],
       "SubSubTopics": [
@@ -230,7 +230,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Tomhaltóirí agus úsáideoirí deiridh",
-      "SubTopic": [
+      "SubTopics": [
         "Tionchair a bhaineann le faisnéis do thomhaltóirí agus d’úsáideoirí deiridh"
       ],
       "SubSubTopics": [
@@ -242,7 +242,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Tomhaltóirí agus úsáideoirí deiridh",
-      "SubTopic": [
+      "SubTopics": [
         "Sábháilteacht phearsanta tomhaltóirí agus/nó úsáideoirí deiridh"
       ],
       "SubSubTopics": [
@@ -254,7 +254,7 @@
     {
       "Esrs": "ESRS S4",
       "TopicName": "Tomhaltóirí agus úsáideoirí deiridh",
-      "SubTopic": [
+      "SubTopics": [
         "Cuimsiú sóisialta tomhaltóirí agus/nó úsáideoirí deiridh"
       ],
       "SubSubTopics": [
@@ -266,7 +266,7 @@
     {
       "Esrs": "ESRS G1",
       "TopicName": "Iompar gnó",
-      "SubTopic": [
+      "SubTopics": [
         "Cultúr corparáideach",
         "Sceithirí a chosaint",
         "Leas ainmhithe",
@@ -278,7 +278,7 @@
     {
       "Esrs": "ESRS G1",
       "TopicName": "Iompar gnó",
-      "SubTopic": [
+      "SubTopics": [
         "Éilliú agus breabaireacht"
       ],
       "SubSubTopics": [

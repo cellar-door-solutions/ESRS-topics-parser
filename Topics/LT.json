@@ -6,7 +6,7 @@
     {
       "Esrs": "E1 ETAS",
       "TopicName": "Klimato kaita",
-      "SubTopic": [
+      "SubTopics": [
         "Prisitaikymas prie klimato kaitos",
         "Klimato kaitos švelninimas",
         "Energetika"
@@ -16,7 +16,7 @@
     {
       "Esrs": "E2 ETAS",
       "TopicName": "Tarša",
-      "SubTopic": [
+      "SubTopics": [
         "Oro tarša",
         "Vandens tarša",
         "Dirvožemio tarša",
@@ -30,7 +30,7 @@
     {
       "Esrs": "E3 ETAS",
       "TopicName": "Vandens ir jūrų ištekliai",
-      "SubTopic": [
+      "SubTopics": [
         "Vandens ištekliai",
         "Jūrų ištekliai"
       ],
@@ -45,7 +45,7 @@
     {
       "Esrs": "E4 ETAS",
       "TopicName": "Biologinė įvairovė ir ekosistemos",
-      "SubTopic": [
+      "SubTopics": [
         "Tiesioginiai poveikio biologinės įvairovės nykimui veiksniai"
       ],
       "SubSubTopics": [
@@ -60,7 +60,7 @@
     {
       "Esrs": "E4 ETAS",
       "TopicName": "Biologinė įvairovė ir ekosistemos",
-      "SubTopic": [
+      "SubTopics": [
         "Poveikis rūšių būklei"
       ],
       "SubSubTopics": [
@@ -72,7 +72,7 @@
     {
       "Esrs": "E4 ETAS",
       "TopicName": "Biologinė įvairovė ir ekosistemos",
-      "SubTopic": [
+      "SubTopics": [
         "Poveikis ekosistemų mastui ir būklei"
       ],
       "SubSubTopics": [
@@ -85,7 +85,7 @@
     {
       "Esrs": "E4 ETAS",
       "TopicName": "Biologinė įvairovė ir ekosistemos",
-      "SubTopic": [
+      "SubTopics": [
         "Poveikis ekosisteminėms paslaugoms ir priklausomybė nuo jų"
       ],
       "SubSubTopics": []
@@ -93,7 +93,7 @@
     {
       "Esrs": "E5 ETAS",
       "TopicName": "Žiedinė ekonomika",
-      "SubTopic": [
+      "SubTopics": [
         "Išteklių įvediniai, įskaitant išteklių naudojimą",
         "Su produktais ir paslaugomis susiję išteklių išvediniai",
         "Atliekos"
@@ -103,7 +103,7 @@
     {
       "Esrs": "S1 ETAS",
       "TopicName": "Sava darbo jėga",
-      "SubTopic": [
+      "SubTopics": [
         "Darbo sąlygos"
       ],
       "SubSubTopics": [
@@ -120,7 +120,7 @@
     {
       "Esrs": "S1 ETAS",
       "TopicName": "Sava darbo jėga",
-      "SubTopic": [
+      "SubTopics": [
         "Vienodas požiūris ir lygios galimybės visiems"
       ],
       "SubSubTopics": [
@@ -134,7 +134,7 @@
     {
       "Esrs": "S1 ETAS",
       "TopicName": "Sava darbo jėga",
-      "SubTopic": [
+      "SubTopics": [
         "Kitos su darbu susijusios teisės"
       ],
       "SubSubTopics": [
@@ -147,7 +147,7 @@
     {
       "Esrs": "S2 ETAS",
       "TopicName": "Vertės grandinės darbuotojai",
-      "SubTopic": [
+      "SubTopics": [
         "Darbo sąlygos"
       ],
       "SubSubTopics": [
@@ -164,7 +164,7 @@
     {
       "Esrs": "S2 ETAS",
       "TopicName": "Vertės grandinės darbuotojai",
-      "SubTopic": [
+      "SubTopics": [
         "Vienodas požiūris ir lygios galimybės visiems"
       ],
       "SubSubTopics": [
@@ -178,7 +178,7 @@
     {
       "Esrs": "S2 ETAS",
       "TopicName": "Vertės grandinės darbuotojai",
-      "SubTopic": [
+      "SubTopics": [
         "Kitos su darbu susijusios teisės"
       ],
       "SubSubTopics": [
@@ -192,7 +192,7 @@
     {
       "Esrs": "S3 ETAS",
       "TopicName": "Paveikiamos bendruomenės",
-      "SubTopic": [
+      "SubTopics": [
         "Bendruomenių ekonominės, socialinės ir kultūrinės teisės"
       ],
       "SubSubTopics": [
@@ -206,7 +206,7 @@
     {
       "Esrs": "S3 ETAS",
       "TopicName": "Paveikiamos bendruomenės",
-      "SubTopic": [
+      "SubTopics": [
         "Bendruomenių pilietinės ir politinės teisės"
       ],
       "SubSubTopics": [
@@ -218,7 +218,7 @@
     {
       "Esrs": "S3 ETAS",
       "TopicName": "Paveikiamos bendruomenės",
-      "SubTopic": [
+      "SubTopics": [
         "Čiabuvių teisės"
       ],
       "SubSubTopics": [
@@ -230,7 +230,7 @@
     {
       "Esrs": "S4 ETAS",
       "TopicName": "Vartotojai irgalutiniai naudotojai",
-      "SubTopic": [
+      "SubTopics": [
         "Su informacija susijęs poveikis vartotojams ir (arba) galutiniams naudotojams"
       ],
       "SubSubTopics": [
@@ -242,7 +242,7 @@
     {
       "Esrs": "S4 ETAS",
       "TopicName": "Vartotojai irgalutiniai naudotojai",
-      "SubTopic": [
+      "SubTopics": [
         "Vartotojų ir (arba) galutinių naudotojų asmeninė sauga"
       ],
       "SubSubTopics": [
@@ -254,7 +254,7 @@
     {
       "Esrs": "S4 ETAS",
       "TopicName": "Vartotojai irgalutiniai naudotojai",
-      "SubTopic": [
+      "SubTopics": [
         "Vartotojų ir (arba) galutinių naudotojų socialinė įtrauktis"
       ],
       "SubSubTopics": [
@@ -266,7 +266,7 @@
     {
       "Esrs": "G1 ETAS",
       "TopicName": "Verslo etika",
-      "SubTopic": [
+      "SubTopics": [
         "Įmonės kultūra",
         "Pranešėjų apsauga",
         "Gyvūnų gerovė",
@@ -278,7 +278,7 @@
     {
       "Esrs": "G1 ETAS",
       "TopicName": "Verslo etika",
-      "SubTopic": [
+      "SubTopics": [
         "Korupcija ir kyšininkavimas"
       ],
       "SubSubTopics": [

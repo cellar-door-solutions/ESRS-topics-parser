@@ -14,6 +14,6 @@ Multi-language support: generates a JSON file for each language available on <a 
 EUR-Lex
 </a>.
 
-Find the json files in `Html.ExtractTopics/Topics/`
+Find the json files in `Topics/`
 
 

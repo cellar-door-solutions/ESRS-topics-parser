@@ -6,7 +6,7 @@
     {
       "Esrs": "NEIS E1",
       "TopicName": "Cambio climático",
-      "SubTopic": [
+      "SubTopics": [
         "Adaptación al cambio climático",
         "Mitigación del cambio climático",
         "Energía"
@@ -16,7 +16,7 @@
     {
       "Esrs": "NEIS E2",
       "TopicName": "Contaminación",
-      "SubTopic": [
+      "SubTopics": [
         "Contaminación del aire",
         "Contaminación del agua",
         "Contaminación del suelo",
@@ -30,7 +30,7 @@
     {
       "Esrs": "NEIS E3",
       "TopicName": "Agua y recursos marinos",
-      "SubTopic": [
+      "SubTopics": [
         "Agua",
         "Recursos marinos"
       ],
@@ -45,7 +45,7 @@
     {
       "Esrs": "NEIS E4",
       "TopicName": "Biodiversidad y ecosistemas",
-      "SubTopic": [
+      "SubTopics": [
         "Factores de incidencia directa sobre la pérdida de biodiversidad"
       ],
       "SubSubTopics": [
@@ -60,7 +60,7 @@
     {
       "Esrs": "NEIS E4",
       "TopicName": "Biodiversidad y ecosistemas",
-      "SubTopic": [
+      "SubTopics": [
         "Incidencias sobre el estado de las especies"
       ],
       "SubSubTopics": [
@@ -72,7 +72,7 @@
     {
       "Esrs": "NEIS E4",
       "TopicName": "Biodiversidad y ecosistemas",
-      "SubTopic": [
+      "SubTopics": [
         "Incidencias sobre la extensión y el estado de los ecosistemas"
       ],
       "SubSubTopics": [
@@ -85,7 +85,7 @@
     {
       "Esrs": "NEIS E4",
       "TopicName": "Biodiversidad y ecosistemas",
-      "SubTopic": [
+      "SubTopics": [
         "Incidencias sobre los servicios ecosistémicos y dependencias de estos servicios"
       ],
       "SubSubTopics": []
@@ -93,7 +93,7 @@
     {
       "Esrs": "NEIS E5",
       "TopicName": "Economía circular",
-      "SubTopic": [
+      "SubTopics": [
         "Entradas de recursos, incluida la utilización de los recursos",
         "Salidas de recursos relacionadas con productos y servicios",
         "Residuos"
@@ -103,7 +103,7 @@
     {
       "Esrs": "NEIS S1",
       "TopicName": "Personal propio",
-      "SubTopic": [
+      "SubTopics": [
         "Condiciones de trabajo"
       ],
       "SubSubTopics": [
@@ -120,7 +120,7 @@
     {
       "Esrs": "NEIS S1",
       "TopicName": "Personal propio",
-      "SubTopic": [
+      "SubTopics": [
         "Igualdad de trato y oportunidades para todos"
       ],
       "SubSubTopics": [
@@ -134,7 +134,7 @@
     {
       "Esrs": "NEIS S1",
       "TopicName": "Personal propio",
-      "SubTopic": [
+      "SubTopics": [
         "Otros derechos laborales"
       ],
       "SubSubTopics": [
@@ -147,7 +147,7 @@
     {
       "Esrs": "NEIS S2",
       "TopicName": "Trabajadores de la cadena de valor",
-      "SubTopic": [
+      "SubTopics": [
         "Condiciones de trabajo"
       ],
       "SubSubTopics": [
@@ -164,7 +164,7 @@
     {
       "Esrs": "NEIS S2",
       "TopicName": "Trabajadores de la cadena de valor",
-      "SubTopic": [
+      "SubTopics": [
         "Igualdad de trato y oportunidades para todos"
       ],
       "SubSubTopics": [
@@ -178,7 +178,7 @@
     {
       "Esrs": "NEIS S2",
       "TopicName": "Trabajadores de la cadena de valor",
-      "SubTopic": [
+      "SubTopics": [
         "Otros derechos laborales"
       ],
       "SubSubTopics": [
@@ -192,7 +192,7 @@
     {
       "Esrs": "NEIS S3",
       "TopicName": "Colectivos afectados",
-      "SubTopic": [
+      "SubTopics": [
         "Derechos económicos, sociales y culturales de los colectivos"
       ],
       "SubSubTopics": [
@@ -206,7 +206,7 @@
     {
       "Esrs": "NEIS S3",
       "TopicName": "Colectivos afectados",
-      "SubTopic": [
+      "SubTopics": [
         "Derechos civiles y políticos de los colectivos"
       ],
       "SubSubTopics": [
@@ -218,7 +218,7 @@
     {
       "Esrs": "NEIS S3",
       "TopicName": "Colectivos afectados",
-      "SubTopic": [
+      "SubTopics": [
         "Derechos de pueblos indígenas"
       ],
       "SubSubTopics": [
@@ -230,7 +230,7 @@
     {
       "Esrs": "NEIS S4",
       "TopicName": "Consumidores y usuarios finales",
-      "SubTopic": [
+      "SubTopics": [
         "Incidencias relacionadas con la información para los consumidores o usuarios finales"
       ],
       "SubSubTopics": [
@@ -242,7 +242,7 @@
     {
       "Esrs": "NEIS S4",
       "TopicName": "Consumidores y usuarios finales",
-      "SubTopic": [
+      "SubTopics": [
         "Seguridad personal de los consumidores o usuarios finales"
       ],
       "SubSubTopics": [
@@ -254,7 +254,7 @@
     {
       "Esrs": "NEIS S4",
       "TopicName": "Consumidores y usuarios finales",
-      "SubTopic": [
+      "SubTopics": [
         "Inclusión social de los consumidores o usuarios finales"
       ],
       "SubSubTopics": [
@@ -266,7 +266,7 @@
     {
       "Esrs": "NEIS G1",
       "TopicName": "Conducta empresarial",
-      "SubTopic": [
+      "SubTopics": [
         "Cultura corporativa",
         "Protección de los denunciantes",
         "Bienestar animal",
@@ -278,7 +278,7 @@
     {
       "Esrs": "NEIS G1",
       "TopicName": "Conducta empresarial",
-      "SubTopic": [
+      "SubTopics": [
         "Corrupción y soborno"
       ],
       "SubSubTopics": [

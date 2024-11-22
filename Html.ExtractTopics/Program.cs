@@ -19,7 +19,7 @@ foreach (var language in languages)
 {
     var url = $"https://eur-lex.europa.eu/legal-content/{language.ShortCode}/TXT/HTML/?uri=CELEX:02023R2772-20231222";
     
-    var projectRoot = Path.GetFullPath(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "../../../"));
+    var projectRoot = Path.GetFullPath(Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "../../../../"));
 
     if (string.IsNullOrEmpty(projectRoot))
     {
@@ -97,7 +97,7 @@ foreach (var language in languages)
         {
             Esrs = rowValues[0],
             TopicName = rowValues[1],
-            SubTopic = ParseSubItems(rowValues[2]),
+            SubTopics = ParseSubItems(rowValues[2]),
             SubSubTopics = ParseSubItems(rowValues[3])
         });
     }
@@ -157,6 +157,6 @@ public class Topic
 {
     public required string Esrs { get; set; }
     public required string TopicName { get; set; }
-    public required List<string> SubTopic { get; set; }
+    public required List<string> SubTopics { get; set; }
     public required List<string> SubSubTopics { get; set; }
 }
