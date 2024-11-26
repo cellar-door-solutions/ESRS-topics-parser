@@ -1,4 +1,6 @@
 {
+  "LanguageCode": "PT",
+  "Language": "Português",
   "Topic": "Tema",
   "SubTopic": "Subtema",
   "SubSubTopic": "Subsubtemas",
@@ -7,288 +9,410 @@
       "Esrs": "ESRS E1",
       "TopicName": "Alterações climáticas",
       "SubTopics": [
-        "Adaptação às alterações climáticas",
-        "Mitigação das alterações climáticas",
-        "Energia"
+        {
+          "Name": "Adaptação às alterações climáticas"
+        },
+        {
+          "Name": "Mitigação das alterações climáticas"
+        },
+        {
+          "Name": "Energia"
+        }
       ],
       "SubSubTopics": [
-        "–"
+        {
+          "Name": "–"
+        }
       ]
     },
     {
       "Esrs": "ESRS E2",
       "TopicName": "Poluição",
       "SubTopics": [
-        "Poluição do ar",
-        "Poluição da água",
-        "Poluição do solo",
-        "Poluição dos organismos vivos e dos recursos alimentares",
-        "Substâncias que suscitam preocupação",
-        "Substâncias que suscitam elevada preocupação",
-        "Microplásticos"
+        {
+          "Name": "Poluição do ar"
+        },
+        {
+          "Name": "Poluição da água"
+        },
+        {
+          "Name": "Poluição do solo"
+        },
+        {
+          "Name": "Poluição dos organismos vivos e dos recursos alimentares"
+        },
+        {
+          "Name": "Substâncias que suscitam preocupação"
+        },
+        {
+          "Name": "Substâncias que suscitam elevada preocupação"
+        },
+        {
+          "Name": "Microplásticos"
+        }
       ],
       "SubSubTopics": [
-        "–"
+        {
+          "Name": "–"
+        }
       ]
     },
     {
       "Esrs": "ESRS E3",
       "TopicName": "Água e recursos marinhos",
       "SubTopics": [
-        "Água",
-        "Recursos marinhos"
+        {
+          "Name": "Água"
+        },
+        {
+          "Name": "Recursos marinhos"
+        }
       ],
       "SubSubTopics": [
-        "Consumo de água",
-        "Captação de água",
-        "Descargas de água",
-        "Descargas de água nos oceanos",
-        "Extração e utilização dos recursos marinhos"
+        {
+          "Name": "Consumo de água"
+        },
+        {
+          "Name": "Captação de água"
+        },
+        {
+          "Name": "Descargas de água"
+        },
+        {
+          "Name": "Descargas de água nos oceanos"
+        },
+        {
+          "Name": "Extração e utilização dos recursos marinhos"
+        }
       ]
     },
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodiversidade e ecossistemas",
       "SubTopics": [
-        "Fatores de impacto direto na perda de biodiversidade"
+        {
+          "Name": "Fatores de impacto direto na perda de biodiversidade"
+        },
+        {
+          "Name": "Impactos no estado das espécies"
+        },
+        {
+          "Name": "Impactos na extensão e no estado dos ecossistemas"
+        },
+        {
+          "Name": "Impactos e dependências dos serviços ecossistémicos"
+        }
       ],
       "SubSubTopics": [
-        "Alterações climáticas",
-        "Alteração do uso do solo, alteração do uso da água doce e alteração do uso do mar",
-        "Exploração direta",
-        "Espécies exóticas invasoras",
-        "Poluição",
-        "Outros"
-      ]
-    },
-    {
-      "Esrs": "ESRS E4",
-      "TopicName": "Biodiversidade e ecossistemas",
-      "SubTopics": [
-        "Impactos no estado das espécies"
-      ],
-      "SubSubTopics": [
-        "Exemplos: Dimensão da população da espécie Risco de extinção global da espécie"
-      ]
-    },
-    {
-      "Esrs": "ESRS E4",
-      "TopicName": "Biodiversidade e ecossistemas",
-      "SubTopics": [
-        "Impactos na extensão e no estado dos ecossistemas"
-      ],
-      "SubSubTopics": [
-        "Exemplos: Degradação dos solos Desertificação Impermeabilização dos solos"
-      ]
-    },
-    {
-      "Esrs": "ESRS E4",
-      "TopicName": "Biodiversidade e ecossistemas",
-      "SubTopics": [
-        "Impactos e dependências dos serviços ecossistémicos"
-      ],
-      "SubSubTopics": [
-        "–"
+        {
+          "Name": "Alterações climáticas"
+        },
+        {
+          "Name": "Alteração do uso do solo, alteração do uso da água doce e alteração do uso do mar"
+        },
+        {
+          "Name": "Exploração direta"
+        },
+        {
+          "Name": "Espécies exóticas invasoras"
+        },
+        {
+          "Name": "Poluição"
+        },
+        {
+          "Name": "Outros"
+        },
+        {
+          "Name": "–"
+        }
       ]
     },
     {
       "Esrs": "ESRS E5",
       "TopicName": "Economia circular",
       "SubTopics": [
-        "Entradas de recursos, incluindo a utilização de recursos",
-        "Saídas de recursos relacionadas com produtos e serviços",
-        "Resíduos"
+        {
+          "Name": "Entradas de recursos, incluindo a utilização de recursos"
+        },
+        {
+          "Name": "Saídas de recursos relacionadas com produtos e serviços"
+        },
+        {
+          "Name": "Resíduos"
+        }
       ],
       "SubSubTopics": [
-        "–"
+        {
+          "Name": "–"
+        }
       ]
     },
     {
       "Esrs": "ESRS S1",
       "TopicName": "Própria mão de obra",
       "SubTopics": [
-        "Condições de trabalho"
+        {
+          "Name": "Condições de trabalho"
+        },
+        {
+          "Name": "Igualdade de tratamento e de oportunidades para todos"
+        },
+        {
+          "Name": "Outros direitos relacionados com o trabalho"
+        }
       ],
       "SubSubTopics": [
-        "Segurança do emprego",
-        "Horário de trabalho",
-        "Salários adequados",
-        "Diálogo social",
-        "Liberdade de associação, existência de conselhos de empresa e direitos de informação, consulta e participação dos trabalhadores",
-        "Negociação coletiva, incluindo a taxa de trabalhadores abrangidos por convenções coletivas",
-        "Equilíbrio entre a vida profissional e a vida privada",
-        "Saúde e segurança"
-      ]
-    },
-    {
-      "Esrs": "ESRS S1",
-      "TopicName": "Própria mão de obra",
-      "SubTopics": [
-        "Igualdade de tratamento e de oportunidades para todos"
-      ],
-      "SubSubTopics": [
-        "Igualdade de género e igualdade de remuneração por trabalho de igual valor",
-        "Formação e desenvolvimento de competências",
-        "Emprego e inclusão de pessoas com deficiência",
-        "Medidas contra a violência e o assédio no local de trabalho",
-        "Diversidade"
-      ]
-    },
-    {
-      "Esrs": "ESRS S1",
-      "TopicName": "Própria mão de obra",
-      "SubTopics": [
-        "Outros direitos relacionados com o trabalho"
-      ],
-      "SubSubTopics": [
-        "Trabalho infantil",
-        "Trabalho forçado",
-        "Habitação adequada",
-        "Privacidade"
-      ]
-    },
-    {
-      "Esrs": "ESRS S2",
-      "TopicName": "Trabalhadores na cadeia de valor",
-      "SubTopics": [
-        "Condições de trabalho"
-      ],
-      "SubSubTopics": [
-        "Segurança do emprego",
-        "Horário de trabalho",
-        "Salários adequados",
-        "Diálogo social",
-        "Liberdade de associação, incluindo a existência de conselhos de empresa",
-        "Negociação coletiva",
-        "Equilíbrio entre a vida profissional e a vida privada",
-        "Saúde e segurança"
-      ]
-    },
-    {
-      "Esrs": "ESRS S2",
-      "TopicName": "Trabalhadores na cadeia de valor",
-      "SubTopics": [
-        "Igualdade de tratamento e de oportunidades para todos"
-      ],
-      "SubSubTopics": [
-        "Igualdade de género e igualdade de remuneração por trabalho de igual valor",
-        "Formação e desenvolvimento de competências",
-        "Emprego e inclusão das pessoas com deficiência",
-        "Medidas contra a violência e o assédio no local de trabalho",
-        "Diversidade"
+        {
+          "Name": "Segurança do emprego"
+        },
+        {
+          "Name": "Horário de trabalho"
+        },
+        {
+          "Name": "Salários adequados"
+        },
+        {
+          "Name": "Diálogo social"
+        },
+        {
+          "Name": "Liberdade de associação, existência de conselhos de empresa e direitos de informação, consulta e participação dos trabalhadores"
+        },
+        {
+          "Name": "Negociação coletiva, incluindo a taxa de trabalhadores abrangidos por convenções coletivas"
+        },
+        {
+          "Name": "Equilíbrio entre a vida profissional e a vida privada"
+        },
+        {
+          "Name": "Saúde e segurança"
+        },
+        {
+          "Name": "Igualdade de género e igualdade de remuneração por trabalho de igual valor"
+        },
+        {
+          "Name": "Formação e desenvolvimento de competências"
+        },
+        {
+          "Name": "Emprego e inclusão de pessoas com deficiência"
+        },
+        {
+          "Name": "Medidas contra a violência e o assédio no local de trabalho"
+        },
+        {
+          "Name": "Diversidade"
+        },
+        {
+          "Name": "Trabalho infantil"
+        },
+        {
+          "Name": "Trabalho forçado"
+        },
+        {
+          "Name": "Habitação adequada"
+        },
+        {
+          "Name": "Privacidade"
+        }
       ]
     },
     {
       "Esrs": "ESRS S2",
       "TopicName": "Trabalhadores na cadeia de valor",
       "SubTopics": [
-        "Outros direitos relacionados com o trabalho"
+        {
+          "Name": "Condições de trabalho"
+        },
+        {
+          "Name": "Igualdade de tratamento e de oportunidades para todos"
+        },
+        {
+          "Name": "Outros direitos relacionados com o trabalho"
+        }
       ],
       "SubSubTopics": [
-        "Trabalho infantil",
-        "Trabalho forçado",
-        "Habitação adequada",
-        "Água e saneamento",
-        "Privacidade"
+        {
+          "Name": "Segurança do emprego"
+        },
+        {
+          "Name": "Horário de trabalho"
+        },
+        {
+          "Name": "Salários adequados"
+        },
+        {
+          "Name": "Diálogo social"
+        },
+        {
+          "Name": "Liberdade de associação, incluindo a existência de conselhos de empresa"
+        },
+        {
+          "Name": "Negociação coletiva"
+        },
+        {
+          "Name": "Equilíbrio entre a vida profissional e a vida privada"
+        },
+        {
+          "Name": "Saúde e segurança"
+        },
+        {
+          "Name": "Igualdade de género e igualdade de remuneração por trabalho de igual valor"
+        },
+        {
+          "Name": "Formação e desenvolvimento de competências"
+        },
+        {
+          "Name": "Emprego e inclusão das pessoas com deficiência"
+        },
+        {
+          "Name": "Medidas contra a violência e o assédio no local de trabalho"
+        },
+        {
+          "Name": "Diversidade"
+        },
+        {
+          "Name": "Trabalho infantil"
+        },
+        {
+          "Name": "Trabalho forçado"
+        },
+        {
+          "Name": "Habitação adequada"
+        },
+        {
+          "Name": "Água e saneamento"
+        },
+        {
+          "Name": "Privacidade"
+        }
       ]
     },
     {
       "Esrs": "ESRS S3",
       "TopicName": "Comunidades afetadas",
       "SubTopics": [
-        "Direitos económicos, sociais e culturais das comunidades"
+        {
+          "Name": "Direitos económicos, sociais e culturais das comunidades"
+        },
+        {
+          "Name": "Direitos civis e políticos das comunidades"
+        },
+        {
+          "Name": "Direitos dos povos indígenas"
+        }
       ],
       "SubSubTopics": [
-        "Habitação adequada",
-        "Alimentação adequada",
-        "Água e saneamento",
-        "Impactos relacionados com o solo",
-        "Impactos relacionados com a segurança"
-      ]
-    },
-    {
-      "Esrs": "ESRS S3",
-      "TopicName": "Comunidades afetadas",
-      "SubTopics": [
-        "Direitos civis e políticos das comunidades"
-      ],
-      "SubSubTopics": [
-        "Liberdade de expressão",
-        "Liberdade de reunião",
-        "Impactos nos defensores dos direitos humanos"
-      ]
-    },
-    {
-      "Esrs": "ESRS S3",
-      "TopicName": "Comunidades afetadas",
-      "SubTopics": [
-        "Direitos dos povos indígenas"
-      ],
-      "SubSubTopics": [
-        "Consentimento livre, prévio e informado",
-        "Autodeterminação",
-        "Direitos culturais"
-      ]
-    },
-    {
-      "Esrs": "ESRS S4",
-      "TopicName": "Consumidores e utilizadores finais",
-      "SubTopics": [
-        "Impactos relacionados com a informação para os consumidores e/ou utilizadores finais"
-      ],
-      "SubSubTopics": [
-        "Privacidade",
-        "Liberdade de expressão",
-        "Acesso a informações (de qualidade)"
-      ]
-    },
-    {
-      "Esrs": "ESRS S4",
-      "TopicName": "Consumidores e utilizadores finais",
-      "SubTopics": [
-        "Segurança pessoal dos consumidores e/ou utilizadores finais"
-      ],
-      "SubSubTopics": [
-        "Saúde e segurança",
-        "Segurança de uma pessoa",
-        "Proteção das crianças"
+        {
+          "Name": "Habitação adequada"
+        },
+        {
+          "Name": "Alimentação adequada"
+        },
+        {
+          "Name": "Água e saneamento"
+        },
+        {
+          "Name": "Impactos relacionados com o solo"
+        },
+        {
+          "Name": "Impactos relacionados com a segurança"
+        },
+        {
+          "Name": "Liberdade de expressão"
+        },
+        {
+          "Name": "Liberdade de reunião"
+        },
+        {
+          "Name": "Impactos nos defensores dos direitos humanos"
+        },
+        {
+          "Name": "Consentimento livre, prévio e informado"
+        },
+        {
+          "Name": "Autodeterminação"
+        },
+        {
+          "Name": "Direitos culturais"
+        }
       ]
     },
     {
       "Esrs": "ESRS S4",
       "TopicName": "Consumidores e utilizadores finais",
       "SubTopics": [
-        "Inclusão social dos consumidores e/ou utilizadores finais"
+        {
+          "Name": "Impactos relacionados com a informação para os consumidores e/ou utilizadores finais"
+        },
+        {
+          "Name": "Segurança pessoal dos consumidores e/ou utilizadores finais"
+        },
+        {
+          "Name": "Inclusão social dos consumidores e/ou utilizadores finais"
+        }
       ],
       "SubSubTopics": [
-        "Não discriminação",
-        "Acesso a produtos e serviços",
-        "Práticas comerciais responsáveis"
+        {
+          "Name": "Privacidade"
+        },
+        {
+          "Name": "Liberdade de expressão"
+        },
+        {
+          "Name": "Acesso a informações (de qualidade)"
+        },
+        {
+          "Name": "Saúde e segurança"
+        },
+        {
+          "Name": "Segurança de uma pessoa"
+        },
+        {
+          "Name": "Proteção das crianças"
+        },
+        {
+          "Name": "Não discriminação"
+        },
+        {
+          "Name": "Acesso a produtos e serviços"
+        },
+        {
+          "Name": "Práticas comerciais responsáveis"
+        }
       ]
     },
     {
       "Esrs": "ESRS G1",
       "TopicName": "Conduta empresarial",
       "SubTopics": [
-        "Cultura empresarial",
-        "Proteção de denunciantes",
-        "Bem-estar dos animais",
-        "Contexto político e atividades de representação de grupos de interesse",
-        "Gestão das relações com fornecedores, incluindo práticas de pagamento"
+        {
+          "Name": "Cultura empresarial"
+        },
+        {
+          "Name": "Proteção de denunciantes"
+        },
+        {
+          "Name": "Bem-estar dos animais"
+        },
+        {
+          "Name": "Contexto político e atividades de representação de grupos de interesse"
+        },
+        {
+          "Name": "Gestão das relações com fornecedores, incluindo práticas de pagamento"
+        },
+        {
+          "Name": "Corrupção e suborno"
+        }
       ],
       "SubSubTopics": [
-        "–"
-      ]
-    },
-    {
-      "Esrs": "ESRS G1",
-      "TopicName": "Conduta empresarial",
-      "SubTopics": [
-        "Corrupção e suborno"
-      ],
-      "SubSubTopics": [
-        "Prevenção e deteção, incluindo formação",
-        "Incidentes"
+        {
+          "Name": "–"
+        },
+        {
+          "Name": "Prevenção e deteção, incluindo formação"
+        },
+        {
+          "Name": "Incidentes"
+        }
       ]
     }
   ]

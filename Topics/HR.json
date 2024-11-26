@@ -1,4 +1,6 @@
 {
+  "LanguageCode": "HR",
+  "Language": "Hrvatski",
   "Topic": "Tema",
   "SubTopic": "Podtema",
   "SubSubTopic": "Podpodteme",
@@ -7,9 +9,15 @@
       "Esrs": "ESRS E1",
       "TopicName": "Klimatske promjene",
       "SubTopics": [
-        "Prilagodba klimatskim promjenama",
-        "Ublažavanje klimatskih promjena",
-        "Energetika"
+        {
+          "Name": "Prilagodba klimatskim promjenama"
+        },
+        {
+          "Name": "Ublažavanje klimatskih promjena"
+        },
+        {
+          "Name": "Energetika"
+        }
       ],
       "SubSubTopics": []
     },
@@ -17,13 +25,27 @@
       "Esrs": "ESRS E2",
       "TopicName": "Onečišćenje",
       "SubTopics": [
-        "Onečišćenje zraka",
-        "Onečišćenje vode",
-        "Onečišćenje tla",
-        "Onečišćenje živih organizama i prehrambenih resursa",
-        "Zabrinjavajuće tvari",
-        "Posebno zabrinjavajuće tvari",
-        "Mikroplastika"
+        {
+          "Name": "Onečišćenje zraka"
+        },
+        {
+          "Name": "Onečišćenje vode"
+        },
+        {
+          "Name": "Onečišćenje tla"
+        },
+        {
+          "Name": "Onečišćenje živih organizama i prehrambenih resursa"
+        },
+        {
+          "Name": "Zabrinjavajuće tvari"
+        },
+        {
+          "Name": "Posebno zabrinjavajuće tvari"
+        },
+        {
+          "Name": "Mikroplastika"
+        }
       ],
       "SubSubTopics": []
     },
@@ -31,72 +53,97 @@
       "Esrs": "ESRS E3",
       "TopicName": "Voda i morski resursi",
       "SubTopics": [
-        "Voda",
-        "Morski resursi"
+        {
+          "Name": "Voda"
+        },
+        {
+          "Name": "Morski resursi"
+        }
       ],
       "SubSubTopics": [
-        "Potrošnja vode",
-        "Povlačenje vode",
-        "Ispuštanje vode",
-        "Ispuštanje vode u oceane",
-        "Vađenje i korištenje morskih resursa"
+        {
+          "Name": "Potrošnja vode"
+        },
+        {
+          "Name": "Povlačenje vode"
+        },
+        {
+          "Name": "Ispuštanje vode"
+        },
+        {
+          "Name": "Ispuštanje vode u oceane"
+        },
+        {
+          "Name": "Vađenje i korištenje morskih resursa"
+        }
       ]
     },
     {
       "Esrs": "ESRS E4",
       "TopicName": "Bioraznolikost i ekosustavi",
       "SubTopics": [
-        "Izravni pokretači gubitka bioraznolikosti"
+        {
+          "Name": "Izravni pokretači gubitka bioraznolikosti"
+        },
+        {
+          "Name": "Učinci na stanje vrsta"
+        },
+        {
+          "Name": "Učinci na opseg i stanje ekosustavâ"
+        },
+        {
+          "Name": "Učinci usluga ekosustava i ovisnosti o tim uslugama"
+        }
       ],
       "SubSubTopics": [
-        "Klimatske promjene",
-        "Prenamjena zemljišta, prenamjena slatke vode i prenamjena mora",
-        "Izravno iskorištavanje",
-        "Invazivne strane vrste",
-        "Onečišćenje",
-        "Ostalo"
+        {
+          "Name": "Klimatske promjene"
+        },
+        {
+          "Name": "Prenamjena zemljišta, prenamjena slatke vode i prenamjena mora"
+        },
+        {
+          "Name": "Izravno iskorištavanje"
+        },
+        {
+          "Name": "Invazivne strane vrste"
+        },
+        {
+          "Name": "Onečišćenje"
+        },
+        {
+          "Name": "Ostalo"
+        },
+        {
+          "Name": "Veličina populacije vrsta"
+        },
+        {
+          "Name": "Globalni rizik od izumiranja vrsta"
+        },
+        {
+          "Name": "Degradacija zemljišta"
+        },
+        {
+          "Name": "Dezertifikacija"
+        },
+        {
+          "Name": "Prekrivanje tla"
+        }
       ]
-    },
-    {
-      "Esrs": "ESRS E4",
-      "TopicName": "Bioraznolikost i ekosustavi",
-      "SubTopics": [
-        "Učinci na stanje vrsta"
-      ],
-      "SubSubTopics": [
-        "Primjeri:",
-        "Veličina populacije vrsta",
-        "Globalni rizik od izumiranja vrsta"
-      ]
-    },
-    {
-      "Esrs": "ESRS E4",
-      "TopicName": "Bioraznolikost i ekosustavi",
-      "SubTopics": [
-        "Učinci na opseg i stanje ekosustavâ"
-      ],
-      "SubSubTopics": [
-        "Primjeri:",
-        "Degradacija zemljišta",
-        "Dezertifikacija",
-        "Prekrivanje tla"
-      ]
-    },
-    {
-      "Esrs": "ESRS E4",
-      "TopicName": "Bioraznolikost i ekosustavi",
-      "SubTopics": [
-        "Učinci usluga ekosustava i ovisnosti o tim uslugama"
-      ],
-      "SubSubTopics": []
     },
     {
       "Esrs": "ESRS E5",
       "TopicName": "Kružno gospodarstvo",
       "SubTopics": [
-        "Priljevi sredstava, uključujući iskorištavanje resursa",
-        "Odljevi resursa povezani s proizvodima i uslugama",
-        "Otpad"
+        {
+          "Name": "Priljevi sredstava, uključujući iskorištavanje resursa"
+        },
+        {
+          "Name": "Odljevi resursa povezani s proizvodima i uslugama"
+        },
+        {
+          "Name": "Otpad"
+        }
       ],
       "SubSubTopics": []
     },
@@ -104,186 +151,265 @@
       "Esrs": "ESRS S1",
       "TopicName": "Vlastita radna snaga",
       "SubTopics": [
-        "Radni uvjeti"
+        {
+          "Name": "Radni uvjeti"
+        },
+        {
+          "Name": "Jednako postupanje i mogućnosti za sve"
+        },
+        {
+          "Name": "Ostala prava koja proizlaze iz radnog odnosa"
+        }
       ],
       "SubSubTopics": [
-        "Sigurna radna mjesta",
-        "Radno vrijeme",
-        "Odgovarajuće plaće",
-        "Socijalni dijalog",
-        "Sloboda udruživanja, postojanje radničkih vijeća i prava radnika na informiranje, savjetovanje i sudjelovanje",
-        "Kolektivno pregovaranje, uključujući broj radnika obuhvaćenih kolektivnim ugovorima",
-        "Ravnoteža između poslovnog i privatnog života",
-        "Zdravlje i sigurnost"
-      ]
-    },
-    {
-      "Esrs": "ESRS S1",
-      "TopicName": "Vlastita radna snaga",
-      "SubTopics": [
-        "Jednako postupanje i mogućnosti za sve"
-      ],
-      "SubSubTopics": [
-        "Rodna ravnopravnost i jednaka plaća za rad jednake vrijednosti",
-        "Osposobljavanje i razvoj vještina",
-        "Zapošljavanje i uključivanje osoba s invaliditetom",
-        "Mjere protiv nasilja i uznemiravanja na radnom mjestu",
-        "Raznolikost"
-      ]
-    },
-    {
-      "Esrs": "ESRS S1",
-      "TopicName": "Vlastita radna snaga",
-      "SubTopics": [
-        "Ostala prava koja proizlaze iz radnog odnosa"
-      ],
-      "SubSubTopics": [
-        "Dječji rad",
-        "Prisilni rad",
-        "Odgovarajući smještaj",
-        "Privatnost"
-      ]
-    },
-    {
-      "Esrs": "ESRS S2",
-      "TopicName": "Radnici u lancu vrijednosti",
-      "SubTopics": [
-        "Radni uvjeti"
-      ],
-      "SubSubTopics": [
-        "Sigurna radna mjesta",
-        "Radno vrijeme",
-        "Odgovarajuće plaće",
-        "Socijalni dijalog",
-        "Sloboda udruživanja, uključujući postojanje radničkih vijeća",
-        "Kolektivno pregovaranje",
-        "Ravnoteža između poslovnog i privatnog života",
-        "Zdravlje i sigurnost"
-      ]
-    },
-    {
-      "Esrs": "ESRS S2",
-      "TopicName": "Radnici u lancu vrijednosti",
-      "SubTopics": [
-        "Jednako postupanje i mogućnosti za sve"
-      ],
-      "SubSubTopics": [
-        "Rodna ravnopravnost i jednaka plaća za rad jednake vrijednosti",
-        "Osposobljavanje i razvoj vještina",
-        "Zapošljavanje i uključivanje osoba s invaliditetom",
-        "Mjere protiv nasilja i uznemiravanja na radnom mjestu",
-        "Raznolikost"
+        {
+          "Name": "Sigurna radna mjesta"
+        },
+        {
+          "Name": "Radno vrijeme"
+        },
+        {
+          "Name": "Odgovarajuće plaće"
+        },
+        {
+          "Name": "Socijalni dijalog"
+        },
+        {
+          "Name": "Sloboda udruživanja, postojanje radničkih vijeća i prava radnika na informiranje, savjetovanje i sudjelovanje"
+        },
+        {
+          "Name": "Kolektivno pregovaranje, uključujući broj radnika obuhvaćenih kolektivnim ugovorima"
+        },
+        {
+          "Name": "Ravnoteža između poslovnog i privatnog života"
+        },
+        {
+          "Name": "Zdravlje i sigurnost"
+        },
+        {
+          "Name": "Rodna ravnopravnost i jednaka plaća za rad jednake vrijednosti"
+        },
+        {
+          "Name": "Osposobljavanje i razvoj vještina"
+        },
+        {
+          "Name": "Zapošljavanje i uključivanje osoba s invaliditetom"
+        },
+        {
+          "Name": "Mjere protiv nasilja i uznemiravanja na radnom mjestu"
+        },
+        {
+          "Name": "Raznolikost"
+        },
+        {
+          "Name": "Dječji rad"
+        },
+        {
+          "Name": "Prisilni rad"
+        },
+        {
+          "Name": "Odgovarajući smještaj"
+        },
+        {
+          "Name": "Privatnost"
+        }
       ]
     },
     {
       "Esrs": "ESRS S2",
       "TopicName": "Radnici u lancu vrijednosti",
       "SubTopics": [
-        "Ostala prava koja proizlaze iz radnog odnosa"
+        {
+          "Name": "Radni uvjeti"
+        },
+        {
+          "Name": "Jednako postupanje i mogućnosti za sve"
+        },
+        {
+          "Name": "Ostala prava koja proizlaze iz radnog odnosa"
+        }
       ],
       "SubSubTopics": [
-        "Dječji rad",
-        "Prisilni rad",
-        "Odgovarajući smještaj",
-        "Vodoopskrba i odvodnja",
-        "Privatnost"
+        {
+          "Name": "Sigurna radna mjesta"
+        },
+        {
+          "Name": "Radno vrijeme"
+        },
+        {
+          "Name": "Odgovarajuće plaće"
+        },
+        {
+          "Name": "Socijalni dijalog"
+        },
+        {
+          "Name": "Sloboda udruživanja, uključujući postojanje radničkih vijeća"
+        },
+        {
+          "Name": "Kolektivno pregovaranje"
+        },
+        {
+          "Name": "Ravnoteža između poslovnog i privatnog života"
+        },
+        {
+          "Name": "Zdravlje i sigurnost"
+        },
+        {
+          "Name": "Rodna ravnopravnost i jednaka plaća za rad jednake vrijednosti"
+        },
+        {
+          "Name": "Osposobljavanje i razvoj vještina"
+        },
+        {
+          "Name": "Zapošljavanje i uključivanje osoba s invaliditetom"
+        },
+        {
+          "Name": "Mjere protiv nasilja i uznemiravanja na radnom mjestu"
+        },
+        {
+          "Name": "Raznolikost"
+        },
+        {
+          "Name": "Dječji rad"
+        },
+        {
+          "Name": "Prisilni rad"
+        },
+        {
+          "Name": "Odgovarajući smještaj"
+        },
+        {
+          "Name": "Vodoopskrba i odvodnja"
+        },
+        {
+          "Name": "Privatnost"
+        }
       ]
     },
     {
       "Esrs": "ESRS S3",
       "TopicName": "Pogođene zajednice",
       "SubTopics": [
-        "Gospodarska, socijalna i kulturna prava zajednica"
+        {
+          "Name": "Gospodarska, socijalna i kulturna prava zajednica"
+        },
+        {
+          "Name": "Građanska i politička prava zajednica"
+        },
+        {
+          "Name": "Prava autohtonih naroda"
+        }
       ],
       "SubSubTopics": [
-        "Odgovarajući smještaj",
-        "Odgovarajuća prehrana",
-        "Vodoopskrba i odvodnja",
-        "Učinci povezani sa zemljištem",
-        "Učinci povezani sa sigurnošću"
-      ]
-    },
-    {
-      "Esrs": "ESRS S3",
-      "TopicName": "Pogođene zajednice",
-      "SubTopics": [
-        "Građanska i politička prava zajednica"
-      ],
-      "SubSubTopics": [
-        "Sloboda izražavanja",
-        "Sloboda okupljanja",
-        "Učinci na borce za ljudska prava"
-      ]
-    },
-    {
-      "Esrs": "ESRS S3",
-      "TopicName": "Pogođene zajednice",
-      "SubTopics": [
-        "Prava autohtonih naroda"
-      ],
-      "SubSubTopics": [
-        "Dobrovoljan, prethodni i informiran pristanak",
-        "Samoodređenje",
-        "Kulturna prava"
-      ]
-    },
-    {
-      "Esrs": "ESRS S4",
-      "TopicName": "Potrošači i krajnji korisnici",
-      "SubTopics": [
-        "Učinci povezani s informacijama za potrošače i/ili krajnje korisnike"
-      ],
-      "SubSubTopics": [
-        "Privatnost",
-        "Sloboda izražavanja",
-        "Pristup (kvalitetnim) informacijama"
-      ]
-    },
-    {
-      "Esrs": "ESRS S4",
-      "TopicName": "Potrošači i krajnji korisnici",
-      "SubTopics": [
-        "Osobna sigurnost potrošača i/ili krajnjih korisnika"
-      ],
-      "SubSubTopics": [
-        "Zdravlje i sigurnost",
-        "Sigurnost osobe",
-        "Zaštita djece"
+        {
+          "Name": "Odgovarajući smještaj"
+        },
+        {
+          "Name": "Odgovarajuća prehrana"
+        },
+        {
+          "Name": "Vodoopskrba i odvodnja"
+        },
+        {
+          "Name": "Učinci povezani sa zemljištem"
+        },
+        {
+          "Name": "Učinci povezani sa sigurnošću"
+        },
+        {
+          "Name": "Sloboda izražavanja"
+        },
+        {
+          "Name": "Sloboda okupljanja"
+        },
+        {
+          "Name": "Učinci na borce za ljudska prava"
+        },
+        {
+          "Name": "Dobrovoljan, prethodni i informiran pristanak"
+        },
+        {
+          "Name": "Samoodređenje"
+        },
+        {
+          "Name": "Kulturna prava"
+        }
       ]
     },
     {
       "Esrs": "ESRS S4",
       "TopicName": "Potrošači i krajnji korisnici",
       "SubTopics": [
-        "Socijalna uključenost potrošača i/ili krajnjih korisnika"
+        {
+          "Name": "Učinci povezani s informacijama za potrošače i/ili krajnje korisnike"
+        },
+        {
+          "Name": "Osobna sigurnost potrošača i/ili krajnjih korisnika"
+        },
+        {
+          "Name": "Socijalna uključenost potrošača i/ili krajnjih korisnika"
+        }
       ],
       "SubSubTopics": [
-        "Nediskriminacija",
-        "Pristup proizvodima i uslugama",
-        "Odgovorne Marketinške prakse"
+        {
+          "Name": "Privatnost"
+        },
+        {
+          "Name": "Sloboda izražavanja"
+        },
+        {
+          "Name": "Pristup (kvalitetnim) informacijama"
+        },
+        {
+          "Name": "Zdravlje i sigurnost"
+        },
+        {
+          "Name": "Sigurnost osobe"
+        },
+        {
+          "Name": "Zaštita djece"
+        },
+        {
+          "Name": "Nediskriminacija"
+        },
+        {
+          "Name": "Pristup proizvodima i uslugama"
+        },
+        {
+          "Name": "Odgovorne Marketinške prakse"
+        }
       ]
     },
     {
       "Esrs": "ESRS G1",
       "TopicName": "Poslovno ponašanje",
       "SubTopics": [
-        "Korporativna kultura",
-        "Zaštita zviždača",
-        "Dobrobit životinja",
-        "Politički angažman i lobiranje",
-        "Upravljanjem odnosima s dobavljačima, uključujući plaćanje"
-      ],
-      "SubSubTopics": []
-    },
-    {
-      "Esrs": "ESRS G1",
-      "TopicName": "Poslovno ponašanje",
-      "SubTopics": [
-        "Korupcija i podmićivanje"
+        {
+          "Name": "Korporativna kultura"
+        },
+        {
+          "Name": "Zaštita zviždača"
+        },
+        {
+          "Name": "Dobrobit životinja"
+        },
+        {
+          "Name": "Politički angažman i lobiranje"
+        },
+        {
+          "Name": "Upravljanjem odnosima s dobavljačima, uključujući plaćanje"
+        },
+        {
+          "Name": "Korupcija i podmićivanje"
+        }
       ],
       "SubSubTopics": [
-        "Sprečavanje i otkrivanje, uključujući osposobljavanje",
-        "Incidenti"
+        {
+          "Name": "Sprečavanje i otkrivanje, uključujući osposobljavanje"
+        },
+        {
+          "Name": "Incidenti"
+        }
       ]
     }
   ]

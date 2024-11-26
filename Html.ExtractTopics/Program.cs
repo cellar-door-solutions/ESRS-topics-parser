@@ -92,18 +92,29 @@ foreach (var language in languages)
         {
             rowValues[1] = currentTopic!;
         }
-        
-        topics.Add(new Topic
+
+        if (topics.Any(t => t.Esrs == rowValues[0]))
         {
-            Esrs = rowValues[0],
-            TopicName = rowValues[1],
-            SubTopics = ParseSubItems(rowValues[2]),
-            SubSubTopics = ParseSubItems(rowValues[3])
-        });
+            var esrs = topics.First(t => t.Esrs == rowValues[0]);
+            esrs.SubTopics.AddRange(ParseSubItems(rowValues[2]));
+            esrs.SubSubTopics.AddRange(ParseSubItems(rowValues[3]));
+        }
+        else
+        {
+            topics.Add(new Topic
+            {
+                Esrs = rowValues[0],
+                TopicName = rowValues[1],
+                SubTopics = ParseSubItems(rowValues[2]),
+                SubSubTopics = ParseSubItems(rowValues[3])
+            });
+        }
     }
 
     var topicalEsrs = new TopicalEsrs
     {
+        LanguageCode = language.ShortCode,
+        Language = language.LanguageName,
         Topic = FlattenCellContent(rows[1].SelectNodes("./td")[1]),
         SubTopic = FlattenCellContent(rows[1].SelectNodes("./td")[2]),
         SubSubTopic = FlattenCellContent(rows[1].SelectNodes("./td")[3]),
@@ -136,17 +147,20 @@ static string FlattenCellContent(HtmlNode cell)
     return normalizedText;
 }
 
-static List<string> ParseSubItems(string content)
+static List<SubTopic> ParseSubItems(string content)
 {
     return content
         .Split('—', StringSplitOptions.RemoveEmptyEntries)
         .Select(item => item.Trim())
-        .Where(item => !string.IsNullOrWhiteSpace(item))
+        .Where(item => !string.IsNullOrWhiteSpace(item) && !item.Contains(":"))
+        .Select(item => new SubTopic {Name = item})
         .ToList();
 }
 
 public class TopicalEsrs
 {
+    public required string  LanguageCode { get; set; }
+    public required string Language { get; set; }
     public required string Topic { get; set; }
     public required string SubTopic { get; set; }
     public required string SubSubTopic { get; set; }
@@ -157,6 +171,11 @@ public class Topic
 {
     public required string Esrs { get; set; }
     public required string TopicName { get; set; }
-    public required List<string> SubTopics { get; set; }
-    public required List<string> SubSubTopics { get; set; }
+    public required List<SubTopic> SubTopics { get; set; }
+    public required List<SubTopic> SubSubTopics { get; set; }
+}
+
+public class SubTopic
+{
+    public string Name { get; set; }
 }

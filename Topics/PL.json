@@ -1,4 +1,6 @@
 {
+  "LanguageCode": "PL",
+  "Language": "Polski",
   "Topic": "Temat",
   "SubTopic": "Podtemat",
   "SubSubTopic": "Mniejsze jednostki tematyczne",
@@ -7,9 +9,15 @@
       "Esrs": "ESRS E1",
       "TopicName": "Zmiana klimatu",
       "SubTopics": [
-        "Przystosowanie się do zmiany klimatu",
-        "Łagodzenie zmiany klimatu",
-        "Energia"
+        {
+          "Name": "Przystosowanie się do zmiany klimatu"
+        },
+        {
+          "Name": "Łagodzenie zmiany klimatu"
+        },
+        {
+          "Name": "Energia"
+        }
       ],
       "SubSubTopics": []
     },
@@ -17,13 +25,27 @@
       "Esrs": "ESRS E2",
       "TopicName": "Zanieczyszczenie",
       "SubTopics": [
-        "Zanieczyszczenie powietrza",
-        "Zanieczyszczenie wody",
-        "Zanieczyszczenie gleby",
-        "Zanieczyszczenie organizmów żywych i zasobów żywnościowych",
-        "Substancje potencjalnie niebezpieczne",
-        "Substancje wzbudzające szczególnie duże obawy",
-        "Mikrodrobiny plastiku"
+        {
+          "Name": "Zanieczyszczenie powietrza"
+        },
+        {
+          "Name": "Zanieczyszczenie wody"
+        },
+        {
+          "Name": "Zanieczyszczenie gleby"
+        },
+        {
+          "Name": "Zanieczyszczenie organizmów żywych i zasobów żywnościowych"
+        },
+        {
+          "Name": "Substancje potencjalnie niebezpieczne"
+        },
+        {
+          "Name": "Substancje wzbudzające szczególnie duże obawy"
+        },
+        {
+          "Name": "Mikrodrobiny plastiku"
+        }
       ],
       "SubSubTopics": []
     },
@@ -31,72 +53,97 @@
       "Esrs": "ESRS E3",
       "TopicName": "Woda i zasoby morskie",
       "SubTopics": [
-        "Woda",
-        "Zasoby morskie"
+        {
+          "Name": "Woda"
+        },
+        {
+          "Name": "Zasoby morskie"
+        }
       ],
       "SubSubTopics": [
-        "Zużycie wody",
-        "Pobory wody",
-        "Zrzuty wody",
-        "Zrzuty wody do oceanów",
-        "Wydobycie i wykorzystanie zasobów morskich"
+        {
+          "Name": "Zużycie wody"
+        },
+        {
+          "Name": "Pobory wody"
+        },
+        {
+          "Name": "Zrzuty wody"
+        },
+        {
+          "Name": "Zrzuty wody do oceanów"
+        },
+        {
+          "Name": "Wydobycie i wykorzystanie zasobów morskich"
+        }
       ]
     },
     {
       "Esrs": "ESRS E4",
       "TopicName": "Bioróżnorodność i ekosystemy",
       "SubTopics": [
-        "Bezpośrednie czynniki wpływu na utratę bioróżnorodności"
+        {
+          "Name": "Bezpośrednie czynniki wpływu na utratę bioróżnorodności"
+        },
+        {
+          "Name": "Wpływy na stan gatunków"
+        },
+        {
+          "Name": "Wpływy na zasięg i stan ekosystemów"
+        },
+        {
+          "Name": "Wpływy na usługi ekosystemowe i zależności od nich"
+        }
       ],
       "SubSubTopics": [
-        "Zmiana klimatu",
-        "Zmiana sposobu użytkowania gruntów, zmiana sposobu użytkowania wód słodkich i mórz",
-        "Bezpośrednia eksploatacja",
-        "Inwazyjne gatunki obce",
-        "Zanieczyszczenie",
-        "Inne"
+        {
+          "Name": "Zmiana klimatu"
+        },
+        {
+          "Name": "Zmiana sposobu użytkowania gruntów, zmiana sposobu użytkowania wód słodkich i mórz"
+        },
+        {
+          "Name": "Bezpośrednia eksploatacja"
+        },
+        {
+          "Name": "Inwazyjne gatunki obce"
+        },
+        {
+          "Name": "Zanieczyszczenie"
+        },
+        {
+          "Name": "Inne"
+        },
+        {
+          "Name": "Wielkość populacji danego gatunku"
+        },
+        {
+          "Name": "Zagrożenie globalnym wyginięciem gatunku"
+        },
+        {
+          "Name": "Degradacja gruntów"
+        },
+        {
+          "Name": "Pustynnienie"
+        },
+        {
+          "Name": "Uszczelnianie gleby"
+        }
       ]
-    },
-    {
-      "Esrs": "ESRS E4",
-      "TopicName": "Bioróżnorodność i ekosystemy",
-      "SubTopics": [
-        "Wpływy na stan gatunków"
-      ],
-      "SubSubTopics": [
-        "Przykłady:",
-        "Wielkość populacji danego gatunku",
-        "Zagrożenie globalnym wyginięciem gatunku"
-      ]
-    },
-    {
-      "Esrs": "ESRS E4",
-      "TopicName": "Bioróżnorodność i ekosystemy",
-      "SubTopics": [
-        "Wpływy na zasięg i stan ekosystemów"
-      ],
-      "SubSubTopics": [
-        "Przykłady:",
-        "Degradacja gruntów",
-        "Pustynnienie",
-        "Uszczelnianie gleby"
-      ]
-    },
-    {
-      "Esrs": "ESRS E4",
-      "TopicName": "Bioróżnorodność i ekosystemy",
-      "SubTopics": [
-        "Wpływy na usługi ekosystemowe i zależności od nich"
-      ],
-      "SubSubTopics": []
     },
     {
       "Esrs": "ESRS E5",
       "TopicName": "Gospodarka o obiegu zamkniętym",
       "SubTopics": [
-        "Zasoby wprowadzane, w tym wykorzystanie zasobów",
-        "Zasoby odprowadzane związane z produktami i usługami",
-        "Odpady"
+        {
+          "Name": "Zasoby wprowadzane, w tym wykorzystanie zasobów"
+        },
+        {
+          "Name": "Zasoby odprowadzane związane z produktami i usługami"
+        },
+        {
+          "Name": "Odpady"
+        }
       ],
       "SubSubTopics": []
     },
@@ -104,186 +151,265 @@
       "Esrs": "ESRS S1",
       "TopicName": "Własne zasoby pracownicze",
       "SubTopics": [
-        "Warunki pracy"
+        {
+          "Name": "Warunki pracy"
+        },
+        {
+          "Name": "Równe traktowanie i równość szans dla wszystkich"
+        },
+        {
+          "Name": "Inne prawa związane z pracą"
+        }
       ],
       "SubSubTopics": [
-        "Bezpieczeństwo zatrudnienia",
-        "Czas pracy",
-        "Adekwatna płaca",
-        "Dialog społeczny",
-        "Wolność zrzeszania się, istnienie rad zakładowych oraz prawa pracowników do informacji, konsultacji i uczestnictwa",
-        "Rokowania zbiorowe, w tym odsetek pracowników objętych układami zbiorowymi",
-        "Równowaga między życiem zawodowym a prywatnym",
-        "Bezpieczeństwo i higiena pracy"
-      ]
-    },
-    {
-      "Esrs": "ESRS S1",
-      "TopicName": "Własne zasoby pracownicze",
-      "SubTopics": [
-        "Równe traktowanie i równość szans dla wszystkich"
-      ],
-      "SubSubTopics": [
-        "Równouprawnienie płci i równość wynagrodzeń za pracę o takiej samej wartości",
-        "Szkolenia i rozwój umiejętności",
-        "Zatrudnienie i integracja osób z niepełnosprawnościami",
-        "Środki zapobiegania przemocy i molestowaniu w miejscu pracy",
-        "Różnorodność"
-      ]
-    },
-    {
-      "Esrs": "ESRS S1",
-      "TopicName": "Własne zasoby pracownicze",
-      "SubTopics": [
-        "Inne prawa związane z pracą"
-      ],
-      "SubSubTopics": [
-        "Praca dzieci",
-        "Praca przymusowa",
-        "Odpowiednie warunki mieszkaniowe",
-        "Prywatność"
-      ]
-    },
-    {
-      "Esrs": "ESRS S2",
-      "TopicName": "Osoby wykonujące pracę w łańcuchu wartości",
-      "SubTopics": [
-        "Warunki pracy"
-      ],
-      "SubSubTopics": [
-        "Bezpieczeństwo zatrudnienia",
-        "Czas pracy",
-        "Adekwatna płaca",
-        "Dialog społeczny",
-        "Wolność zrzeszania się, w tym istnienie rad zakładowych",
-        "Rokowania zbiorowe",
-        "Równowaga między życiem zawodowym a prywatnym",
-        "Bezpieczeństwo i higiena pracy"
-      ]
-    },
-    {
-      "Esrs": "ESRS S2",
-      "TopicName": "Osoby wykonujące pracę w łańcuchu wartości",
-      "SubTopics": [
-        "Równe traktowanie i równość szans dla wszystkich"
-      ],
-      "SubSubTopics": [
-        "Równouprawnienie płci i równość wynagrodzeń za pracę o takiej samej wartości",
-        "Szkolenia i rozwój umiejętności",
-        "Zatrudnienie i integracja osób z niepełnosprawnościami",
-        "Środki zapobiegania przemocy i molestowaniu w miejscu pracy",
-        "Różnorodność"
+        {
+          "Name": "Bezpieczeństwo zatrudnienia"
+        },
+        {
+          "Name": "Czas pracy"
+        },
+        {
+          "Name": "Adekwatna płaca"
+        },
+        {
+          "Name": "Dialog społeczny"
+        },
+        {
+          "Name": "Wolność zrzeszania się, istnienie rad zakładowych oraz prawa pracowników do informacji, konsultacji i uczestnictwa"
+        },
+        {
+          "Name": "Rokowania zbiorowe, w tym odsetek pracowników objętych układami zbiorowymi"
+        },
+        {
+          "Name": "Równowaga między życiem zawodowym a prywatnym"
+        },
+        {
+          "Name": "Bezpieczeństwo i higiena pracy"
+        },
+        {
+          "Name": "Równouprawnienie płci i równość wynagrodzeń za pracę o takiej samej wartości"
+        },
+        {
+          "Name": "Szkolenia i rozwój umiejętności"
+        },
+        {
+          "Name": "Zatrudnienie i integracja osób z niepełnosprawnościami"
+        },
+        {
+          "Name": "Środki zapobiegania przemocy i molestowaniu w miejscu pracy"
+        },
+        {
+          "Name": "Różnorodność"
+        },
+        {
+          "Name": "Praca dzieci"
+        },
+        {
+          "Name": "Praca przymusowa"
+        },
+        {
+          "Name": "Odpowiednie warunki mieszkaniowe"
+        },
+        {
+          "Name": "Prywatność"
+        }
       ]
     },
     {
       "Esrs": "ESRS S2",
       "TopicName": "Osoby wykonujące pracę w łańcuchu wartości",
       "SubTopics": [
-        "Inne prawa związane z pracą"
+        {
+          "Name": "Warunki pracy"
+        },
+        {
+          "Name": "Równe traktowanie i równość szans dla wszystkich"
+        },
+        {
+          "Name": "Inne prawa związane z pracą"
+        }
       ],
       "SubSubTopics": [
-        "Praca dzieci",
-        "Praca przymusowa",
-        "Odpowiednie warunki mieszkaniowe",
-        "Woda i warunki sanitarne",
-        "Prywatność"
+        {
+          "Name": "Bezpieczeństwo zatrudnienia"
+        },
+        {
+          "Name": "Czas pracy"
+        },
+        {
+          "Name": "Adekwatna płaca"
+        },
+        {
+          "Name": "Dialog społeczny"
+        },
+        {
+          "Name": "Wolność zrzeszania się, w tym istnienie rad zakładowych"
+        },
+        {
+          "Name": "Rokowania zbiorowe"
+        },
+        {
+          "Name": "Równowaga między życiem zawodowym a prywatnym"
+        },
+        {
+          "Name": "Bezpieczeństwo i higiena pracy"
+        },
+        {
+          "Name": "Równouprawnienie płci i równość wynagrodzeń za pracę o takiej samej wartości"
+        },
+        {
+          "Name": "Szkolenia i rozwój umiejętności"
+        },
+        {
+          "Name": "Zatrudnienie i integracja osób z niepełnosprawnościami"
+        },
+        {
+          "Name": "Środki zapobiegania przemocy i molestowaniu w miejscu pracy"
+        },
+        {
+          "Name": "Różnorodność"
+        },
+        {
+          "Name": "Praca dzieci"
+        },
+        {
+          "Name": "Praca przymusowa"
+        },
+        {
+          "Name": "Odpowiednie warunki mieszkaniowe"
+        },
+        {
+          "Name": "Woda i warunki sanitarne"
+        },
+        {
+          "Name": "Prywatność"
+        }
       ]
     },
     {
       "Esrs": "ESRS S3",
       "TopicName": "Dotknięte społeczności",
       "SubTopics": [
-        "Prawa gospodarcze, społeczne i kulturalne społeczności"
+        {
+          "Name": "Prawa gospodarcze, społeczne i kulturalne społeczności"
+        },
+        {
+          "Name": "Prawa obywatelskie i polityczne społeczności"
+        },
+        {
+          "Name": "Prawa ludności rdzennej"
+        }
       ],
       "SubSubTopics": [
-        "Odpowiednie warunki mieszkaniowe",
-        "Odpowiednia żywność",
-        "Woda i warunki sanitarne",
-        "Wpływy na grunty",
-        "Wpływy na bezpieczeństwo"
-      ]
-    },
-    {
-      "Esrs": "ESRS S3",
-      "TopicName": "Dotknięte społeczności",
-      "SubTopics": [
-        "Prawa obywatelskie i polityczne społeczności"
-      ],
-      "SubSubTopics": [
-        "Wolność wypowiedzi",
-        "Wolność zgromadzania się",
-        "Wpływy na obrońców praw człowieka"
-      ]
-    },
-    {
-      "Esrs": "ESRS S3",
-      "TopicName": "Dotknięte społeczności",
-      "SubTopics": [
-        "Prawa ludności rdzennej"
-      ],
-      "SubSubTopics": [
-        "Wcześniejsza, dobrowolna i świadoma zgoda",
-        "Samostanowienie",
-        "Prawa kulturalne"
-      ]
-    },
-    {
-      "Esrs": "ESRS S4",
-      "TopicName": "Konsumenci i użytkownicy końcowi",
-      "SubTopics": [
-        "Wpływy na konsumentów lub użytkowników końcowych związane z informacjami"
-      ],
-      "SubSubTopics": [
-        "Prywatność",
-        "Wolność wypowiedzi",
-        "Dostęp do informacji (wysokiej jakości)"
-      ]
-    },
-    {
-      "Esrs": "ESRS S4",
-      "TopicName": "Konsumenci i użytkownicy końcowi",
-      "SubTopics": [
-        "Bezpieczeństwo osobiste konsumentów lub użytkowników końcowych"
-      ],
-      "SubSubTopics": [
-        "Bezpieczeństwo i higiena pracy",
-        "Bezpieczeństwo osoby",
-        "Ochrona dzieci"
+        {
+          "Name": "Odpowiednie warunki mieszkaniowe"
+        },
+        {
+          "Name": "Odpowiednia żywność"
+        },
+        {
+          "Name": "Woda i warunki sanitarne"
+        },
+        {
+          "Name": "Wpływy na grunty"
+        },
+        {
+          "Name": "Wpływy na bezpieczeństwo"
+        },
+        {
+          "Name": "Wolność wypowiedzi"
+        },
+        {
+          "Name": "Wolność zgromadzania się"
+        },
+        {
+          "Name": "Wpływy na obrońców praw człowieka"
+        },
+        {
+          "Name": "Wcześniejsza, dobrowolna i świadoma zgoda"
+        },
+        {
+          "Name": "Samostanowienie"
+        },
+        {
+          "Name": "Prawa kulturalne"
+        }
       ]
     },
     {
       "Esrs": "ESRS S4",
       "TopicName": "Konsumenci i użytkownicy końcowi",
       "SubTopics": [
-        "Włączenie społeczne konsumentów lub użytkowników końcowych"
+        {
+          "Name": "Wpływy na konsumentów lub użytkowników końcowych związane z informacjami"
+        },
+        {
+          "Name": "Bezpieczeństwo osobiste konsumentów lub użytkowników końcowych"
+        },
+        {
+          "Name": "Włączenie społeczne konsumentów lub użytkowników końcowych"
+        }
       ],
       "SubSubTopics": [
-        "Niedyskryminacja",
-        "Dostęp do produktów i usług",
-        "Odpowiedzialne praktyki marketingowe"
+        {
+          "Name": "Prywatność"
+        },
+        {
+          "Name": "Wolność wypowiedzi"
+        },
+        {
+          "Name": "Dostęp do informacji (wysokiej jakości)"
+        },
+        {
+          "Name": "Bezpieczeństwo i higiena pracy"
+        },
+        {
+          "Name": "Bezpieczeństwo osoby"
+        },
+        {
+          "Name": "Ochrona dzieci"
+        },
+        {
+          "Name": "Niedyskryminacja"
+        },
+        {
+          "Name": "Dostęp do produktów i usług"
+        },
+        {
+          "Name": "Odpowiedzialne praktyki marketingowe"
+        }
       ]
     },
     {
       "Esrs": "ESRS G1",
       "TopicName": "Postępowanie w biznesie",
       "SubTopics": [
-        "Kultura korporacyjna",
-        "Ochrona sygnalistów",
-        "Dobrostan zwierząt",
-        "Zaangażowanie polityczne i działalność lobbingowa",
-        "Zarządzanie relacjami z dostawcami, w tym praktyki płatnicze"
-      ],
-      "SubSubTopics": []
-    },
-    {
-      "Esrs": "ESRS G1",
-      "TopicName": "Postępowanie w biznesie",
-      "SubTopics": [
-        "Korupcja i przekupstwo"
+        {
+          "Name": "Kultura korporacyjna"
+        },
+        {
+          "Name": "Ochrona sygnalistów"
+        },
+        {
+          "Name": "Dobrostan zwierząt"
+        },
+        {
+          "Name": "Zaangażowanie polityczne i działalność lobbingowa"
+        },
+        {
+          "Name": "Zarządzanie relacjami z dostawcami, w tym praktyki płatnicze"
+        },
+        {
+          "Name": "Korupcja i przekupstwo"
+        }
       ],
       "SubSubTopics": [
-        "Zapobieganie oraz wykrywanie, w tym szkolenie",
-        "Incydenty"
+        {
+          "Name": "Zapobieganie oraz wykrywanie, w tym szkolenie"
+        },
+        {
+          "Name": "Incydenty"
+        }
       ]
     }
   ]

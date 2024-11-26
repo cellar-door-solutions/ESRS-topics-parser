@@ -1,4 +1,6 @@
 {
+  "LanguageCode": "DE",
+  "Language": "Deutsch",
   "Topic": "Thema",
   "SubTopic": "Unterthema",
   "SubSubTopic": "Unter-Unterthemen",
@@ -7,9 +9,15 @@
       "Esrs": "ESRS E1",
       "TopicName": "Klimawandel",
       "SubTopics": [
-        "Anpassung an den Klimawandel",
-        "Klimaschutz",
-        "Energie"
+        {
+          "Name": "Anpassung an den Klimawandel"
+        },
+        {
+          "Name": "Klimaschutz"
+        },
+        {
+          "Name": "Energie"
+        }
       ],
       "SubSubTopics": []
     },
@@ -17,13 +25,27 @@
       "Esrs": "ESRS E2",
       "TopicName": "Umweltverschmutzung",
       "SubTopics": [
-        "Luftverschmutzung",
-        "Wasserverschmutzung",
-        "Bodenverschmutzung",
-        "Verschmutzung von lebenden Organismen und Nahrungsressourcen",
-        "Besorgniserregende Stoffe",
-        "Besonders besorgniserregende Stoffe",
-        "Mikroplastik"
+        {
+          "Name": "Luftverschmutzung"
+        },
+        {
+          "Name": "Wasserverschmutzung"
+        },
+        {
+          "Name": "Bodenverschmutzung"
+        },
+        {
+          "Name": "Verschmutzung von lebenden Organismen und Nahrungsressourcen"
+        },
+        {
+          "Name": "Besorgniserregende Stoffe"
+        },
+        {
+          "Name": "Besonders besorgniserregende Stoffe"
+        },
+        {
+          "Name": "Mikroplastik"
+        }
       ],
       "SubSubTopics": []
     },
@@ -31,72 +53,97 @@
       "Esrs": "ESRS E3",
       "TopicName": "Wasser-und Meeres-ressourcen",
       "SubTopics": [
-        "Wasser",
-        "Meeresressourcen"
+        {
+          "Name": "Wasser"
+        },
+        {
+          "Name": "Meeresressourcen"
+        }
       ],
       "SubSubTopics": [
-        "Wasserverbrauch",
-        "Wasserentnahme",
-        "Ableitung von Wasser",
-        "Ableitung von Wasser in die Ozeane",
-        "Gewinnung und Nutzung von Meeresressourcen"
+        {
+          "Name": "Wasserverbrauch"
+        },
+        {
+          "Name": "Wasserentnahme"
+        },
+        {
+          "Name": "Ableitung von Wasser"
+        },
+        {
+          "Name": "Ableitung von Wasser in die Ozeane"
+        },
+        {
+          "Name": "Gewinnung und Nutzung von Meeresressourcen"
+        }
       ]
     },
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biologische Vielfalt und Ökosysteme",
       "SubTopics": [
-        "Direkte Ursachen des Biodiversitätsverlusts"
+        {
+          "Name": "Direkte Ursachen des Biodiversitätsverlusts"
+        },
+        {
+          "Name": "Auswirkungen auf den Zustand der Arten"
+        },
+        {
+          "Name": "Auswirkungen auf den Umfang und den Zustand von Ökosystemen"
+        },
+        {
+          "Name": "Auswirkungen und Abhängigkeiten von Ökosystemdienstleistungen"
+        }
       ],
       "SubSubTopics": [
-        "Klimawandel",
-        "Landnutzungsänderungen, Süßwasser- und Meeresnutzungsänderungen",
-        "Direkte Nutzung",
-        "Invasive gebietsfremde Arten",
-        "Umweltverschmutzung",
-        "Sonstige"
+        {
+          "Name": "Klimawandel"
+        },
+        {
+          "Name": "Landnutzungsänderungen, Süßwasser- und Meeresnutzungsänderungen"
+        },
+        {
+          "Name": "Direkte Nutzung"
+        },
+        {
+          "Name": "Invasive gebietsfremde Arten"
+        },
+        {
+          "Name": "Umweltverschmutzung"
+        },
+        {
+          "Name": "Sonstige"
+        },
+        {
+          "Name": "Populationsgröße von Arten"
+        },
+        {
+          "Name": "Globales Ausrottungsrisiko von Arten"
+        },
+        {
+          "Name": "Landdegradation"
+        },
+        {
+          "Name": "Wüstenbildung"
+        },
+        {
+          "Name": "Bodenversiegelung"
+        }
       ]
-    },
-    {
-      "Esrs": "ESRS E4",
-      "TopicName": "Biologische Vielfalt und Ökosysteme",
-      "SubTopics": [
-        "Auswirkungen auf den Zustand der Arten"
-      ],
-      "SubSubTopics": [
-        "Beispiele:",
-        "Populationsgröße von Arten",
-        "Globales Ausrottungsrisiko von Arten"
-      ]
-    },
-    {
-      "Esrs": "ESRS E4",
-      "TopicName": "Biologische Vielfalt und Ökosysteme",
-      "SubTopics": [
-        "Auswirkungen auf den Umfang und den Zustand von Ökosystemen"
-      ],
-      "SubSubTopics": [
-        "Beispiele:",
-        "Landdegradation",
-        "Wüstenbildung",
-        "Bodenversiegelung"
-      ]
-    },
-    {
-      "Esrs": "ESRS E4",
-      "TopicName": "Biologische Vielfalt und Ökosysteme",
-      "SubTopics": [
-        "Auswirkungen und Abhängigkeiten von Ökosystemdienstleistungen"
-      ],
-      "SubSubTopics": []
     },
     {
       "Esrs": "ESRS E5",
       "TopicName": "Kreislaufwirtschaft",
       "SubTopics": [
-        "Ressourcenzuflüsse, einschließlich Ressourcennutzung",
-        "Ressourcenabflüsse im Zusammenhang mit Produkten und Dienstleistungen",
-        "Abfälle"
+        {
+          "Name": "Ressourcenzuflüsse, einschließlich Ressourcennutzung"
+        },
+        {
+          "Name": "Ressourcenabflüsse im Zusammenhang mit Produkten und Dienstleistungen"
+        },
+        {
+          "Name": "Abfälle"
+        }
       ],
       "SubSubTopics": []
     },
@@ -104,186 +151,265 @@
       "Esrs": "ESRS S1",
       "TopicName": "Arbeitskräfte des Unternehmens",
       "SubTopics": [
-        "Arbeitsbedingungen"
+        {
+          "Name": "Arbeitsbedingungen"
+        },
+        {
+          "Name": "Gleichbehandlung und Chancengleichheit für alle"
+        },
+        {
+          "Name": "Sonstige arbeitsbezogene Rechte"
+        }
       ],
       "SubSubTopics": [
-        "Sichere Beschäftigung",
-        "Arbeitszeit",
-        "Angemessene Entlohnung",
-        "Sozialer Dialog",
-        "Vereinigungsfreiheit, Existenz von Betriebsräten und Rechte der Arbeitnehmer auf Information, Anhörung und Mitbestimmung",
-        "Tarifverhandlungen, einschließlich der Quote der durch Tarifverträge abgedeckten Arbeitskräften",
-        "Vereinbarkeit von Berufs- und Privatleben",
-        "Gesundheitsschutz und Sicherheit"
-      ]
-    },
-    {
-      "Esrs": "ESRS S1",
-      "TopicName": "Arbeitskräfte des Unternehmens",
-      "SubTopics": [
-        "Gleichbehandlung und Chancengleichheit für alle"
-      ],
-      "SubSubTopics": [
-        "Gleichstellung der Geschlechter und gleicher Lohn für gleiche Arbeit",
-        "Weiterbildung und Kompetenzentwicklung",
-        "Beschäftigung und Inklusion von Menschen mit Behinderungen",
-        "Maßnahmen gegen Gewalt und Belästigung am Arbeitsplatz",
-        "Vielfalt"
-      ]
-    },
-    {
-      "Esrs": "ESRS S1",
-      "TopicName": "Arbeitskräfte des Unternehmens",
-      "SubTopics": [
-        "Sonstige arbeitsbezogene Rechte"
-      ],
-      "SubSubTopics": [
-        "Kinderarbeit",
-        "Zwangsarbeit",
-        "Angemessene Unterbringung",
-        "Datenschutz"
-      ]
-    },
-    {
-      "Esrs": "ESRS S2",
-      "TopicName": "Arbeitskräfte in der Wertschöpfungskette",
-      "SubTopics": [
-        "Arbeitsbedingungen"
-      ],
-      "SubSubTopics": [
-        "Sichere Beschäftigung",
-        "Arbeitszeit",
-        "Angemessene Entlohnung",
-        "Sozialer Dialog",
-        "Vereinigungsfreiheit, einschließlich der Existenz von Betriebsräten",
-        "Tarifverhandlungen",
-        "Vereinbarkeit von Berufs- und Privatleben",
-        "Gesundheitsschutz und Sicherheit"
-      ]
-    },
-    {
-      "Esrs": "ESRS S2",
-      "TopicName": "Arbeitskräfte in der Wertschöpfungskette",
-      "SubTopics": [
-        "Gleichbehandlung und Chancengleichheit für alle"
-      ],
-      "SubSubTopics": [
-        "Gleichstellung der Geschlechter und gleicher Lohn für gleiche Arbeit",
-        "Weiterbildung und Kompetenzentwicklung",
-        "Beschäftigung und Inklusion von Menschen mit Behinderungen",
-        "Maßnahmen gegen Gewalt und Belästigung am Arbeitsplatz",
-        "Vielfalt"
+        {
+          "Name": "Sichere Beschäftigung"
+        },
+        {
+          "Name": "Arbeitszeit"
+        },
+        {
+          "Name": "Angemessene Entlohnung"
+        },
+        {
+          "Name": "Sozialer Dialog"
+        },
+        {
+          "Name": "Vereinigungsfreiheit, Existenz von Betriebsräten und Rechte der Arbeitnehmer auf Information, Anhörung und Mitbestimmung"
+        },
+        {
+          "Name": "Tarifverhandlungen, einschließlich der Quote der durch Tarifverträge abgedeckten Arbeitskräften"
+        },
+        {
+          "Name": "Vereinbarkeit von Berufs- und Privatleben"
+        },
+        {
+          "Name": "Gesundheitsschutz und Sicherheit"
+        },
+        {
+          "Name": "Gleichstellung der Geschlechter und gleicher Lohn für gleiche Arbeit"
+        },
+        {
+          "Name": "Weiterbildung und Kompetenzentwicklung"
+        },
+        {
+          "Name": "Beschäftigung und Inklusion von Menschen mit Behinderungen"
+        },
+        {
+          "Name": "Maßnahmen gegen Gewalt und Belästigung am Arbeitsplatz"
+        },
+        {
+          "Name": "Vielfalt"
+        },
+        {
+          "Name": "Kinderarbeit"
+        },
+        {
+          "Name": "Zwangsarbeit"
+        },
+        {
+          "Name": "Angemessene Unterbringung"
+        },
+        {
+          "Name": "Datenschutz"
+        }
       ]
     },
     {
       "Esrs": "ESRS S2",
       "TopicName": "Arbeitskräfte in der Wertschöpfungskette",
       "SubTopics": [
-        "Sonstige arbeitsbezogene Rechte"
+        {
+          "Name": "Arbeitsbedingungen"
+        },
+        {
+          "Name": "Gleichbehandlung und Chancengleichheit für alle"
+        },
+        {
+          "Name": "Sonstige arbeitsbezogene Rechte"
+        }
       ],
       "SubSubTopics": [
-        "Kinderarbeit",
-        "Zwangsarbeit",
-        "Angemessene Unterbringung",
-        "Wasser- und Sanitäreinrichtungen",
-        "Datenschutz"
+        {
+          "Name": "Sichere Beschäftigung"
+        },
+        {
+          "Name": "Arbeitszeit"
+        },
+        {
+          "Name": "Angemessene Entlohnung"
+        },
+        {
+          "Name": "Sozialer Dialog"
+        },
+        {
+          "Name": "Vereinigungsfreiheit, einschließlich der Existenz von Betriebsräten"
+        },
+        {
+          "Name": "Tarifverhandlungen"
+        },
+        {
+          "Name": "Vereinbarkeit von Berufs- und Privatleben"
+        },
+        {
+          "Name": "Gesundheitsschutz und Sicherheit"
+        },
+        {
+          "Name": "Gleichstellung der Geschlechter und gleicher Lohn für gleiche Arbeit"
+        },
+        {
+          "Name": "Weiterbildung und Kompetenzentwicklung"
+        },
+        {
+          "Name": "Beschäftigung und Inklusion von Menschen mit Behinderungen"
+        },
+        {
+          "Name": "Maßnahmen gegen Gewalt und Belästigung am Arbeitsplatz"
+        },
+        {
+          "Name": "Vielfalt"
+        },
+        {
+          "Name": "Kinderarbeit"
+        },
+        {
+          "Name": "Zwangsarbeit"
+        },
+        {
+          "Name": "Angemessene Unterbringung"
+        },
+        {
+          "Name": "Wasser- und Sanitäreinrichtungen"
+        },
+        {
+          "Name": "Datenschutz"
+        }
       ]
     },
     {
       "Esrs": "ESRS S3",
       "TopicName": "Betroffene Gemeinschaften",
       "SubTopics": [
-        "Wirtschaftliche, soziale und kulturelle Rechte von Gemeinschaften"
+        {
+          "Name": "Wirtschaftliche, soziale und kulturelle Rechte von Gemeinschaften"
+        },
+        {
+          "Name": "Bürgerrechte und politische Rechte von Gemeinschaften"
+        },
+        {
+          "Name": "Rechte indigener Völker"
+        }
       ],
       "SubSubTopics": [
-        "Angemessene Unterbringung",
-        "Angemessene Ernährung",
-        "Wasser- und Sanitäreinrichtungen",
-        "Bodenbezogene Auswirkungen",
-        "Sicherheitsbezogene Auswirkungen"
-      ]
-    },
-    {
-      "Esrs": "ESRS S3",
-      "TopicName": "Betroffene Gemeinschaften",
-      "SubTopics": [
-        "Bürgerrechte und politische Rechte von Gemeinschaften"
-      ],
-      "SubSubTopics": [
-        "Meinungsfreiheit",
-        "Versammlungsfreiheit",
-        "Auswirkungen auf Menschenrechtsverteidiger"
-      ]
-    },
-    {
-      "Esrs": "ESRS S3",
-      "TopicName": "Betroffene Gemeinschaften",
-      "SubTopics": [
-        "Rechte indigener Völker"
-      ],
-      "SubSubTopics": [
-        "Freiwillige und in Kenntnis der Sachlage erteilte vorherige Zustimmung",
-        "Selbstbestimmung",
-        "Kulturelle Rechte"
-      ]
-    },
-    {
-      "Esrs": "ESRS S4",
-      "TopicName": "Verbraucher und End-nutzer",
-      "SubTopics": [
-        "Informationsbezogene Auswirkungen für Verbraucher und/oder Endnutzer"
-      ],
-      "SubSubTopics": [
-        "Datenschutz",
-        "Meinungsfreiheit",
-        "Zugang zu (hochwertigen) Informationen"
-      ]
-    },
-    {
-      "Esrs": "ESRS S4",
-      "TopicName": "Verbraucher und End-nutzer",
-      "SubTopics": [
-        "Persönliche Sicherheit von Verbrauchern und/oder Endnutzern"
-      ],
-      "SubSubTopics": [
-        "Gesundheitsschutz und Sicherheit",
-        "Persönliche Sicherheit",
-        "Kinderschutz"
+        {
+          "Name": "Angemessene Unterbringung"
+        },
+        {
+          "Name": "Angemessene Ernährung"
+        },
+        {
+          "Name": "Wasser- und Sanitäreinrichtungen"
+        },
+        {
+          "Name": "Bodenbezogene Auswirkungen"
+        },
+        {
+          "Name": "Sicherheitsbezogene Auswirkungen"
+        },
+        {
+          "Name": "Meinungsfreiheit"
+        },
+        {
+          "Name": "Versammlungsfreiheit"
+        },
+        {
+          "Name": "Auswirkungen auf Menschenrechtsverteidiger"
+        },
+        {
+          "Name": "Freiwillige und in Kenntnis der Sachlage erteilte vorherige Zustimmung"
+        },
+        {
+          "Name": "Selbstbestimmung"
+        },
+        {
+          "Name": "Kulturelle Rechte"
+        }
       ]
     },
     {
       "Esrs": "ESRS S4",
       "TopicName": "Verbraucher und End-nutzer",
       "SubTopics": [
-        "Soziale Inklusion von Verbrauchern und/oder Endnutzern"
+        {
+          "Name": "Informationsbezogene Auswirkungen für Verbraucher und/oder Endnutzer"
+        },
+        {
+          "Name": "Persönliche Sicherheit von Verbrauchern und/oder Endnutzern"
+        },
+        {
+          "Name": "Soziale Inklusion von Verbrauchern und/oder Endnutzern"
+        }
       ],
       "SubSubTopics": [
-        "Nichtdiskriminierung",
-        "Zugang zu Produkten und Dienstleistungen",
-        "Verantwortliche Vermarktungspraktiken"
+        {
+          "Name": "Datenschutz"
+        },
+        {
+          "Name": "Meinungsfreiheit"
+        },
+        {
+          "Name": "Zugang zu (hochwertigen) Informationen"
+        },
+        {
+          "Name": "Gesundheitsschutz und Sicherheit"
+        },
+        {
+          "Name": "Persönliche Sicherheit"
+        },
+        {
+          "Name": "Kinderschutz"
+        },
+        {
+          "Name": "Nichtdiskriminierung"
+        },
+        {
+          "Name": "Zugang zu Produkten und Dienstleistungen"
+        },
+        {
+          "Name": "Verantwortliche Vermarktungspraktiken"
+        }
       ]
     },
     {
       "Esrs": "ESRS G1",
       "TopicName": "Unternehmensführung",
       "SubTopics": [
-        "Unternehmenskultur",
-        "Schutz von Hinweisgebern (Whistleblowers)",
-        "Tierschutz",
-        "Politisches Engagement und Lobbytätigkeiten",
-        "Management der Beziehungen zu Lieferanten, einschließlich Zahlungspraktiken"
-      ],
-      "SubSubTopics": []
-    },
-    {
-      "Esrs": "ESRS G1",
-      "TopicName": "Unternehmensführung",
-      "SubTopics": [
-        "Korruption und Bestechung"
+        {
+          "Name": "Unternehmenskultur"
+        },
+        {
+          "Name": "Schutz von Hinweisgebern (Whistleblowers)"
+        },
+        {
+          "Name": "Tierschutz"
+        },
+        {
+          "Name": "Politisches Engagement und Lobbytätigkeiten"
+        },
+        {
+          "Name": "Management der Beziehungen zu Lieferanten, einschließlich Zahlungspraktiken"
+        },
+        {
+          "Name": "Korruption und Bestechung"
+        }
       ],
       "SubSubTopics": [
-        "Vermeidung und Aufdeckung einschließlich Schulung",
-        "Vorkommnisse"
+        {
+          "Name": "Vermeidung und Aufdeckung einschließlich Schulung"
+        },
+        {
+          "Name": "Vorkommnisse"
+        }
       ]
     }
   ]

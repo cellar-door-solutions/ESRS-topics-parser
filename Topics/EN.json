@@ -1,4 +1,6 @@
 {
+  "LanguageCode": "EN",
+  "Language": "English",
   "Topic": "Topic",
   "SubTopic": "Sub-topic",
   "SubSubTopic": "Sub-sub-topics",
@@ -7,9 +9,15 @@
       "Esrs": "ESRS E1",
       "TopicName": "Climate change",
       "SubTopics": [
-        "Climate change adaptation",
-        "Climate change mitigation",
-        "Energy"
+        {
+          "Name": "Climate change adaptation"
+        },
+        {
+          "Name": "Climate change mitigation"
+        },
+        {
+          "Name": "Energy"
+        }
       ],
       "SubSubTopics": []
     },
@@ -17,13 +25,27 @@
       "Esrs": "ESRS E2",
       "TopicName": "Pollution",
       "SubTopics": [
-        "Pollution of air",
-        "Pollution of water",
-        "Pollution of soil",
-        "Pollution of living organisms and food resources",
-        "Substances of concern",
-        "Substances of very high concern",
-        "Microplastics"
+        {
+          "Name": "Pollution of air"
+        },
+        {
+          "Name": "Pollution of water"
+        },
+        {
+          "Name": "Pollution of soil"
+        },
+        {
+          "Name": "Pollution of living organisms and food resources"
+        },
+        {
+          "Name": "Substances of concern"
+        },
+        {
+          "Name": "Substances of very high concern"
+        },
+        {
+          "Name": "Microplastics"
+        }
       ],
       "SubSubTopics": []
     },
@@ -31,72 +53,97 @@
       "Esrs": "ESRS E3",
       "TopicName": "Water and marine resources",
       "SubTopics": [
-        "Water",
-        "Marine resources"
+        {
+          "Name": "Water"
+        },
+        {
+          "Name": "Marine resources"
+        }
       ],
       "SubSubTopics": [
-        "Water consumption",
-        "Water withdrawals",
-        "Water discharges",
-        "Water discharges in the oceans",
-        "Extraction and use of marine resources"
+        {
+          "Name": "Water consumption"
+        },
+        {
+          "Name": "Water withdrawals"
+        },
+        {
+          "Name": "Water discharges"
+        },
+        {
+          "Name": "Water discharges in the oceans"
+        },
+        {
+          "Name": "Extraction and use of marine resources"
+        }
       ]
     },
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodiversity and ecosystems",
       "SubTopics": [
-        "Direct impact drivers of biodiversity loss"
+        {
+          "Name": "Direct impact drivers of biodiversity loss"
+        },
+        {
+          "Name": "Impacts on the state of species"
+        },
+        {
+          "Name": "Impacts on the extent and condition of ecosystems"
+        },
+        {
+          "Name": "Impacts and dependencies on ecosystem services"
+        }
       ],
       "SubSubTopics": [
-        "Climate Change",
-        "Land-use change, fresh water-use change and sea-use change",
-        "Direct exploitation",
-        "Invasive alien species",
-        "Pollution",
-        "Others"
+        {
+          "Name": "Climate Change"
+        },
+        {
+          "Name": "Land-use change, fresh water-use change and sea-use change"
+        },
+        {
+          "Name": "Direct exploitation"
+        },
+        {
+          "Name": "Invasive alien species"
+        },
+        {
+          "Name": "Pollution"
+        },
+        {
+          "Name": "Others"
+        },
+        {
+          "Name": "Species population size"
+        },
+        {
+          "Name": "Species global extinction risk"
+        },
+        {
+          "Name": "Land degradation"
+        },
+        {
+          "Name": "Desertification"
+        },
+        {
+          "Name": "Soil sealing"
+        }
       ]
-    },
-    {
-      "Esrs": "ESRS E4",
-      "TopicName": "Biodiversity and ecosystems",
-      "SubTopics": [
-        "Impacts on the state of species"
-      ],
-      "SubSubTopics": [
-        "Examples:",
-        "Species population size",
-        "Species global extinction risk"
-      ]
-    },
-    {
-      "Esrs": "ESRS E4",
-      "TopicName": "Biodiversity and ecosystems",
-      "SubTopics": [
-        "Impacts on the extent and condition of ecosystems"
-      ],
-      "SubSubTopics": [
-        "Examples:",
-        "Land degradation",
-        "Desertification",
-        "Soil sealing"
-      ]
-    },
-    {
-      "Esrs": "ESRS E4",
-      "TopicName": "Biodiversity and ecosystems",
-      "SubTopics": [
-        "Impacts and dependencies on ecosystem services"
-      ],
-      "SubSubTopics": []
     },
     {
       "Esrs": "ESRS E5",
       "TopicName": "Circular economy",
       "SubTopics": [
-        "Resources inflows, including resource use",
-        "Resource outflows related to products and services",
-        "Waste"
+        {
+          "Name": "Resources inflows, including resource use"
+        },
+        {
+          "Name": "Resource outflows related to products and services"
+        },
+        {
+          "Name": "Waste"
+        }
       ],
       "SubSubTopics": []
     },
@@ -104,186 +151,265 @@
       "Esrs": "ESRS S1",
       "TopicName": "Own workforce",
       "SubTopics": [
-        "Working conditions"
+        {
+          "Name": "Working conditions"
+        },
+        {
+          "Name": "Equal treatment and opportunities for all"
+        },
+        {
+          "Name": "Other work-related rights"
+        }
       ],
       "SubSubTopics": [
-        "Secure employment",
-        "Working time",
-        "Adequate wages",
-        "Social dialogue",
-        "Freedom of association, the existence of works councils and the information, consultation and participation rights of workers",
-        "Collective bargaining, including rate of workers covered by collective agreements",
-        "Work-life balance",
-        "Health and safety"
-      ]
-    },
-    {
-      "Esrs": "ESRS S1",
-      "TopicName": "Own workforce",
-      "SubTopics": [
-        "Equal treatment and opportunities for all"
-      ],
-      "SubSubTopics": [
-        "Gender equality and equal pay for work of equal value",
-        "Training and skills development",
-        "Employment and inclusion of persons with disabilities",
-        "Measures against violence and harassment in the workplace",
-        "Diversity"
-      ]
-    },
-    {
-      "Esrs": "ESRS S1",
-      "TopicName": "Own workforce",
-      "SubTopics": [
-        "Other work-related rights"
-      ],
-      "SubSubTopics": [
-        "Child labour",
-        "Forced labour",
-        "Adequate housing",
-        "Privacy"
-      ]
-    },
-    {
-      "Esrs": "ESRS S2",
-      "TopicName": "Workers in the value chain",
-      "SubTopics": [
-        "Working conditions"
-      ],
-      "SubSubTopics": [
-        "Secure employment",
-        "Working time",
-        "Adequate wages",
-        "Social dialogue",
-        "Freedom of association, including the existence of work councils",
-        "Collective bargaining",
-        "Work-life balance",
-        "Health and safety"
-      ]
-    },
-    {
-      "Esrs": "ESRS S2",
-      "TopicName": "Workers in the value chain",
-      "SubTopics": [
-        "Equal treatment and opportunities for all"
-      ],
-      "SubSubTopics": [
-        "Gender equality and equal pay for work of equal value",
-        "Training and skills development",
-        "The employment and inclusion of persons with disabilities",
-        "Measures against violence and harassment in the workplace",
-        "Diversity"
+        {
+          "Name": "Secure employment"
+        },
+        {
+          "Name": "Working time"
+        },
+        {
+          "Name": "Adequate wages"
+        },
+        {
+          "Name": "Social dialogue"
+        },
+        {
+          "Name": "Freedom of association, the existence of works councils and the information, consultation and participation rights of workers"
+        },
+        {
+          "Name": "Collective bargaining, including rate of workers covered by collective agreements"
+        },
+        {
+          "Name": "Work-life balance"
+        },
+        {
+          "Name": "Health and safety"
+        },
+        {
+          "Name": "Gender equality and equal pay for work of equal value"
+        },
+        {
+          "Name": "Training and skills development"
+        },
+        {
+          "Name": "Employment and inclusion of persons with disabilities"
+        },
+        {
+          "Name": "Measures against violence and harassment in the workplace"
+        },
+        {
+          "Name": "Diversity"
+        },
+        {
+          "Name": "Child labour"
+        },
+        {
+          "Name": "Forced labour"
+        },
+        {
+          "Name": "Adequate housing"
+        },
+        {
+          "Name": "Privacy"
+        }
       ]
     },
     {
       "Esrs": "ESRS S2",
       "TopicName": "Workers in the value chain",
       "SubTopics": [
-        "Other work-related rights"
+        {
+          "Name": "Working conditions"
+        },
+        {
+          "Name": "Equal treatment and opportunities for all"
+        },
+        {
+          "Name": "Other work-related rights"
+        }
       ],
       "SubSubTopics": [
-        "Child labour",
-        "Forced labour",
-        "Adequate housing",
-        "Water and sanitation",
-        "Privacy"
+        {
+          "Name": "Secure employment"
+        },
+        {
+          "Name": "Working time"
+        },
+        {
+          "Name": "Adequate wages"
+        },
+        {
+          "Name": "Social dialogue"
+        },
+        {
+          "Name": "Freedom of association, including the existence of work councils"
+        },
+        {
+          "Name": "Collective bargaining"
+        },
+        {
+          "Name": "Work-life balance"
+        },
+        {
+          "Name": "Health and safety"
+        },
+        {
+          "Name": "Gender equality and equal pay for work of equal value"
+        },
+        {
+          "Name": "Training and skills development"
+        },
+        {
+          "Name": "The employment and inclusion of persons with disabilities"
+        },
+        {
+          "Name": "Measures against violence and harassment in the workplace"
+        },
+        {
+          "Name": "Diversity"
+        },
+        {
+          "Name": "Child labour"
+        },
+        {
+          "Name": "Forced labour"
+        },
+        {
+          "Name": "Adequate housing"
+        },
+        {
+          "Name": "Water and sanitation"
+        },
+        {
+          "Name": "Privacy"
+        }
       ]
     },
     {
       "Esrs": "ESRS S3",
       "TopicName": "Affected communities",
       "SubTopics": [
-        "Communities’ economic, social and cultural rights"
+        {
+          "Name": "Communities’ economic, social and cultural rights"
+        },
+        {
+          "Name": "Communities’ civil and political rights"
+        },
+        {
+          "Name": "Rights of indigenous peoples"
+        }
       ],
       "SubSubTopics": [
-        "Adequate housing",
-        "Adequate food",
-        "Water and sanitation",
-        "Land-related impacts",
-        "Security-related impacts"
-      ]
-    },
-    {
-      "Esrs": "ESRS S3",
-      "TopicName": "Affected communities",
-      "SubTopics": [
-        "Communities’ civil and political rights"
-      ],
-      "SubSubTopics": [
-        "Freedom of expression",
-        "Freedom of assembly",
-        "Impacts on human rights defenders"
-      ]
-    },
-    {
-      "Esrs": "ESRS S3",
-      "TopicName": "Affected communities",
-      "SubTopics": [
-        "Rights of indigenous peoples"
-      ],
-      "SubSubTopics": [
-        "Free, prior and informed consent",
-        "Self-determination",
-        "Cultural rights"
-      ]
-    },
-    {
-      "Esrs": "ESRS S4",
-      "TopicName": "Consumers and end- users",
-      "SubTopics": [
-        "Information-related impacts for consumers and/or end-users"
-      ],
-      "SubSubTopics": [
-        "Privacy",
-        "Freedom of expression",
-        "Access to (quality) information"
-      ]
-    },
-    {
-      "Esrs": "ESRS S4",
-      "TopicName": "Consumers and end- users",
-      "SubTopics": [
-        "Personal safety of consumers and/or end-users"
-      ],
-      "SubSubTopics": [
-        "Health and safety",
-        "Security of a person",
-        "Protection of children"
+        {
+          "Name": "Adequate housing"
+        },
+        {
+          "Name": "Adequate food"
+        },
+        {
+          "Name": "Water and sanitation"
+        },
+        {
+          "Name": "Land-related impacts"
+        },
+        {
+          "Name": "Security-related impacts"
+        },
+        {
+          "Name": "Freedom of expression"
+        },
+        {
+          "Name": "Freedom of assembly"
+        },
+        {
+          "Name": "Impacts on human rights defenders"
+        },
+        {
+          "Name": "Free, prior and informed consent"
+        },
+        {
+          "Name": "Self-determination"
+        },
+        {
+          "Name": "Cultural rights"
+        }
       ]
     },
     {
       "Esrs": "ESRS S4",
       "TopicName": "Consumers and end- users",
       "SubTopics": [
-        "Social inclusion of consumers and/or end-users"
+        {
+          "Name": "Information-related impacts for consumers and/or end-users"
+        },
+        {
+          "Name": "Personal safety of consumers and/or end-users"
+        },
+        {
+          "Name": "Social inclusion of consumers and/or end-users"
+        }
       ],
       "SubSubTopics": [
-        "Non-discrimination",
-        "Access to products and services",
-        "Responsible marketing practices"
+        {
+          "Name": "Privacy"
+        },
+        {
+          "Name": "Freedom of expression"
+        },
+        {
+          "Name": "Access to (quality) information"
+        },
+        {
+          "Name": "Health and safety"
+        },
+        {
+          "Name": "Security of a person"
+        },
+        {
+          "Name": "Protection of children"
+        },
+        {
+          "Name": "Non-discrimination"
+        },
+        {
+          "Name": "Access to products and services"
+        },
+        {
+          "Name": "Responsible marketing practices"
+        }
       ]
     },
     {
       "Esrs": "ESRS G1",
       "TopicName": "Business conduct",
       "SubTopics": [
-        "Corporate culture",
-        "Protection of whistle-blowers",
-        "Animal welfare",
-        "Political engagement and lobbying activities",
-        "Management of relationships with suppliers including payment practices"
-      ],
-      "SubSubTopics": []
-    },
-    {
-      "Esrs": "ESRS G1",
-      "TopicName": "Business conduct",
-      "SubTopics": [
-        "Corruption and bribery"
+        {
+          "Name": "Corporate culture"
+        },
+        {
+          "Name": "Protection of whistle-blowers"
+        },
+        {
+          "Name": "Animal welfare"
+        },
+        {
+          "Name": "Political engagement and lobbying activities"
+        },
+        {
+          "Name": "Management of relationships with suppliers including payment practices"
+        },
+        {
+          "Name": "Corruption and bribery"
+        }
       ],
       "SubSubTopics": [
-        "Prevention and detection including training",
-        "Incidents"
+        {
+          "Name": "Prevention and detection including training"
+        },
+        {
+          "Name": "Incidents"
+        }
       ]
     }
   ]

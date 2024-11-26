@@ -1,4 +1,6 @@
 {
+  "LanguageCode": "NL",
+  "Language": "Nederlands",
   "Topic": "Thematisch",
   "SubTopic": "Sub-thematisch",
   "SubSubTopic": "Sub-sub-thematisch",
@@ -7,9 +9,15 @@
       "Esrs": "ESRS E1",
       "TopicName": "Klimaat-verandering",
       "SubTopics": [
-        "Klimaatadaptatie",
-        "Klimaatmitigatie",
-        "Energie"
+        {
+          "Name": "Klimaatadaptatie"
+        },
+        {
+          "Name": "Klimaatmitigatie"
+        },
+        {
+          "Name": "Energie"
+        }
       ],
       "SubSubTopics": []
     },
@@ -17,13 +25,27 @@
       "Esrs": "ESRS E2",
       "TopicName": "Verontreiniging",
       "SubTopics": [
-        "Luchtverontreiniging",
-        "Waterverontreiniging",
-        "Bodemverontreiniging",
-        "Verontreiniging levende organismen en voedselbronnen",
-        "Zorgwekkende stoffen",
-        "Zeer zorgwekkende stoffen",
-        "Microplastics"
+        {
+          "Name": "Luchtverontreiniging"
+        },
+        {
+          "Name": "Waterverontreiniging"
+        },
+        {
+          "Name": "Bodemverontreiniging"
+        },
+        {
+          "Name": "Verontreiniging levende organismen en voedselbronnen"
+        },
+        {
+          "Name": "Zorgwekkende stoffen"
+        },
+        {
+          "Name": "Zeer zorgwekkende stoffen"
+        },
+        {
+          "Name": "Microplastics"
+        }
       ],
       "SubSubTopics": []
     },
@@ -31,72 +53,97 @@
       "Esrs": "ESRS E3",
       "TopicName": "Water en mariene hulpbronnen",
       "SubTopics": [
-        "Water",
-        "Mariene hulpbronnen"
+        {
+          "Name": "Water"
+        },
+        {
+          "Name": "Mariene hulpbronnen"
+        }
       ],
       "SubSubTopics": [
-        "Waterverbruik",
-        "Wateronttrekking",
-        "Waterlozing",
-        "Waterlozing in oceanen",
-        "Ontginning en gebruik mariene hulpbronnen"
+        {
+          "Name": "Waterverbruik"
+        },
+        {
+          "Name": "Wateronttrekking"
+        },
+        {
+          "Name": "Waterlozing"
+        },
+        {
+          "Name": "Waterlozing in oceanen"
+        },
+        {
+          "Name": "Ontginning en gebruik mariene hulpbronnen"
+        }
       ]
     },
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodiversiteit en ecosystemen",
       "SubTopics": [
-        "Directe drukfactoren biodiversiteitsverlies"
+        {
+          "Name": "Directe drukfactoren biodiversiteitsverlies"
+        },
+        {
+          "Name": "Impact op toestand soorten"
+        },
+        {
+          "Name": "Impact op omvang en toestand ecosystemen"
+        },
+        {
+          "Name": "Impacts op en afhankelijkheden van ecosysteemdiensten"
+        }
       ],
       "SubSubTopics": [
-        "Klimaatverandering",
-        "Verandering in gebruik land, zoet water en zee",
-        "Directe exploitatie",
-        "Invasieve exoten",
-        "Verontreiniging",
-        "Overig"
+        {
+          "Name": "Klimaatverandering"
+        },
+        {
+          "Name": "Verandering in gebruik land, zoet water en zee"
+        },
+        {
+          "Name": "Directe exploitatie"
+        },
+        {
+          "Name": "Invasieve exoten"
+        },
+        {
+          "Name": "Verontreiniging"
+        },
+        {
+          "Name": "Overig"
+        },
+        {
+          "Name": "Populatiegrootte soort"
+        },
+        {
+          "Name": "Mondiaal risico uitsterven soort"
+        },
+        {
+          "Name": "Landdegradatie"
+        },
+        {
+          "Name": "Verwoestijning"
+        },
+        {
+          "Name": "Bodemafdekking"
+        }
       ]
-    },
-    {
-      "Esrs": "ESRS E4",
-      "TopicName": "Biodiversiteit en ecosystemen",
-      "SubTopics": [
-        "Impact op toestand soorten"
-      ],
-      "SubSubTopics": [
-        "Voorbeelden:",
-        "Populatiegrootte soort",
-        "Mondiaal risico uitsterven soort"
-      ]
-    },
-    {
-      "Esrs": "ESRS E4",
-      "TopicName": "Biodiversiteit en ecosystemen",
-      "SubTopics": [
-        "Impact op omvang en toestand ecosystemen"
-      ],
-      "SubSubTopics": [
-        "Voorbeelden:",
-        "Landdegradatie",
-        "Verwoestijning",
-        "Bodemafdekking"
-      ]
-    },
-    {
-      "Esrs": "ESRS E4",
-      "TopicName": "Biodiversiteit en ecosystemen",
-      "SubTopics": [
-        "Impacts op en afhankelijkheden van ecosysteemdiensten"
-      ],
-      "SubSubTopics": []
     },
     {
       "Esrs": "ESRS E5",
       "TopicName": "Circulaire economie",
       "SubTopics": [
-        "Materiaalinstromen, incl. materiaalgebruik",
-        "Materiaaluitstromen m.b.t. producten en diensten",
-        "Afval(stoffen)"
+        {
+          "Name": "Materiaalinstromen, incl. materiaalgebruik"
+        },
+        {
+          "Name": "Materiaaluitstromen m.b.t. producten en diensten"
+        },
+        {
+          "Name": "Afval(stoffen)"
+        }
       ],
       "SubSubTopics": []
     },
@@ -104,186 +151,265 @@
       "Esrs": "ESRS S1",
       "TopicName": "Eigen personeel",
       "SubTopics": [
-        "Arbeidsvoorwaarden"
+        {
+          "Name": "Arbeidsvoorwaarden"
+        },
+        {
+          "Name": "Gelijke behandeling en gelijke kansen voor iedereen"
+        },
+        {
+          "Name": "Andere arbeidsrechten"
+        }
       ],
       "SubSubTopics": [
-        "Baanzekerheid",
-        "Werktijden",
-        "Leefbaar loon",
-        "Sociale dialoog",
-        "Vrijheid van vereniging, het bestaan van ondernemingsraden, en de informatie-, consultatie- en participatierechten van werknemers",
-        "Collectieve onderhandelingen, incl. cao-dekkingsgraad werknemers",
-        "Werk-privébalans",
-        "Veiligheid en gezondheid"
-      ]
-    },
-    {
-      "Esrs": "ESRS S1",
-      "TopicName": "Eigen personeel",
-      "SubTopics": [
-        "Gelijke behandeling en gelijke kansen voor iedereen"
-      ],
-      "SubSubTopics": [
-        "Gendergelijkheid en gelijke beloning bij gelijkwaardig werk",
-        "Opleiding en ontwikkeling vaardigheden",
-        "Werkgelegenheid voor en inclusie van mensen met een beperking",
-        "Maatregelen tegen geweld en intimidatie op de werkvloer",
-        "Diversiteit"
-      ]
-    },
-    {
-      "Esrs": "ESRS S1",
-      "TopicName": "Eigen personeel",
-      "SubTopics": [
-        "Andere arbeidsrechten"
-      ],
-      "SubSubTopics": [
-        "Kinderarbeid",
-        "Gedwongen arbeid",
-        "Adequate huisvesting",
-        "Privacy"
-      ]
-    },
-    {
-      "Esrs": "ESRS S2",
-      "TopicName": "Werknemers in de waardeketen",
-      "SubTopics": [
-        "Arbeidsvoorwaarden"
-      ],
-      "SubSubTopics": [
-        "Baanzekerheid",
-        "Werktijden",
-        "Leefbaar loon",
-        "Sociale dialoog",
-        "Vrijheid van vereniging, incl. bestaan ondernemingsraden",
-        "Collectieve onderhandelingen",
-        "Werk-privébalans",
-        "Veiligheid en gezondheid"
-      ]
-    },
-    {
-      "Esrs": "ESRS S2",
-      "TopicName": "Werknemers in de waardeketen",
-      "SubTopics": [
-        "Gelijke behandeling en gelijke kansen voor iedereen"
-      ],
-      "SubSubTopics": [
-        "Gendergelijkheid en gelijke beloning bij gelijkwaardig werk",
-        "Opleiding en ontwikkeling vaardigheden",
-        "Werkgelegenheid voor en inclusie van mensen met een beperking",
-        "Maatregelen tegen geweld en intimidatie op de werkvloer",
-        "Diversiteit"
+        {
+          "Name": "Baanzekerheid"
+        },
+        {
+          "Name": "Werktijden"
+        },
+        {
+          "Name": "Leefbaar loon"
+        },
+        {
+          "Name": "Sociale dialoog"
+        },
+        {
+          "Name": "Vrijheid van vereniging, het bestaan van ondernemingsraden, en de informatie-, consultatie- en participatierechten van werknemers"
+        },
+        {
+          "Name": "Collectieve onderhandelingen, incl. cao-dekkingsgraad werknemers"
+        },
+        {
+          "Name": "Werk-privébalans"
+        },
+        {
+          "Name": "Veiligheid en gezondheid"
+        },
+        {
+          "Name": "Gendergelijkheid en gelijke beloning bij gelijkwaardig werk"
+        },
+        {
+          "Name": "Opleiding en ontwikkeling vaardigheden"
+        },
+        {
+          "Name": "Werkgelegenheid voor en inclusie van mensen met een beperking"
+        },
+        {
+          "Name": "Maatregelen tegen geweld en intimidatie op de werkvloer"
+        },
+        {
+          "Name": "Diversiteit"
+        },
+        {
+          "Name": "Kinderarbeid"
+        },
+        {
+          "Name": "Gedwongen arbeid"
+        },
+        {
+          "Name": "Adequate huisvesting"
+        },
+        {
+          "Name": "Privacy"
+        }
       ]
     },
     {
       "Esrs": "ESRS S2",
       "TopicName": "Werknemers in de waardeketen",
       "SubTopics": [
-        "Andere arbeidsrechten"
+        {
+          "Name": "Arbeidsvoorwaarden"
+        },
+        {
+          "Name": "Gelijke behandeling en gelijke kansen voor iedereen"
+        },
+        {
+          "Name": "Andere arbeidsrechten"
+        }
       ],
       "SubSubTopics": [
-        "Kinderarbeid",
-        "Gedwongen arbeid",
-        "Adequate huisvesting",
-        "Schoon water en sanitair",
-        "Privacy"
+        {
+          "Name": "Baanzekerheid"
+        },
+        {
+          "Name": "Werktijden"
+        },
+        {
+          "Name": "Leefbaar loon"
+        },
+        {
+          "Name": "Sociale dialoog"
+        },
+        {
+          "Name": "Vrijheid van vereniging, incl. bestaan ondernemingsraden"
+        },
+        {
+          "Name": "Collectieve onderhandelingen"
+        },
+        {
+          "Name": "Werk-privébalans"
+        },
+        {
+          "Name": "Veiligheid en gezondheid"
+        },
+        {
+          "Name": "Gendergelijkheid en gelijke beloning bij gelijkwaardig werk"
+        },
+        {
+          "Name": "Opleiding en ontwikkeling vaardigheden"
+        },
+        {
+          "Name": "Werkgelegenheid voor en inclusie van mensen met een beperking"
+        },
+        {
+          "Name": "Maatregelen tegen geweld en intimidatie op de werkvloer"
+        },
+        {
+          "Name": "Diversiteit"
+        },
+        {
+          "Name": "Kinderarbeid"
+        },
+        {
+          "Name": "Gedwongen arbeid"
+        },
+        {
+          "Name": "Adequate huisvesting"
+        },
+        {
+          "Name": "Schoon water en sanitair"
+        },
+        {
+          "Name": "Privacy"
+        }
       ]
     },
     {
       "Esrs": "ESRS S3",
       "TopicName": "Getroffen gemeen-schappen",
       "SubTopics": [
-        "Economische, sociale en culturele rechten van gemeenschappen"
+        {
+          "Name": "Economische, sociale en culturele rechten van gemeenschappen"
+        },
+        {
+          "Name": "Burger- en politieke rechten van gemeenschappen"
+        },
+        {
+          "Name": "Rechten inheemse volken"
+        }
       ],
       "SubSubTopics": [
-        "Adequate huisvesting",
-        "Voldoende te eten",
-        "Schoon water en sanitair",
-        "Impact op gronden",
-        "Impact op veiligheid"
-      ]
-    },
-    {
-      "Esrs": "ESRS S3",
-      "TopicName": "Getroffen gemeen-schappen",
-      "SubTopics": [
-        "Burger- en politieke rechten van gemeenschappen"
-      ],
-      "SubSubTopics": [
-        "Vrijheid van meningsuiting",
-        "Vrijheid van vergadering",
-        "Impacts op verdedigers mensenrechten"
-      ]
-    },
-    {
-      "Esrs": "ESRS S3",
-      "TopicName": "Getroffen gemeen-schappen",
-      "SubTopics": [
-        "Rechten inheemse volken"
-      ],
-      "SubSubTopics": [
-        "Vrijwillige, voorafgaande en geïnformeerde instemming",
-        "Zelfbeschikking",
-        "Culturele rechten"
-      ]
-    },
-    {
-      "Esrs": "ESRS S4",
-      "TopicName": "Consumenten en eindgebruikers",
-      "SubTopics": [
-        "Impact op informatie voor consumenten en/of eindgebruikers"
-      ],
-      "SubSubTopics": [
-        "Privacy",
-        "Vrijheid van meningsuiting",
-        "Toegang tot (kwalitatieve) informatie"
-      ]
-    },
-    {
-      "Esrs": "ESRS S4",
-      "TopicName": "Consumenten en eindgebruikers",
-      "SubTopics": [
-        "Persoonlijke veiligheid consumenten en/of eindgebruikers"
-      ],
-      "SubSubTopics": [
-        "Veiligheid en gezondheid",
-        "Veiligheid van een persoon",
-        "Bescherming kinderen"
+        {
+          "Name": "Adequate huisvesting"
+        },
+        {
+          "Name": "Voldoende te eten"
+        },
+        {
+          "Name": "Schoon water en sanitair"
+        },
+        {
+          "Name": "Impact op gronden"
+        },
+        {
+          "Name": "Impact op veiligheid"
+        },
+        {
+          "Name": "Vrijheid van meningsuiting"
+        },
+        {
+          "Name": "Vrijheid van vergadering"
+        },
+        {
+          "Name": "Impacts op verdedigers mensenrechten"
+        },
+        {
+          "Name": "Vrijwillige, voorafgaande en geïnformeerde instemming"
+        },
+        {
+          "Name": "Zelfbeschikking"
+        },
+        {
+          "Name": "Culturele rechten"
+        }
       ]
     },
     {
       "Esrs": "ESRS S4",
       "TopicName": "Consumenten en eindgebruikers",
       "SubTopics": [
-        "Sociale inclusie consumenten en/of eindgebruikers"
+        {
+          "Name": "Impact op informatie voor consumenten en/of eindgebruikers"
+        },
+        {
+          "Name": "Persoonlijke veiligheid consumenten en/of eindgebruikers"
+        },
+        {
+          "Name": "Sociale inclusie consumenten en/of eindgebruikers"
+        }
       ],
       "SubSubTopics": [
-        "Non-discriminatie",
-        "Toegang tot producten en diensten",
-        "Maatschappelijk verantwoorde marketingpraktijken"
+        {
+          "Name": "Privacy"
+        },
+        {
+          "Name": "Vrijheid van meningsuiting"
+        },
+        {
+          "Name": "Toegang tot (kwalitatieve) informatie"
+        },
+        {
+          "Name": "Veiligheid en gezondheid"
+        },
+        {
+          "Name": "Veiligheid van een persoon"
+        },
+        {
+          "Name": "Bescherming kinderen"
+        },
+        {
+          "Name": "Non-discriminatie"
+        },
+        {
+          "Name": "Toegang tot producten en diensten"
+        },
+        {
+          "Name": "Maatschappelijk verantwoorde marketingpraktijken"
+        }
       ]
     },
     {
       "Esrs": "ESRS G1",
       "TopicName": "Zakelijk gedrag",
       "SubTopics": [
-        "Bedrijfscultuur",
-        "Bescherming klokkenluiders",
-        "Dierenwelzijn",
-        "Verhouding met de politiek en lobbyactiviteiten",
-        "Beheer relaties met leveranciers, incl. betalingspraktijken"
-      ],
-      "SubSubTopics": []
-    },
-    {
-      "Esrs": "ESRS G1",
-      "TopicName": "Zakelijk gedrag",
-      "SubTopics": [
-        "Corruptie en omkoping"
+        {
+          "Name": "Bedrijfscultuur"
+        },
+        {
+          "Name": "Bescherming klokkenluiders"
+        },
+        {
+          "Name": "Dierenwelzijn"
+        },
+        {
+          "Name": "Verhouding met de politiek en lobbyactiviteiten"
+        },
+        {
+          "Name": "Beheer relaties met leveranciers, incl. betalingspraktijken"
+        },
+        {
+          "Name": "Corruptie en omkoping"
+        }
       ],
       "SubSubTopics": [
-        "Preventie en opsporing, incl. opleiding",
-        "Incidenten"
+        {
+          "Name": "Preventie en opsporing, incl. opleiding"
+        },
+        {
+          "Name": "Incidenten"
+        }
       ]
     }
   ]

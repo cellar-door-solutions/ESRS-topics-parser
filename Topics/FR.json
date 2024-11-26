@@ -1,4 +1,6 @@
 {
+  "LanguageCode": "FR",
+  "Language": "Français",
   "Topic": "Thème",
   "SubTopic": "Sous-thème",
   "SubSubTopic": "Sous-sous-thème",
@@ -7,9 +9,15 @@
       "Esrs": "ESRS E1",
       "TopicName": "Changement climatique",
       "SubTopics": [
-        "Adaptation au changement climatique",
-        "Atténuation du changement climatique",
-        "Énergie"
+        {
+          "Name": "Adaptation au changement climatique"
+        },
+        {
+          "Name": "Atténuation du changement climatique"
+        },
+        {
+          "Name": "Énergie"
+        }
       ],
       "SubSubTopics": []
     },
@@ -17,13 +25,27 @@
       "Esrs": "ESRS E2",
       "TopicName": "Pollution",
       "SubTopics": [
-        "Pollution de l’air",
-        "Pollution des eaux",
-        "Pollution des sols",
-        "Pollution des organismes vivants et des ressources alimentaires",
-        "Substances préoccupantes",
-        "Substances extrêmement préoccupantes",
-        "Microplastiques"
+        {
+          "Name": "Pollution de l’air"
+        },
+        {
+          "Name": "Pollution des eaux"
+        },
+        {
+          "Name": "Pollution des sols"
+        },
+        {
+          "Name": "Pollution des organismes vivants et des ressources alimentaires"
+        },
+        {
+          "Name": "Substances préoccupantes"
+        },
+        {
+          "Name": "Substances extrêmement préoccupantes"
+        },
+        {
+          "Name": "Microplastiques"
+        }
       ],
       "SubSubTopics": []
     },
@@ -31,72 +53,97 @@
       "Esrs": "ESRS E3",
       "TopicName": "Ressources hydriques et marines",
       "SubTopics": [
-        "Eau",
-        "Ressources marines"
+        {
+          "Name": "Eau"
+        },
+        {
+          "Name": "Ressources marines"
+        }
       ],
       "SubSubTopics": [
-        "Consommation d’eau",
-        "Prélèvements d’eau",
-        "Rejet des eaux",
-        "Rejet des eaux dans les océans",
-        "Extraction et utilisation des ressources marines"
+        {
+          "Name": "Consommation d’eau"
+        },
+        {
+          "Name": "Prélèvements d’eau"
+        },
+        {
+          "Name": "Rejet des eaux"
+        },
+        {
+          "Name": "Rejet des eaux dans les océans"
+        },
+        {
+          "Name": "Extraction et utilisation des ressources marines"
+        }
       ]
     },
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodiversité et écosystèmes",
       "SubTopics": [
-        "Vecteurs directs de perte de biodiversité"
+        {
+          "Name": "Vecteurs directs de perte de biodiversité"
+        },
+        {
+          "Name": "Impacts sur l’état des espèces"
+        },
+        {
+          "Name": "Impacts sur l’étendue et l’état des écosystèmes"
+        },
+        {
+          "Name": "Impacts et dépendances sur les services écosystémiques"
+        }
       ],
       "SubSubTopics": [
-        "Changement climatique",
-        "Changement d’affectation des terres, changement d’utilisation de l’eau douce et des mers",
-        "Exploitation directe",
-        "Espèces exotiques envahissantes",
-        "Pollution",
-        "Autres"
+        {
+          "Name": "Changement climatique"
+        },
+        {
+          "Name": "Changement d’affectation des terres, changement d’utilisation de l’eau douce et des mers"
+        },
+        {
+          "Name": "Exploitation directe"
+        },
+        {
+          "Name": "Espèces exotiques envahissantes"
+        },
+        {
+          "Name": "Pollution"
+        },
+        {
+          "Name": "Autres"
+        },
+        {
+          "Name": "Taille des populations d’espèces"
+        },
+        {
+          "Name": "Risque d’extinction mondiale des espèces"
+        },
+        {
+          "Name": "Dégradation des sols"
+        },
+        {
+          "Name": "Désertification"
+        },
+        {
+          "Name": "Imperméabilisation des sols"
+        }
       ]
-    },
-    {
-      "Esrs": "ESRS E4",
-      "TopicName": "Biodiversité et écosystèmes",
-      "SubTopics": [
-        "Impacts sur l’état des espèces"
-      ],
-      "SubSubTopics": [
-        "Exemples:",
-        "Taille des populations d’espèces",
-        "Risque d’extinction mondiale des espèces"
-      ]
-    },
-    {
-      "Esrs": "ESRS E4",
-      "TopicName": "Biodiversité et écosystèmes",
-      "SubTopics": [
-        "Impacts sur l’étendue et l’état des écosystèmes"
-      ],
-      "SubSubTopics": [
-        "Exemples:",
-        "Dégradation des sols",
-        "Désertification",
-        "Imperméabilisation des sols"
-      ]
-    },
-    {
-      "Esrs": "ESRS E4",
-      "TopicName": "Biodiversité et écosystèmes",
-      "SubTopics": [
-        "Impacts et dépendances sur les services écosystémiques"
-      ],
-      "SubSubTopics": []
     },
     {
       "Esrs": "ESRS E5",
       "TopicName": "Économie circulaire",
       "SubTopics": [
-        "Flux de ressources entrants, y compris l’utilisation des ressources",
-        "Flux de ressources sortants liés aux produits et services",
-        "Déchets"
+        {
+          "Name": "Flux de ressources entrants, y compris l’utilisation des ressources"
+        },
+        {
+          "Name": "Flux de ressources sortants liés aux produits et services"
+        },
+        {
+          "Name": "Déchets"
+        }
       ],
       "SubSubTopics": []
     },
@@ -104,186 +151,265 @@
       "Esrs": "ESRS S1",
       "TopicName": "Personnel de l’entreprise",
       "SubTopics": [
-        "Conditions de travail"
+        {
+          "Name": "Conditions de travail"
+        },
+        {
+          "Name": "Égalité de traitement et égalité des chances pour tous"
+        },
+        {
+          "Name": "Autres droits liés au travail"
+        }
       ],
       "SubSubTopics": [
-        "Sécurité de l’emploi",
-        "Temps de travail",
-        "Salaires décents",
-        "Dialogue social",
-        "Liberté d’association, existence de comités d’entreprise et droits des travailleurs à l’information, à la consultation et à la participation",
-        "Négociation collective, y compris la proportion de travailleurs couverts par des conventions collectives",
-        "Équilibre entre vie professionnelle et vie privée",
-        "Santé et sécurité"
-      ]
-    },
-    {
-      "Esrs": "ESRS S1",
-      "TopicName": "Personnel de l’entreprise",
-      "SubTopics": [
-        "Égalité de traitement et égalité des chances pour tous"
-      ],
-      "SubSubTopics": [
-        "Égalité de genre et égalité de rémunération pour un travail de valeur égale",
-        "Formation et développement des compétences",
-        "Emploi et inclusion des personnes handicapées",
-        "Mesures de lutte contre la violence et le harcèlement sur le lieu de travail",
-        "Diversité"
-      ]
-    },
-    {
-      "Esrs": "ESRS S1",
-      "TopicName": "Personnel de l’entreprise",
-      "SubTopics": [
-        "Autres droits liés au travail"
-      ],
-      "SubSubTopics": [
-        "Travail des enfants",
-        "Travail forcé",
-        "Logement adéquat",
-        "Protection de la vie privée"
-      ]
-    },
-    {
-      "Esrs": "ESRS S2",
-      "TopicName": "Travailleurs de la chaîne de valeur",
-      "SubTopics": [
-        "Conditions de travail"
-      ],
-      "SubSubTopics": [
-        "Sécurité de l’emploi",
-        "Temps de travail",
-        "Salaires décents",
-        "Dialogue social",
-        "Liberté d’association, y compris l’existence de comités d’entreprise",
-        "Négociations collectives",
-        "Équilibre entre vie professionnelle et vie privée",
-        "Santé et sécurité"
-      ]
-    },
-    {
-      "Esrs": "ESRS S2",
-      "TopicName": "Travailleurs de la chaîne de valeur",
-      "SubTopics": [
-        "Égalité de traitement et égalité des chances pour tous"
-      ],
-      "SubSubTopics": [
-        "Égalité de genre et égalité de rémunération pour un travail de valeur égale",
-        "Formation et développement des compétences",
-        "Emploi et inclusion des personnes handicapées",
-        "Mesures de lutte contre la violence et le harcèlement sur le lieu de travail",
-        "Diversité"
+        {
+          "Name": "Sécurité de l’emploi"
+        },
+        {
+          "Name": "Temps de travail"
+        },
+        {
+          "Name": "Salaires décents"
+        },
+        {
+          "Name": "Dialogue social"
+        },
+        {
+          "Name": "Liberté d’association, existence de comités d’entreprise et droits des travailleurs à l’information, à la consultation et à la participation"
+        },
+        {
+          "Name": "Négociation collective, y compris la proportion de travailleurs couverts par des conventions collectives"
+        },
+        {
+          "Name": "Équilibre entre vie professionnelle et vie privée"
+        },
+        {
+          "Name": "Santé et sécurité"
+        },
+        {
+          "Name": "Égalité de genre et égalité de rémunération pour un travail de valeur égale"
+        },
+        {
+          "Name": "Formation et développement des compétences"
+        },
+        {
+          "Name": "Emploi et inclusion des personnes handicapées"
+        },
+        {
+          "Name": "Mesures de lutte contre la violence et le harcèlement sur le lieu de travail"
+        },
+        {
+          "Name": "Diversité"
+        },
+        {
+          "Name": "Travail des enfants"
+        },
+        {
+          "Name": "Travail forcé"
+        },
+        {
+          "Name": "Logement adéquat"
+        },
+        {
+          "Name": "Protection de la vie privée"
+        }
       ]
     },
     {
       "Esrs": "ESRS S2",
       "TopicName": "Travailleurs de la chaîne de valeur",
       "SubTopics": [
-        "Autres droits liés au travail"
+        {
+          "Name": "Conditions de travail"
+        },
+        {
+          "Name": "Égalité de traitement et égalité des chances pour tous"
+        },
+        {
+          "Name": "Autres droits liés au travail"
+        }
       ],
       "SubSubTopics": [
-        "Travail des enfants",
-        "Travail forcé",
-        "Logement adéquat",
-        "Eau et assainissement",
-        "Protection de la vie privée"
+        {
+          "Name": "Sécurité de l’emploi"
+        },
+        {
+          "Name": "Temps de travail"
+        },
+        {
+          "Name": "Salaires décents"
+        },
+        {
+          "Name": "Dialogue social"
+        },
+        {
+          "Name": "Liberté d’association, y compris l’existence de comités d’entreprise"
+        },
+        {
+          "Name": "Négociations collectives"
+        },
+        {
+          "Name": "Équilibre entre vie professionnelle et vie privée"
+        },
+        {
+          "Name": "Santé et sécurité"
+        },
+        {
+          "Name": "Égalité de genre et égalité de rémunération pour un travail de valeur égale"
+        },
+        {
+          "Name": "Formation et développement des compétences"
+        },
+        {
+          "Name": "Emploi et inclusion des personnes handicapées"
+        },
+        {
+          "Name": "Mesures de lutte contre la violence et le harcèlement sur le lieu de travail"
+        },
+        {
+          "Name": "Diversité"
+        },
+        {
+          "Name": "Travail des enfants"
+        },
+        {
+          "Name": "Travail forcé"
+        },
+        {
+          "Name": "Logement adéquat"
+        },
+        {
+          "Name": "Eau et assainissement"
+        },
+        {
+          "Name": "Protection de la vie privée"
+        }
       ]
     },
     {
       "Esrs": "ESRS S3",
       "TopicName": "Communautés affectées",
       "SubTopics": [
-        "Droits économiques, sociaux et culturels des communautés"
+        {
+          "Name": "Droits économiques, sociaux et culturels des communautés"
+        },
+        {
+          "Name": "Droits civils et politiques des communautés"
+        },
+        {
+          "Name": "Droits des peuples autochtones"
+        }
       ],
       "SubSubTopics": [
-        "Logement adéquat",
-        "Alimentation adéquate",
-        "Eau et assainissement",
-        "Impacts liés à la terre",
-        "Impacts liés à la sécurité"
-      ]
-    },
-    {
-      "Esrs": "ESRS S3",
-      "TopicName": "Communautés affectées",
-      "SubTopics": [
-        "Droits civils et politiques des communautés"
-      ],
-      "SubSubTopics": [
-        "Liberté d’expression",
-        "Liberté de réunion",
-        "Impacts sur les défenseurs des droits de l’homme"
-      ]
-    },
-    {
-      "Esrs": "ESRS S3",
-      "TopicName": "Communautés affectées",
-      "SubTopics": [
-        "Droits des peuples autochtones"
-      ],
-      "SubSubTopics": [
-        "Consentement préalable, donné librement et en connaissance de cause",
-        "Auto-détermination",
-        "Droits culturels"
-      ]
-    },
-    {
-      "Esrs": "ESRS S4",
-      "TopicName": "Consommateurs et utilisateurs finaux",
-      "SubTopics": [
-        "Impacts liés aux informations sur les consommateurs et/ou les utilisateurs finaux"
-      ],
-      "SubSubTopics": [
-        "Protection de la vie privée",
-        "Liberté d’expression",
-        "Accès à l’information (de qualité)"
-      ]
-    },
-    {
-      "Esrs": "ESRS S4",
-      "TopicName": "Consommateurs et utilisateurs finaux",
-      "SubTopics": [
-        "Sécurité des consommateurs et/ou des utilisateurs finaux"
-      ],
-      "SubSubTopics": [
-        "Santé et sécurité",
-        "Sécurité de la personne",
-        "Protection des enfants"
+        {
+          "Name": "Logement adéquat"
+        },
+        {
+          "Name": "Alimentation adéquate"
+        },
+        {
+          "Name": "Eau et assainissement"
+        },
+        {
+          "Name": "Impacts liés à la terre"
+        },
+        {
+          "Name": "Impacts liés à la sécurité"
+        },
+        {
+          "Name": "Liberté d’expression"
+        },
+        {
+          "Name": "Liberté de réunion"
+        },
+        {
+          "Name": "Impacts sur les défenseurs des droits de l’homme"
+        },
+        {
+          "Name": "Consentement préalable, donné librement et en connaissance de cause"
+        },
+        {
+          "Name": "Auto-détermination"
+        },
+        {
+          "Name": "Droits culturels"
+        }
       ]
     },
     {
       "Esrs": "ESRS S4",
       "TopicName": "Consommateurs et utilisateurs finaux",
       "SubTopics": [
-        "Inclusion sociale des consommateurs et/ou des utilisateurs finaux"
+        {
+          "Name": "Impacts liés aux informations sur les consommateurs et/ou les utilisateurs finaux"
+        },
+        {
+          "Name": "Sécurité des consommateurs et/ou des utilisateurs finaux"
+        },
+        {
+          "Name": "Inclusion sociale des consommateurs et/ou des utilisateurs finaux"
+        }
       ],
       "SubSubTopics": [
-        "Non-discrimination",
-        "Accès aux produits et services",
-        "Pratiques de commercialisation responsables"
+        {
+          "Name": "Protection de la vie privée"
+        },
+        {
+          "Name": "Liberté d’expression"
+        },
+        {
+          "Name": "Accès à l’information (de qualité)"
+        },
+        {
+          "Name": "Santé et sécurité"
+        },
+        {
+          "Name": "Sécurité de la personne"
+        },
+        {
+          "Name": "Protection des enfants"
+        },
+        {
+          "Name": "Non-discrimination"
+        },
+        {
+          "Name": "Accès aux produits et services"
+        },
+        {
+          "Name": "Pratiques de commercialisation responsables"
+        }
       ]
     },
     {
       "Esrs": "ESRS G1",
       "TopicName": "Conduite des affaires",
       "SubTopics": [
-        "Culture d’entreprise",
-        "Protection des lanceurs d’alerte",
-        "Bien-être animal",
-        "Dialogue politique et activités de lobbying",
-        "Gestion des relations avec les fournisseurs, y compris les pratiques en matière de paiement"
-      ],
-      "SubSubTopics": []
-    },
-    {
-      "Esrs": "ESRS G1",
-      "TopicName": "Conduite des affaires",
-      "SubTopics": [
-        "Corruption et versement de pots-de-vin"
+        {
+          "Name": "Culture d’entreprise"
+        },
+        {
+          "Name": "Protection des lanceurs d’alerte"
+        },
+        {
+          "Name": "Bien-être animal"
+        },
+        {
+          "Name": "Dialogue politique et activités de lobbying"
+        },
+        {
+          "Name": "Gestion des relations avec les fournisseurs, y compris les pratiques en matière de paiement"
+        },
+        {
+          "Name": "Corruption et versement de pots-de-vin"
+        }
       ],
       "SubSubTopics": [
-        "Prévention et détection, y compris les formations",
-        "Incidents/Cas"
+        {
+          "Name": "Prévention et détection, y compris les formations"
+        },
+        {
+          "Name": "Incidents/Cas"
+        }
       ]
     }
   ]

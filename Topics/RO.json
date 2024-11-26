@@ -1,4 +1,6 @@
 {
+  "LanguageCode": "RO",
+  "Language": "Română",
   "Topic": "Temă",
   "SubTopic": "Subtemă",
   "SubSubTopic": "Sub-subteme",
@@ -7,9 +9,15 @@
       "Esrs": "ESRS E1",
       "TopicName": "Schimbările climatice",
       "SubTopics": [
-        "Adaptarea la schimbările climatice",
-        "Atenuarea schimbărilor climatice",
-        "Eficiența"
+        {
+          "Name": "Adaptarea la schimbările climatice"
+        },
+        {
+          "Name": "Atenuarea schimbărilor climatice"
+        },
+        {
+          "Name": "Eficiența"
+        }
       ],
       "SubSubTopics": []
     },
@@ -17,13 +25,27 @@
       "Esrs": "ESRS E2",
       "TopicName": "Poluare",
       "SubTopics": [
-        "Poluarea aerului",
-        "Poluarea apei",
-        "Poluarea solului",
-        "Poluarea organismelor vii și a resurselor alimentare",
-        "Substanțele care prezintă motive de îngrijorare",
-        "Substanțele care prezintă motive de îngrijorare deosebită",
-        "Microplasticele"
+        {
+          "Name": "Poluarea aerului"
+        },
+        {
+          "Name": "Poluarea apei"
+        },
+        {
+          "Name": "Poluarea solului"
+        },
+        {
+          "Name": "Poluarea organismelor vii și a resurselor alimentare"
+        },
+        {
+          "Name": "Substanțele care prezintă motive de îngrijorare"
+        },
+        {
+          "Name": "Substanțele care prezintă motive de îngrijorare deosebită"
+        },
+        {
+          "Name": "Microplasticele"
+        }
       ],
       "SubSubTopics": []
     },
@@ -31,72 +53,97 @@
       "Esrs": "ESRS E3",
       "TopicName": "Resursele de apă și cele marine",
       "SubTopics": [
-        "Resursele de apă",
-        "Resursele marine"
+        {
+          "Name": "Resursele de apă"
+        },
+        {
+          "Name": "Resursele marine"
+        }
       ],
       "SubSubTopics": [
-        "Consumul de apă",
-        "Prelevările de apă",
-        "Deversarea apelor",
-        "Deversarea apelor în oceane",
-        "Extracția și utilizarea resurselor marine"
+        {
+          "Name": "Consumul de apă"
+        },
+        {
+          "Name": "Prelevările de apă"
+        },
+        {
+          "Name": "Deversarea apelor"
+        },
+        {
+          "Name": "Deversarea apelor în oceane"
+        },
+        {
+          "Name": "Extracția și utilizarea resurselor marine"
+        }
       ]
     },
     {
       "Esrs": "ESRS E4",
       "TopicName": "Biodiversitatea și ecosistemele",
       "SubTopics": [
-        "Factorii determinanți ai impactului direct asupra declinului biodiversității"
+        {
+          "Name": "Factorii determinanți ai impactului direct asupra declinului biodiversității"
+        },
+        {
+          "Name": "Impacturile asupra stării speciilor"
+        },
+        {
+          "Name": "Impacturile asupra întinderii și stării ecosistemelor"
+        },
+        {
+          "Name": "Impacturile și dependențele de serviciile ecosistemice"
+        }
       ],
       "SubSubTopics": [
-        "Schimbările climatice",
-        "Schimbarea destinației terenurilor, schimbarea destinației apei dulci și schimbarea destinației mării",
-        "Exploatarea directă",
-        "Speciile alogene invazive",
-        "Poluare",
-        "Altele"
+        {
+          "Name": "Schimbările climatice"
+        },
+        {
+          "Name": "Schimbarea destinației terenurilor, schimbarea destinației apei dulci și schimbarea destinației mării"
+        },
+        {
+          "Name": "Exploatarea directă"
+        },
+        {
+          "Name": "Speciile alogene invazive"
+        },
+        {
+          "Name": "Poluare"
+        },
+        {
+          "Name": "Altele"
+        },
+        {
+          "Name": "Dimensiunea populației speciei"
+        },
+        {
+          "Name": "Riscul de dispariție la nivel mondial a speciilor"
+        },
+        {
+          "Name": "Degradarea solurilor"
+        },
+        {
+          "Name": "Deșertificare"
+        },
+        {
+          "Name": "Impermeabilizarea solului"
+        }
       ]
-    },
-    {
-      "Esrs": "ESRS E4",
-      "TopicName": "Biodiversitatea și ecosistemele",
-      "SubTopics": [
-        "Impacturile asupra stării speciilor"
-      ],
-      "SubSubTopics": [
-        "Exemple:",
-        "Dimensiunea populației speciei",
-        "Riscul de dispariție la nivel mondial a speciilor"
-      ]
-    },
-    {
-      "Esrs": "ESRS E4",
-      "TopicName": "Biodiversitatea și ecosistemele",
-      "SubTopics": [
-        "Impacturile asupra întinderii și stării ecosistemelor"
-      ],
-      "SubSubTopics": [
-        "Exemple:",
-        "Degradarea solurilor",
-        "Deșertificare",
-        "Impermeabilizarea solului"
-      ]
-    },
-    {
-      "Esrs": "ESRS E4",
-      "TopicName": "Biodiversitatea și ecosistemele",
-      "SubTopics": [
-        "Impacturile și dependențele de serviciile ecosistemice"
-      ],
-      "SubSubTopics": []
     },
     {
       "Esrs": "ESRS E5",
       "TopicName": "Economie circulară",
       "SubTopics": [
-        "Intrările de resurse, inclusiv utilizarea resurselor",
-        "Ieșirile de resurse legate de produse și servicii",
-        "Deșeurile"
+        {
+          "Name": "Intrările de resurse, inclusiv utilizarea resurselor"
+        },
+        {
+          "Name": "Ieșirile de resurse legate de produse și servicii"
+        },
+        {
+          "Name": "Deșeurile"
+        }
       ],
       "SubSubTopics": []
     },
@@ -104,186 +151,265 @@
       "Esrs": "ESRS S1",
       "TopicName": "Forța de muncă proprie",
       "SubTopics": [
-        "Condiții de muncă"
+        {
+          "Name": "Condiții de muncă"
+        },
+        {
+          "Name": "Egalitatea de tratament și de șanse pentru toți"
+        },
+        {
+          "Name": "Alte drepturi legate de muncă"
+        }
       ],
       "SubSubTopics": [
-        "Locuri de muncă sigure",
-        "Timpul de lucru",
-        "Salarii adecvate",
-        "Dialog social",
-        "Libertatea de asociere, existența comitetelor de întreprindere și drepturile de informare, consultare și participare ale lucrătorilor",
-        "Negocierea colectivă, inclusiv proporția lucrătorilor care fac obiectul contractelor colective de muncă",
-        "Echilibru între viața profesională și cea privată",
-        "Sănătatea și siguranța"
-      ]
-    },
-    {
-      "Esrs": "ESRS S1",
-      "TopicName": "Forța de muncă proprie",
-      "SubTopics": [
-        "Egalitatea de tratament și de șanse pentru toți"
-      ],
-      "SubSubTopics": [
-        "Egalitatea de gen și plata egală pentru muncă de valoare egală",
-        "Formare și dezvoltarea competențelor",
-        "Ocuparea forței de muncă și incluziunea persoanelor cu dizabilități",
-        "Măsuri împotriva violenței și a hărțuirii la locul de muncă",
-        "Diversitatea"
-      ]
-    },
-    {
-      "Esrs": "ESRS S1",
-      "TopicName": "Forța de muncă proprie",
-      "SubTopics": [
-        "Alte drepturi legate de muncă"
-      ],
-      "SubSubTopics": [
-        "Munca copiilor",
-        "Muncă forțată",
-        "Locuințe adecvate",
-        "Confidențialitatea"
-      ]
-    },
-    {
-      "Esrs": "ESRS S2",
-      "TopicName": "Lucrătorii din lanțul valoric",
-      "SubTopics": [
-        "Condiții de muncă"
-      ],
-      "SubSubTopics": [
-        "Locuri de muncă sigure",
-        "Timpul de lucru",
-        "Salarii adecvate",
-        "Dialog social",
-        "Libertatea de asociere, inclusiv existența comitetelor de întreprindere",
-        "Negocierea colectivă",
-        "Echilibru între viața profesională și cea privată",
-        "Sănătatea și siguranța"
-      ]
-    },
-    {
-      "Esrs": "ESRS S2",
-      "TopicName": "Lucrătorii din lanțul valoric",
-      "SubTopics": [
-        "Egalitatea de tratament și de șanse pentru toți"
-      ],
-      "SubSubTopics": [
-        "Egalitatea de gen și plata egală pentru muncă de valoare egală",
-        "Formare și dezvoltarea competențelor",
-        "Ocuparea forței de muncă și incluziunea persoanelor cu dizabilități",
-        "Măsuri împotriva violenței și a hărțuirii la locul de muncă",
-        "Diversitatea"
+        {
+          "Name": "Locuri de muncă sigure"
+        },
+        {
+          "Name": "Timpul de lucru"
+        },
+        {
+          "Name": "Salarii adecvate"
+        },
+        {
+          "Name": "Dialog social"
+        },
+        {
+          "Name": "Libertatea de asociere, existența comitetelor de întreprindere și drepturile de informare, consultare și participare ale lucrătorilor"
+        },
+        {
+          "Name": "Negocierea colectivă, inclusiv proporția lucrătorilor care fac obiectul contractelor colective de muncă"
+        },
+        {
+          "Name": "Echilibru între viața profesională și cea privată"
+        },
+        {
+          "Name": "Sănătatea și siguranța"
+        },
+        {
+          "Name": "Egalitatea de gen și plata egală pentru muncă de valoare egală"
+        },
+        {
+          "Name": "Formare și dezvoltarea competențelor"
+        },
+        {
+          "Name": "Ocuparea forței de muncă și incluziunea persoanelor cu dizabilități"
+        },
+        {
+          "Name": "Măsuri împotriva violenței și a hărțuirii la locul de muncă"
+        },
+        {
+          "Name": "Diversitatea"
+        },
+        {
+          "Name": "Munca copiilor"
+        },
+        {
+          "Name": "Muncă forțată"
+        },
+        {
+          "Name": "Locuințe adecvate"
+        },
+        {
+          "Name": "Confidențialitatea"
+        }
       ]
     },
     {
       "Esrs": "ESRS S2",
       "TopicName": "Lucrătorii din lanțul valoric",
       "SubTopics": [
-        "Alte drepturi legate de muncă"
+        {
+          "Name": "Condiții de muncă"
+        },
+        {
+          "Name": "Egalitatea de tratament și de șanse pentru toți"
+        },
+        {
+          "Name": "Alte drepturi legate de muncă"
+        }
       ],
       "SubSubTopics": [
-        "Munca copiilor",
-        "Muncă forțată",
-        "Locuințe adecvate",
-        "Apa și salubritatea",
-        "Confidențialitatea"
+        {
+          "Name": "Locuri de muncă sigure"
+        },
+        {
+          "Name": "Timpul de lucru"
+        },
+        {
+          "Name": "Salarii adecvate"
+        },
+        {
+          "Name": "Dialog social"
+        },
+        {
+          "Name": "Libertatea de asociere, inclusiv existența comitetelor de întreprindere"
+        },
+        {
+          "Name": "Negocierea colectivă"
+        },
+        {
+          "Name": "Echilibru între viața profesională și cea privată"
+        },
+        {
+          "Name": "Sănătatea și siguranța"
+        },
+        {
+          "Name": "Egalitatea de gen și plata egală pentru muncă de valoare egală"
+        },
+        {
+          "Name": "Formare și dezvoltarea competențelor"
+        },
+        {
+          "Name": "Ocuparea forței de muncă și incluziunea persoanelor cu dizabilități"
+        },
+        {
+          "Name": "Măsuri împotriva violenței și a hărțuirii la locul de muncă"
+        },
+        {
+          "Name": "Diversitatea"
+        },
+        {
+          "Name": "Munca copiilor"
+        },
+        {
+          "Name": "Muncă forțată"
+        },
+        {
+          "Name": "Locuințe adecvate"
+        },
+        {
+          "Name": "Apa și salubritatea"
+        },
+        {
+          "Name": "Confidențialitatea"
+        }
       ]
     },
     {
       "Esrs": "ESRS S3",
       "TopicName": "Comunitățile afectate",
       "SubTopics": [
-        "Drepturile economice, sociale și culturale ale comunităților"
+        {
+          "Name": "Drepturile economice, sociale și culturale ale comunităților"
+        },
+        {
+          "Name": "Drepturile civile și politice ale comunităților"
+        },
+        {
+          "Name": "Drepturile populațiilor indigene"
+        }
       ],
       "SubSubTopics": [
-        "Locuințe adecvate",
-        "Hrană adecvată",
-        "Apa și salubritatea",
-        "Impacturi legate de soluri",
-        "Impacturi legate de securitate"
-      ]
-    },
-    {
-      "Esrs": "ESRS S3",
-      "TopicName": "Comunitățile afectate",
-      "SubTopics": [
-        "Drepturile civile și politice ale comunităților"
-      ],
-      "SubSubTopics": [
-        "Libertatea de exprimare",
-        "Libertatea de întrunire",
-        "Impactul asupra apărătorilor drepturilor omului"
-      ]
-    },
-    {
-      "Esrs": "ESRS S3",
-      "TopicName": "Comunitățile afectate",
-      "SubTopics": [
-        "Drepturile populațiilor indigene"
-      ],
-      "SubSubTopics": [
-        "Consimțământ liber, prealabil și în cunoștință de cauză",
-        "Autodeterminarea",
-        "Drepturile culturale"
-      ]
-    },
-    {
-      "Esrs": "ESRS S4",
-      "TopicName": "Consumatorii și utilizatorii finali",
-      "SubTopics": [
-        "Impacturile legate de informare pentru consumatori și/sau utilizatorii finali"
-      ],
-      "SubSubTopics": [
-        "Confidențialitatea",
-        "Libertatea de exprimare",
-        "Accesul la informații (de calitate)"
-      ]
-    },
-    {
-      "Esrs": "ESRS S4",
-      "TopicName": "Consumatorii și utilizatorii finali",
-      "SubTopics": [
-        "Siguranța personală a consumatorilor și/sau a utilizatorilor finali"
-      ],
-      "SubSubTopics": [
-        "Sănătatea și siguranța",
-        "Securitatea unei persoane",
-        "Protecția copilului"
+        {
+          "Name": "Locuințe adecvate"
+        },
+        {
+          "Name": "Hrană adecvată"
+        },
+        {
+          "Name": "Apa și salubritatea"
+        },
+        {
+          "Name": "Impacturi legate de soluri"
+        },
+        {
+          "Name": "Impacturi legate de securitate"
+        },
+        {
+          "Name": "Libertatea de exprimare"
+        },
+        {
+          "Name": "Libertatea de întrunire"
+        },
+        {
+          "Name": "Impactul asupra apărătorilor drepturilor omului"
+        },
+        {
+          "Name": "Consimțământ liber, prealabil și în cunoștință de cauză"
+        },
+        {
+          "Name": "Autodeterminarea"
+        },
+        {
+          "Name": "Drepturile culturale"
+        }
       ]
     },
     {
       "Esrs": "ESRS S4",
       "TopicName": "Consumatorii și utilizatorii finali",
       "SubTopics": [
-        "Incluziunea socială a consumatorilor și/sau a utilizatorilor finali"
+        {
+          "Name": "Impacturile legate de informare pentru consumatori și/sau utilizatorii finali"
+        },
+        {
+          "Name": "Siguranța personală a consumatorilor și/sau a utilizatorilor finali"
+        },
+        {
+          "Name": "Incluziunea socială a consumatorilor și/sau a utilizatorilor finali"
+        }
       ],
       "SubSubTopics": [
-        "Nediscriminarea",
-        "Accesul la produse și servicii",
-        "Practici de comercializare responsabile"
+        {
+          "Name": "Confidențialitatea"
+        },
+        {
+          "Name": "Libertatea de exprimare"
+        },
+        {
+          "Name": "Accesul la informații (de calitate)"
+        },
+        {
+          "Name": "Sănătatea și siguranța"
+        },
+        {
+          "Name": "Securitatea unei persoane"
+        },
+        {
+          "Name": "Protecția copilului"
+        },
+        {
+          "Name": "Nediscriminarea"
+        },
+        {
+          "Name": "Accesul la produse și servicii"
+        },
+        {
+          "Name": "Practici de comercializare responsabile"
+        }
       ]
     },
     {
       "Esrs": "ESRS G1",
       "TopicName": "Conduita profesională",
       "SubTopics": [
-        "Cultură corporativă",
-        "Protecția avertizorilor",
-        "Bunăstarea animalelor",
-        "Angajamentul politic și activitățile de lobby",
-        "Gestionarea relațiilor cu furnizorii, inclusiv practicile de plată"
-      ],
-      "SubSubTopics": []
-    },
-    {
-      "Esrs": "ESRS G1",
-      "TopicName": "Conduita profesională",
-      "SubTopics": [
-        "Corupția și mita"
+        {
+          "Name": "Cultură corporativă"
+        },
+        {
+          "Name": "Protecția avertizorilor"
+        },
+        {
+          "Name": "Bunăstarea animalelor"
+        },
+        {
+          "Name": "Angajamentul politic și activitățile de lobby"
+        },
+        {
+          "Name": "Gestionarea relațiilor cu furnizorii, inclusiv practicile de plată"
+        },
+        {
+          "Name": "Corupția și mita"
+        }
       ],
       "SubSubTopics": [
-        "și depistarea, inclusiv formarea Prevenirea",
-        "ncidente"
+        {
+          "Name": "și depistarea, inclusiv formarea Prevenirea"
+        },
+        {
+          "Name": "ncidente"
+        }
       ]
     }
   ]
